@@ -95,6 +95,7 @@
 		<item href="text/body-1906-a-suspicious-gift.xhtml" id="body-1906-a-suspicious-gift.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1906-keeping-his-promise.xhtml" id="body-1906-keeping-his-promise.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1906-skeleton-lake-an-episode-in-camp.xhtml" id="body-1906-skeleton-lake-an-episode-in-camp.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body-1906-the-wood-of-the-dead.xhtml" id="body-1906-the-wood-of-the-dead.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1907-the-willows.xhtml" id="body-1907-the-willows.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1910-the-wendigo.xhtml" id="body-1910-the-wendigo.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1922-the-olive.xhtml" id="body-1922-the-olive.xhtml" media-type="application/xhtml+xml"/>
@@ -111,6 +112,7 @@
 		<itemref idref="body-1906-a-suspicious-gift.xhtml"/>
 		<itemref idref="body-1906-keeping-his-promise.xhtml"/>
 		<itemref idref="body-1906-skeleton-lake-an-episode-in-camp.xhtml"/>
+		<itemref idref="body-1906-the-wood-of-the-dead.xhtml"/>
 		<itemref idref="body-1907-the-willows.xhtml"/>
 		<itemref idref="body-1910-the-wendigo.xhtml"/>
 		<itemref idref="body-1922-the-olive.xhtml"/>
