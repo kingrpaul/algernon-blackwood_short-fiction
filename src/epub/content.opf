@@ -95,6 +95,7 @@
 		<item href="text/body-1906-a-suspicious-gift.xhtml" id="body-1906-a-suspicious-gift.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1906-keeping-his-promise.xhtml" id="body-1906-keeping-his-promise.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1906-skeleton-lake-an-episode-in-camp.xhtml" id="body-1906-skeleton-lake-an-episode-in-camp.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body-1906-smith-an-episode-in-a-lodging-house.xhtml" id="body-1906-smith-an-episode-in-a-lodging-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1906-the-empty-house.xhtml" id="body-1906-the-empty-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1906-the-wood-of-the-dead.xhtml" id="body-1906-the-wood-of-the-dead.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1907-the-willows.xhtml" id="body-1907-the-willows.xhtml" media-type="application/xhtml+xml"/>
@@ -113,6 +114,7 @@
 		<itemref idref="body-1906-a-suspicious-gift.xhtml"/>
 		<itemref idref="body-1906-keeping-his-promise.xhtml"/>
 		<itemref idref="body-1906-skeleton-lake-an-episode-in-camp.xhtml"/>
+		<itemref idref="body-1906-smith-an-episode-in-a-lodging-house.xhtml"/>
 		<itemref idref="body-1906-the-empty-house.xhtml"/>
 		<itemref idref="body-1906-the-wood-of-the-dead.xhtml"/>
 		<itemref idref="body-1907-the-willows.xhtml"/>
