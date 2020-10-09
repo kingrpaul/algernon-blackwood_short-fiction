@@ -66,12 +66,17 @@
 		<dc:contributor id="transcriber-6">Michael Ciesielski</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">Ciesielski,Michael</meta>
 		<dc:contributor id="transcriber-7">Annika Feilbach</dc:contributor>
+		<dc:contributor id="transcriber-8">David Starner</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Starner, David</meta>
 		<meta property="file-as" refines="#transcriber-5">Feilbach,Annika</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
+		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
+		<meta property="role" refines="#transcriber-8" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Paul King</dc:contributor>
 		<meta property="file-as" refines="#producer-1">King, Paul </meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://kingrpaul.github.io/</meta>
@@ -158,3 +163,5 @@
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
 </package>
+
+
