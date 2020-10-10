@@ -5,3 +5,17 @@
 	text-align: left;
 	text-indent: 0;
 }
+
+[epub|type~="z3998:postscript"]{
+	margin-top: 1em;
+	text-indent: 0;
+	text-align: left;
+}
+
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+
+abbr.era{
+	font-variant: all-small-caps;
+}
