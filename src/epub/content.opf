@@ -127,6 +127,7 @@
 		<item href="text/body-1919-the-call.xhtml" id="body-1919-the-call.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1919-wireless-confusion.xhtml" id="body-1919-wireless-confusion.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1920-first-hate.xhtml" id="body-1920-first-hate.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body-1920-running-wolf.xhtml" id="body-1920-running-wolf.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1921-confession.xhtml" id="body-1921-confession.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1921-egyptian-sorcery.xhtml" id="body-1921-egyptian-sorcery.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1921-the-lane-that-ran-east-and-west.xhtml" id="body-1921-the-lane-that-ran-east-and-west.xhtml" media-type="application/xhtml+xml"/>
@@ -171,6 +172,7 @@
 		<itemref idref="body-1919-the-call.xhtml"/>
 		<itemref idref="body-1919-wireless-confusion.xhtml"/>
 		<itemref idref="body-1920-first-hate.xhtml"/>
+		<itemref idref="body-1920-running-wolf.xhtml"/>
 		<itemref idref="body-1921-confession.xhtml"/>
 		<itemref idref="body-1921-egyptian-sorcery.xhtml"/>
 		<itemref idref="body-1921-the-lane-that-ran-east-and-west.xhtml"/>
