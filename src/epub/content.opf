@@ -105,6 +105,7 @@
 		<item href="text/body-1906-the-strange-adventures-of-a-private-secretary-in-ny.xhtml" id="body-1906-the-strange-adventures-of-a-private-secretary-in-ny.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1906-the-wood-of-the-dead.xhtml" id="body-1906-the-wood-of-the-dead.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1906-with-intent-to-steal.xhtml" id="body-1906-with-intent-to-steal.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body-1907-the-insanity-of-jones.xhtml" id="body-1907-the-insanity-of-jones.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1907-the-willows.xhtml" id="body-1907-the-willows.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1908-the-occupant-of-the-room.xhtml" id="body-1908-the-occupant-of-the-room.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1910-the-wendigo.xhtml" id="body-1910-the-wendigo.xhtml" media-type="application/xhtml+xml"/>
@@ -156,6 +157,7 @@
 		<itemref idref="body-1906-the-strange-adventures-of-a-private-secretary-in-ny.xhtml"/>
 		<itemref idref="body-1906-the-wood-of-the-dead.xhtml"/>
 		<itemref idref="body-1906-with-intent-to-steal.xhtml"/>
+		<itemref idref="body-1907-the-insanity-of-jones.xhtml"/>
 		<itemref idref="body-1907-the-willows.xhtml"/>
 		<itemref idref="body-1908-the-occupant-of-the-room.xhtml"/>
 		<itemref idref="body-1910-the-wendigo.xhtml"/>
