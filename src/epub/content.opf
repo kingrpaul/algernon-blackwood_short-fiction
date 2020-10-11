@@ -33,7 +33,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85062084</meta>
 		<meta property="se:subject">Horror</meta>
-		<dc:description id="description">These are <em>weird stories</em>, atmospheric yet genuinely human tales, each containing some element of the paranormal, the pagan, the primeval—some pointer to a depth of reality beyond the usual three dimensions of sense perception in modern life.</dc:description>
+		<dc:description id="description">These are weird stories, atmospheric yet genuinely human tales, each containing some element of the paranormal, the pagan, the primeval—some pointer to a depth of reality beyond the usual three dimensions of sense perception in modern life.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt; nature mystic teaching occidental wisdom metaphysician artist per Alma Newton, Quote Lovecraft An anthology of weird fiction from the author.&lt;/p&gt;
 		</meta>
