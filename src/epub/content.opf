@@ -110,6 +110,7 @@
 		<item href="text/body-1908-a-psychical-invasion.xhtml" id="body-1908-a-psychical-invasion.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1908-ancient-sorceries.xhtml" id="body-1908-ancient-sorceries.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1908-secret-worship.xhtml" id="body-1908-secret-worship.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body-1908-the-camp-of-the-dog.xhtml" id="body-1908-the-camp-of-the-dog.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1908-the-occupant-of-the-room.xhtml" id="body-1908-the-occupant-of-the-room.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1910-the-wendigo.xhtml" id="body-1910-the-wendigo.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1911-the-empty-sleeve.xhtml" id="body-1911-the-empty-sleeve.xhtml" media-type="application/xhtml+xml"/>
@@ -167,6 +168,7 @@
 		<itemref idref="body-1908-a-psychical-invasion.xhtml"/>
 		<itemref idref="body-1908-ancient-sorceries.xhtml"/>
 		<itemref idref="body-1908-secret-worship.xhtml"/>
+		<itemref idref="body-1908-the-camp-of-the-dog.xhtml"/>
 		<itemref idref="body-1908-the-occupant-of-the-room.xhtml"/>
 		<itemref idref="body-1910-the-wendigo.xhtml"/>
 		<itemref idref="body-1911-the-empty-sleeve.xhtml"/>
