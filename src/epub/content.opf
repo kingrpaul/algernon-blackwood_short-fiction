@@ -120,6 +120,7 @@
 		<item href="text/body-1912-the-man-who-found-out.xhtml" id="body-1912-the-man-who-found-out.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1912-wayfarers.xhtml" id="body-1912-wayfarers.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1913-h-s-h.xhtml" id="body-1913-h-s-h.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body-1913-the-damned.xhtml" id="body-1913-the-damned.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1913-the-sacrifice.xhtml" id="body-1913-the-sacrifice.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1913-the-tradition.xhtml" id="body-1913-the-tradition.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1913-transition.xhtml" id="body-1913-transition.xhtml" media-type="application/xhtml+xml"/>
@@ -183,6 +184,7 @@
 		<itemref idref="body-1912-the-man-who-found-out.xhtml"/>
 		<itemref idref="body-1912-wayfarers.xhtml"/>
 		<itemref idref="body-1913-h-s-h.xhtml"/>
+		<itemref idref="body-1913-the-damned.xhtml"/>
 		<itemref idref="body-1913-the-sacrifice.xhtml"/>
 		<itemref idref="body-1913-the-tradition.xhtml"/>
 		<itemref idref="body-1913-transition.xhtml"/>
