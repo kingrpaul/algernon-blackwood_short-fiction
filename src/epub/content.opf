@@ -127,6 +127,7 @@
 		<item href="text/body-1914-a-desert-episode.xhtml" id="body-1914-a-desert-episode.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1914-a-victim-of-higher-space.xhtml" id="body-1914-a-victim-of-higher-space.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1914-by-water.xhtml" id="body-1914-by-water.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body-1914-the-regeneration-of-lord-ernie.xhtml" id="body-1914-the-regeneration-of-lord-ernie.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1914-the-wings-of-horus.xhtml" id="body-1914-the-wings-of-horus.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1915-an-egyptian-hornet.xhtml" id="body-1915-an-egyptian-hornet.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1915-cains-atonement.xhtml" id="body-1915-cains-atonement.xhtml" media-type="application/xhtml+xml"/>
@@ -188,6 +189,7 @@
 		<itemref idref="body-1914-a-desert-episode.xhtml"/>
 		<itemref idref="body-1914-a-victim-of-higher-space.xhtml"/>
 		<itemref idref="body-1914-by-water.xhtml"/>
+		<itemref idref="body-1914-the-regeneration-of-lord-ernie.xhtml"/>
 		<itemref idref="body-1914-the-wings-of-horus.xhtml"/>
 		<itemref idref="body-1915-an-egyptian-hornet.xhtml"/>
 		<itemref idref="body-1915-cains-atonement.xhtml"/>
