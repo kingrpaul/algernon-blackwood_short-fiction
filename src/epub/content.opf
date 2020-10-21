@@ -117,6 +117,7 @@
 		<item href="text/body-1911-accessory-before-the-fact.xhtml" id="body-1911-accessory-before-the-fact.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1911-the-empty-sleeve.xhtml" id="body-1911-the-empty-sleeve.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1911-the-glamour-of-the-snow.xhtml" id="body-1911-the-glamour-of-the-snow.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body-1911-the-messenger.xhtml" id="body-1911-the-messenger.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1912-sand.xhtml" id="body-1912-sand.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1912-the-man-who-found-out.xhtml" id="body-1912-the-man-who-found-out.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1912-the-man-whom-the-trees-loved.xhtml" id="body-1912-the-man-whom-the-trees-loved.xhtml" media-type="application/xhtml+xml"/>
@@ -183,6 +184,7 @@
 		<itemref idref="body-1911-accessory-before-the-fact.xhtml"/>
 		<itemref idref="body-1911-the-empty-sleeve.xhtml"/>
 		<itemref idref="body-1911-the-glamour-of-the-snow.xhtml"/>
+		<itemref idref="body-1911-the-messenger.xhtml"/>
 		<itemref idref="body-1912-sand.xhtml"/>
 		<itemref idref="body-1912-the-man-who-found-out.xhtml"/>
 		<itemref idref="body-1912-the-man-whom-the-trees-loved.xhtml"/>
