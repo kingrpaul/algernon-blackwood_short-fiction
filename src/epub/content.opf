@@ -115,6 +115,7 @@
 		<item href="text/body-1908-the-occupant-of-the-room.xhtml" id="body-1908-the-occupant-of-the-room.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1909-carltons-drive.xhtml" id="body-1909-carltons-drive.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1909-entrance-and-exit.xhtml" id="body-1909-entrance-and-exit.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body-1909-the terror-of-the-twins.xhtml" id="body-1909-the terror-of-the-twins.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1910-if-the-cap-fits.xhtml" id="body-1910-if-the-cap-fits.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1910-the-wendigo.xhtml" id="body-1910-the-wendigo.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1911-accessory-before-the-fact.xhtml" id="body-1911-accessory-before-the-fact.xhtml" media-type="application/xhtml+xml"/>
@@ -196,6 +197,7 @@
 		<itemref idref="body-1908-the-occupant-of-the-room.xhtml"/>
 		<itemref idref="body-1909-carltons-drive.xhtml"/>
 		<itemref idref="body-1909-entrance-and-exit.xhtml"/>
+		<itemref idref="body-1909-the terror-of-the-twins.xhtml"/>
 		<itemref idref="body-1910-if-the-cap-fits.xhtml"/>
 		<itemref idref="body-1910-the-wendigo.xhtml"/>
 		<itemref idref="body-1911-accessory-before-the-fact.xhtml"/>
