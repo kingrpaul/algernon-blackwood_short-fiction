@@ -127,6 +127,7 @@
 		<item href="text/body-1911-the-golden-fly.xhtml" id="body-1911-the-golden-fly.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1911-the-messenger.xhtml" id="body-1911-the-messenger.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1911-the-prayer.xhtml" id="body-1911-the-prayer.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body-1911-two-in-one.xhtml" id="body-1911-two-in-one.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1912-ancient-lights.xhtml" id="body-1912-ancient-lights.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1912-sand.xhtml" id="body-1912-sand.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1912-the-attic.xhtml" id="body-1912-the-attic.xhtml" media-type="application/xhtml+xml"/>
@@ -211,6 +212,7 @@
 		<itemref idref="body-1911-the-golden-fly.xhtml"/>
 		<itemref idref="body-1911-the-messenger.xhtml"/>
 		<itemref idref="body-1911-the-prayer.xhtml"/>
+		<itemref idref="body-1911-two-in-one.xhtml"/>
 		<itemref idref="body-1912-ancient-lights.xhtml"/>
 		<itemref idref="body-1912-sand.xhtml"/>
 		<itemref idref="body-1912-the-attic.xhtml"/>
