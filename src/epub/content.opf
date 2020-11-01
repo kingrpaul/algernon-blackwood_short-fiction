@@ -112,6 +112,7 @@
 		<item href="text/body-1908-ancient-sorceries.xhtml" id="body-1908-ancient-sorceries.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1908-secret-worship.xhtml" id="body-1908-secret-worship.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1908-the-camp-of-the-dog.xhtml" id="body-1908-the-camp-of-the-dog.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body-1908-the-kit-bag.xhtml" id="body-1908-the-kit-bag.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1908-the-nemesis-of-fire.xhtml" id="body-1908-the-nemesis-of-fire.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1908-the-occupant-of-the-room.xhtml" id="body-1908-the-occupant-of-the-room.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1909-carltons-drive.xhtml" id="body-1909-carltons-drive.xhtml" media-type="application/xhtml+xml"/>
@@ -199,6 +200,7 @@
 		<itemref idref="body-1908-ancient-sorceries.xhtml"/>
 		<itemref idref="body-1908-secret-worship.xhtml"/>
 		<itemref idref="body-1908-the-camp-of-the-dog.xhtml"/>
+		<itemref idref="body-1908-the-kit-bag.xhtml"/>
 		<itemref idref="body-1908-the-nemesis-of-fire.xhtml"/>
 		<itemref idref="body-1908-the-occupant-of-the-room.xhtml"/>
 		<itemref idref="body-1909-carltons-drive.xhtml"/>
