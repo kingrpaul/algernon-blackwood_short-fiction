@@ -109,6 +109,7 @@
 		<item href="text/body-1907-miss-slumbubble.xhtml" id="body-1907-miss-slumbubble.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1907-the-dance-of-death.xhtml" id="body-1907-the-dance-of-death.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1907-the-insanity-of-jones.xhtml" id="body-1907-the-insanity-of-jones.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body-1907-the-listener.xhtml" id="body-1907-the-listener.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1907-the-willows.xhtml" id="body-1907-the-willows.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1908-a-psychical-invasion.xhtml" id="body-1908-a-psychical-invasion.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1908-ancient-sorceries.xhtml" id="body-1908-ancient-sorceries.xhtml" media-type="application/xhtml+xml"/>
@@ -201,6 +202,7 @@
 		<itemref idref="body-1907-miss-slumbubble.xhtml"/>
 		<itemref idref="body-1907-the-dance-of-death.xhtml"/>
 		<itemref idref="body-1907-the-insanity-of-jones.xhtml"/>
+		<itemref idref="body-1907-the-listener.xhtml"/>
 		<itemref idref="body-1907-the-willows.xhtml"/>
 		<itemref idref="body-1908-a-psychical-invasion.xhtml"/>
 		<itemref idref="body-1908-ancient-sorceries.xhtml"/>
