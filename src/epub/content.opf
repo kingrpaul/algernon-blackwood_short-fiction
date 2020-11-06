@@ -123,6 +123,7 @@
 		<item href="text/body-1909-the-man-who-played-upon-the-leaf.xhtml" id="body-1909-the-man-who-played-upon-the-leaf.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1909-the-terror-of-the-twins.xhtml" id="body-1909-the-terror-of-the-twins.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1910-if-the-cap-fits.xhtml" id="body-1910-if-the-cap-fits.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body-1910-old-clothes.xhtml" id="body-1910-old-clothes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1910-simon-parnacute.xhtml" id="body-1910-simon-parnacute.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1910-the-sea-fit.xhtml" id="body-1910-the-sea-fit.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1910-the-wendigo.xhtml" id="body-1910-the-wendigo.xhtml" media-type="application/xhtml+xml"/>
@@ -217,6 +218,7 @@
 		<itemref idref="body-1909-the-man-who-played-upon-the-leaf.xhtml"/>
 		<itemref idref="body-1909-the-terror-of-the-twins.xhtml"/>
 		<itemref idref="body-1910-if-the-cap-fits.xhtml"/>
+		<itemref idref="body-1910-old-clothes.xhtml"/>
 		<itemref idref="body-1910-simon-parnacute.xhtml"/>
 		<itemref idref="body-1910-the-sea-fit.xhtml"/>
 		<itemref idref="body-1910-the-wendigo.xhtml"/>
