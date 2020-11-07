@@ -105,6 +105,7 @@
 		<item href="text/body-1906-the-strange-adventures-of-a-private-secretary-in-ny.xhtml" id="body-1906-the-strange-adventures-of-a-private-secretary-in-ny.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1906-the-wood-of-the-dead.xhtml" id="body-1906-the-wood-of-the-dead.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1906-with-intent-to-steal.xhtml" id="body-1906-with-intent-to-steal.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body-1907-max-hensig.xhtml" id="body-1907-max-hensig.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1907-may-day-eve.xhtml" id="body-1907-may-day-eve.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1907-miss-slumbubble.xhtml" id="body-1907-miss-slumbubble.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1907-the-dance-of-death.xhtml" id="body-1907-the-dance-of-death.xhtml" media-type="application/xhtml+xml"/>
@@ -200,6 +201,7 @@
 		<itemref idref="body-1906-the-strange-adventures-of-a-private-secretary-in-ny.xhtml"/>
 		<itemref idref="body-1906-the-wood-of-the-dead.xhtml"/>
 		<itemref idref="body-1906-with-intent-to-steal.xhtml"/>
+		<itemref idref="body-1907-max-hensig.xhtml"/>
 		<itemref idref="body-1907-may-day-eve.xhtml"/>
 		<itemref idref="body-1907-miss-slumbubble.xhtml"/>
 		<itemref idref="body-1907-the-dance-of-death.xhtml"/>
