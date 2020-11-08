@@ -141,6 +141,7 @@
 		<item href="text/body-1911-two-in-one.xhtml" id="body-1911-two-in-one.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1912-ancient-lights.xhtml" id="body-1912-ancient-lights.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1912-sand.xhtml" id="body-1912-sand.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body-1912-temptation-of-the-clay.xhtml" id="body-1912-temptation-of-the-clay.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1912-the-attic.xhtml" id="body-1912-the-attic.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1912-the-goblins-collection.xhtml" id="body-1912-the-goblins-collection.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/body-1912-the-man-who-found-out.xhtml" id="body-1912-the-man-who-found-out.xhtml" media-type="application/xhtml+xml"/>
@@ -237,6 +238,7 @@
 		<itemref idref="body-1911-two-in-one.xhtml"/>
 		<itemref idref="body-1912-ancient-lights.xhtml"/>
 		<itemref idref="body-1912-sand.xhtml"/>
+		<itemref idref="body-1912-temptation-of-the-clay.xhtml"/>
 		<itemref idref="body-1912-the-attic.xhtml"/>
 		<itemref idref="body-1912-the-goblins-collection.xhtml"/>
 		<itemref idref="body-1912-the-man-who-found-out.xhtml"/>
