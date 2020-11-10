@@ -33,12 +33,275 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85062084</meta>
 		<meta property="se:subject">Horror</meta>
-		<dc:description id="description">These are weird stories, atmospheric yet genuinely human tales, each containing some element of the paranormal, the pagan, the primeval—some pointer to a depth of reality beyond the usual three dimensions of sense perception in modern life.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt; nature mystic teaching occidental wisdom metaphysician artist per Alma Newton, Quote Lovecraft An anthology of weird fiction from the author.&lt;/p&gt;
-		</meta>
+		<dc:description id="description">These are short fiction works of the genuinely curious character Algernon Blackwood, a prolific English writer mostly known for his deeply atmospheric, intensely human, and often quasi-autobiographical works of “weird fiction,” stories of the supernatural, paranormal, horror, the pagan, and the spiritual.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">&lt;p&gt; &lt;a href="https://standardebooks.org/ebooks/algernon-blackwood"&gt;Algernon Blackwood&lt;/a&gt; was a prolific English writer, who published between 1899 and 1950. He is mostly known for his works of “weird fiction,” stories involving themes of the supernatural, paranormal, horror, the pagan, and the spiritual. His works tend to be deeply atmospheric, intensely human, and includes short fiction, plays, novels, and an autobiography. A genuinely curious character, much of Blackwood’s fiction is described as quasi-autobiographical. He left a substantial written legacy whose full extent is not known, Blackwood himself did know how many works he had published. Blackwood’s legacy also includes his influence on subsequent writers. His best known works are “The Wendigo” and “The Willows”, a novella described by Lovecraft as the finest supernatural tale in English literature. &lt;/p&gt;</meta>
 		<dc:language>en-GB</dc:language>
+		<dc:source>https://www.gutenberg.org/ebooks/14471</dc:source>
+		<dc:source>https://archive.org/details/emptyhouseotherg00blacrich</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/45964</dc:source>
+		<dc:source>https://archive.org/details/dayandnightstori45964gut</dc:source>
+		<dc:source>http://algernonblackwood.org/</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/006059047</dc:source>
+		<dc:source>https://archive.org/details/pansgardenvolume00blacuoft</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/9363</dc:source>
+		<dc:source>https://archive.org/details/bestbritishshor00unkngoog</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/11438</dc:source>
+		<dc:source>https://archive.org/details/TheWillows</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/10897</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/100372510</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/11377</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/43816</dc:source>
+		<dc:source>https://archive.org/details/incredibleadvent00blac</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/49222</dc:source>
+		<dc:source>https://archive.org/details/johnsilencephysi00blac</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/38310</dc:source>
+		<dc:source>https://archive.org/details/wolvesofgodandot00blacrich</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/16726</dc:source>
+		<dc:source>https://archive.org/details/listenerandothe00blacgoog</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/000600035</dc:source>
+		<dc:source>https://archive.org/details/gardensurvival01blacgoog</dc:source>
+		<meta property="se:production-notes">
+			Story Sources - Scans and Transcripts, Not All Verified
+			=======================================================
+			[1] The Empty House And Other Ghost Stories [Gutenberg] (1906), http://www.gutenberg.org/ebooks/14471
+			[2] The Empty House And Other Ghost Stories [Archive] (1906), https://archive.org/details/emptyhouseotherg00blacrich
+			[3] Day and Night Stories [Gutenberg] (1917), https://www.gutenberg.org/ebooks/45964
+			[4] Day and Night Stories [Archive] (1917), https://archive.org/details/dayandnightstori45964gut
+			[5] AlgernonBlackwood.org, http://http//algernonblackwood.org/
+			[6] Ten Minute Stories [Hathi]] (1914), https://catalog.hathitrust.org/Record/006059047
+			[7] Pan's Garden [Archive] (1912), https://archive.org/details/pansgardenvolume00blacuoft
+			[8] The Best of British Short Stories [Gutenberg] (1922), https://www.gutenberg.org/ebooks/9363
+			[9] The Best of British Short Stories [Archive] (1922), https://archive.org/details/bestbritishshor00unkngoog
+			[10] The Willows [Gutenberg] (1907), https://www.gutenberg.org/ebooks/11438
+			[11] The Willows [Archive] (1907), https://archive.org/details/TheWillows
+			[12] The Wendigo [Gutenberg] (1910), https://www.gutenberg.org/ebooks/10897
+			[13] The Lost Valley and Other Stories [Hathi] (1917), https://catalog.hathitrust.org/Record/007587313
+			[14] The Man Whom the Trees Loved [Gutenberg] (1912), https://www.gutenberg.org/ebooks/11377
+			[15] Incredible Adventures [Gutenberg] (1914), https://www.gutenberg.org/ebooks/43816
+			[16] Incredible Adventures [Archive] (1914), https://archive.org/details/incredibleadvent00blac
+			[17] John Silence, Physician Extraordinary [Gutenberg] (1908), https://www.gutenberg.org/ebooks/49222
+			[18] John Silence, Physician Extraordinary [Archive] (1908), https://archive.org/details/johnsilencephysi00blac
+			[19] The Wolves of God, and Other Fey Stories [Gutenberg] (1921), https://www.gutenberg.org/ebooks/38310
+			[20] The Wolves of God, and Other Fey Stories [Archive] (1921), https://archive.org/details/wolvesofgodandot00blacrich
+			[21] Four Weird Tales [Gutenberg], https://www.gutenberg.org/ebooks/16726
+			[22] The Listener and Other Stories [Archive], https://archive.org/details/listenerandothe00blacgoog
+			[23] The Saturday Westminster Gazette (6 September 1919)
+			[24] Tongues of Fire and Other Sketches (23 November 1924)
+			[25] The Story-Teller (March 1918)
+			[26] The Tramp, Vol. 2 No. 10
+			[27] Pall Mall Magazine, December 1908, https://catalog.hathitrust.org/Record/000600035
+			[28] The Pall Mall magazine. v.10 1896 Sep-Dec., https://catalog.hathitrust.org/Record/000600035
+			[29] Pearson’s Magazine Sep 1904
+			[30] Nash’s Magazine Jun 1910
+			[31] Pearson’s Magazine Nov 1923
+			[32] The Saturday Westminster Gazette May 10 1919
+			[33] Cassell’s Magazine of Fiction Jul, Aug, Sep, Oct, Nov 1923
+			[34] The Boy’s Own Paper Sep 1 1906
+			[35] Land &amp; Water, Vol. 70 #2904 Jan 3 1918
+			[36] The Boy’s Own Paper Aug 11 1906
+			[37] The Boy’s Own Paper Jun 2 1906
+			[38] The Eye-Witness Jun 22 1911
+			[39] The Pall Mall Magazine Mar 1910
+			[40] Longman’s Magazine Jan 1901
+			[41] The English Review, Vol. 36 No. 4, Apr 1923
+			[42] Pearson’s Magazine (US) Jun 1922
+			[43] The Eye-Witness, Vol. 1 No. 1
+			[44] The Garden of Survival [Archive] (1918), https://archive.org/details/gardensurvival01blacgoog
+			===============
+			Other Resources
+			===============
+			Wikipedia Bibliography, https://en.wikipedia.org/wiki/Draft:Algernon_Blackwood_bibliography
+			Algernon Blackwood - The Short Story Summaries, https://antimatter-camerlengo.blogspot.com/2015/01/algernon-blackwood-short-story-summaries.html
+			Strange Stories (1929 - Not Public Domain), https://archive.org/details/StrangeStories
+			The FictionMags Index, http://www.philsp.com/homeville/fmi/s/s1132.html
+			=================================================================================================
+			Year     Works Included                                            Text    Scan  Notes
+			=================================================================================================
+			1899     A Haunted Island                                           [1]     [2]
+			1900     A Case of Eavesdropping                                    [1]     [2]
+			1906     A Suspicious Gift                                          [1]     [2]
+			1906     Keeping His Promise                                        [1]     [2]
+			1906     Skeleton Lake: An Episode in Camp                          [1]     [2]
+			1906     Smith: An Episode in a Lodging House                       [1]     [2]
+			1906     The Empty House                                            [1]     [2]
+			1906     The Strange Adventures of a Private Secretary in New York  [1]     [2]
+			1906     The Wood of the Dead                                       [1]     [2]
+			1906     With Intent to Steal                                       [1]     [2]
+			1914     A Bit of Wood                                              [3]     [4]
+			1914     A Desert Episode                                           [3]     [4]
+			1914     A Victim of Higher Space                                   [3]     [4]  John Silence
+			1917     An Egyptian Hornet                                         [3]     [4]
+			1914     By Water                                                   [3]     [4]
+			1915     Cain's Atonement                                           [3]     [4]
+			1913     H.S.H.                                                     [3]     [4]
+			1916     Initiation                                                 [3]     [4]
+			1909     The Occupant of the Room                                   [3]     [4]
+			1915     The Other Wing                                             [3]     [4]
+			1917     The Touch of Pan                                           [3]     [4]
+			1913     The Tradition                                              [3]     [4]
+			1917     The Tryst                                                  [3]     [4]
+			1914     The Wings of Horus                                         [3]     [4]
+			1913     Transition                                                 [3]     [4]
+			1914     Pines                                                      [5]     [6]  added to Wikipedia
+			1911     The Messenger                                              [5]     [7]
+			1921     The Olive                                                  [8]     [9]
+			1907     The Willows                                               [10]    [11]
+			1910     The Wendigo                                               [12]    [13]
+			1912     The Man Whom the Trees Loved                              [14]     [7]
+			1914     A Descent into Egypt                                      [15]    [16]
+			1914     The Damned                                                [15]    [16]
+			1914     The Regeneration of Lord Ernie                            [15]    [16]
+			1914     The Sacrifice                                             [15]    [16]
+			1912     Wayfarers                                                 [15]    [16]
+			1908     A Psychical Invasion                                      [17]    [18]  John Silence
+			1908     Ancient Sorceries                                         [17]    [18]  John Silence
+			1908     Secret Worship                                            [17]    [18]  John Silence
+			1908     The Camp of the Dog                                       [17]    [18]  John Silence
+			1908     The Nemesis of Fire                                       [17]    [18]  John Silence
+			1920     Chinese Magic                                             [19]    [20]
+			1921     Confession                                                [19]    [20]
+			1921     Egyptian Sorcery                                          [19]    [20]
+			1920     First Hate                                                [19]    [20]
+			1920     Running Wolf                                              [19]    [20]
+			1919     The Call                                                  [19]    [20]
+			1919     The Decoy                                                 [19]    [20]
+			1911     The Empty Sleeve                                          [19]    [20]
+			1921     The Lane That Ran East and West                           [19]    [20]
+			1912     The Man Who Found Out                                     [19]    [20]  Also appears in [21]
+			1921     The Tarn of Sacrifice                                     [19]    [20]
+			1921     The Valley of the Beasts                                  [19]    [20]
+			1921     The Wolves of God                                         [19]    [20]
+			1921     Vengeance Is Mine                                         [19]    [20]
+			1919     Wireless Confusion                                        [19]    [20]
+			1907     The Insanity of Jones                                     [21]    [22]
+			1912     Sand                                                      [21]     [7]
+			1911     The Glamour of the Snow                                   [21]     [7]
+			1911     The Deferred Appointment                                   [5]     [6]
+			1924     The Impulse                                                [5]     [6]
+			1914     The Invitation                                             [5]     [6]
+			1909     Entrance and Exit                                          [5]     [6]
+			1911     Accessory Before the Fact                                  [5]     [6]
+			1910     If the Cap Fits                                            [5]     [6]
+			1911     Clairvoyance                                               [5]     [7]
+			1911     The Golden Fly                                             [5]     [7]
+			1912     The Whisperers                                             [5]     [6]
+			1914     Let Not the Sun -                                          [5]     [6]
+			1912     The Attic                                                  [5]     [7]
+			1911     The Prayer                                                 [5]     [6]
+			1909     Carlton's Drive                                            [5]    [13]
+			1912     Ancient Lights                                             [5]     [6]
+			1912     The Terror of the Twins                                    [5]    [13]
+			1912     The Goblin's Collection                                    [5]     [6]
+			1911     Dream Trespass                                             [5]     [6]
+			1911     Two in One                                                 [5]     [6]
+			1907     The Dance of Death                                         [5]    [22]
+			1911     The Transfer                                               [5]     [7]
+			1908     The Kit-Bag                                                [5]    [27]
+			1910     The Sea Fit                                                [5]     [7]
+			1907     Miss Slumbubble—and Claustrophobia                         [5]    [22]
+			1907     The Man Who Played Upon the Leaf                           [5]    [13]
+			1907     May Day Eve                                                [5]    [22]
+			1907     The Listener                                               [5]    [22]
+			1907     The Eccentricity of Simon Parnacute                        [5]    [13]
+			1910     Old Clothes                                                [5]    [13]
+			1907     Max Hensig                                                 [5]    [22]  scans missing pg 106-107, reported to IA
+			1912     The Temptation of the Clay                                 [5]     [7]
+			=================================================================================================
+			Year    Works Excluded, Text but no PD Scans                       Text    Scan  Notes
+			=================================================================================================
+			1919     Alexander Alexander                                         [5]    [23]  added to Wikipedia
+			1924     Malahide and Forden                                         [5]    [24]
+			1918     S.O.S.                                                      [5]    [25]
+			1910     The Singular Death of Morton                                [5]    [26]
+			=================================================================================================
+			Year    Works Excluded, Scans (or source) but no text              Text    Scan  Notes
+			=================================================================================================
+			1922     The Woman’s Ghost Story                                            [42]
+			1923     Tongues of Fire                                                    [41]
+			1901     Summering in Canadian Backwoods                                    [40] added to Wikipedia
+			1910     The Strange Experience of the Rev. Phillip Ambleside               [39] added to Wikipedia
+			1911     The Return                                                         [38] Also appears in [43] and [7]?
+			1906     My Adventure with a Lion                                           [37] added to Wikipedia
+			1918     The Memory of Beauty                                               [35]
+			1906     A Holiday Down the Danube with Punt and Tent                       [34] added to Wikipedia
+			1923     Adventurous Memories                                               [33] added to Wikipedia
+			1904     The House of the Past                                               [6]
+			1909     You May Telephone From Here                                         [6]
+			1910     Imagination                                                         [6]
+			1912     The Second Generation                                               [6]
+			1914     Faith Cure on the Channel                                           [6]
+			1914     Her Birthday                                                        [6]
+			1914     Jimbo's Longest Day                                                 [6]
+			1914     News vs Nourishment                                                 [6]
+			1914     The Lease                                                           [6]
+			1914     The Secret                                                          [6]
+			1914     The Strange Disappearance of a Baronet                              [6]
+			1914     Up and Down                                                         [6]
+			1914     Violence                                                            [6]
+			1910     Perspective                                                        [13]
+			1910     The Lost Valley                                                    [13]
+			1910     The Man From the 'Gods'                                            [13]
+			1910     The Price of Wiggins's Orgy                                        [13]
+			1907     The Old Man of Visions                                             [22]
+			1907     The Woman's Ghost Story                                            [22]
+			1917     The Winter Alps                                                    [22]     added to Wikipedia
+			1910     Special Delivery                                                    [7]
+			1912     The Destruction of Smith                                            [7]
+			1912     The Heath Fire                                                      [7]
+			1912     Wind                                                                [6]     added to Wikipedia
+			1896     The Story of Karl Ott                                              [28]
+			1904     Testing His Courage - The Story of a Quaint Device                 [29]
+			1919     The Little Beggar                                                  [32]
+			1906     About Moose and Moose-Hunting                                      [36]     added to Wikipedia
+			1923     The Man Who Was Milligan                                           [31]
+			1912     The Garden of Survival                                     [5]     [44]     text incomplete, missing eg pp 80-87
+			=================================================================================================
+			Year    Works Excluded, No Source Known                            Text    Scan  Notes
+			=================================================================================================
+			1902     The Last Egg in the Nest
+			1910     The Message of the Clock
+			1904     How Garnier Broke the Log-Jam
+			1908     Stodgman's Opportunity
+			1908     The Story of Mr. Popkiss Told
+			1910     The South Wind
+			1911     In A Jura Village
+			1912     Egyptian Antiquities
+			1912     La Mauvaise Riche
+			1912     The Bitter Bit
+			1913     The Barmecide Feast
+			1913     The Kiss of a Psychologist
+			1913     The Story Hour
+			1913     Who Was She?
+			1914     Breakfast Honey
+			1914     Maria
+			1914     Non-Human
+			1914     The Daisy World
+			1914     The Falling Glass
+			1914     The Night Wind
+			1914     The Philosopher
+			1914     What Nobody Understands
+			1915     The Celestial Motorbus
+			1915     The God
+			1915     The Paper Man
+			1916     Camping Out
+			1916     Proportion
+			1916     The Snake
+			1919     The Other Woman
+			1919     The Perfect Poseur
+			1919     The World-Dream of McCallister
+			1921     Changing 'Ats
+			1921     Nephelé
+			1922     Genius
+			1922     Lost!
+			1924     A Continuous Performance
+			1924     A Man of Earth
+			1924     Laughter of Courage
+			1924     Petershin and Mr. Snide
+			1924     Picking Fir-Cones
+			1924     Playing Catch
+			1924     The Open Window
+			1924     The Pikestaffe Case
+		</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Algernon_Blackwood_bibliography</meta>
@@ -64,11 +327,11 @@
 		<dc:contributor id="transcriber-5">Tonya Allen</dc:contributor>
 		<meta property="file-as" refines="#transcriber-5">Allen, Tonya</meta>
 		<dc:contributor id="transcriber-6">Michael Ciesielski</dc:contributor>
-		<meta property="file-as" refines="#transcriber-4">Ciesielski,Michael</meta>
+		<meta property="file-as" refines="#transcriber-4">Ciesielski, Michael</meta>
 		<dc:contributor id="transcriber-7">Annika Feilbach</dc:contributor>
 		<dc:contributor id="transcriber-8">David Starner</dc:contributor>
 		<meta property="file-as" refines="#transcriber-5">Starner, David</meta>
-		<meta property="file-as" refines="#transcriber-5">Feilbach,Annika</meta>
+		<meta property="file-as" refines="#transcriber-5">Feilbach, Annika</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
@@ -78,7 +341,7 @@
 		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#transcriber-8" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Paul King</dc:contributor>
-		<meta property="file-as" refines="#producer-1">King, Paul </meta>
+		<meta property="file-as" refines="#producer-1">King, Paul</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://kingrpaul.github.io/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
