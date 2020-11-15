@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="FILENAME.xhtml">
+	<file path="content.opf">
 		<ignore>
-			<code>l-nnn</code>
-			<reason>reason</reason>
+			<code>t-001</code>
+			<reason>Spaces used to align columns in production notes.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
