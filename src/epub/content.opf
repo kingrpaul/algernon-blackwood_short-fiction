@@ -360,192 +360,192 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
-		<item href="text/body-1899-a-haunted-island.xhtml" id="body-1899-a-haunted-island.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1900-a-case-of-eavesdropping.xhtml" id="body-1900-a-case-of-eavesdropping.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1906-a-suspicious-gift.xhtml" id="body-1906-a-suspicious-gift.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1906-keeping-his-promise.xhtml" id="body-1906-keeping-his-promise.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1906-skeleton-lake-an-episode-in-camp.xhtml" id="body-1906-skeleton-lake-an-episode-in-camp.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1906-smith-an-episode-in-a-lodging-house.xhtml" id="body-1906-smith-an-episode-in-a-lodging-house.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1906-the-empty-house.xhtml" id="body-1906-the-empty-house.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1906-the-strange-adventures-of-a-private-secretary-in-ny.xhtml" id="body-1906-the-strange-adventures-of-a-private-secretary-in-ny.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1906-the-wood-of-the-dead.xhtml" id="body-1906-the-wood-of-the-dead.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1906-with-intent-to-steal.xhtml" id="body-1906-with-intent-to-steal.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1907-max-hensig.xhtml" id="body-1907-max-hensig.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1907-may-day-eve.xhtml" id="body-1907-may-day-eve.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1907-miss-slumbubble.xhtml" id="body-1907-miss-slumbubble.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1907-the-dance-of-death.xhtml" id="body-1907-the-dance-of-death.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1907-the-insanity-of-jones.xhtml" id="body-1907-the-insanity-of-jones.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1907-the-listener.xhtml" id="body-1907-the-listener.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1907-the-willows.xhtml" id="body-1907-the-willows.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1908-a-psychical-invasion.xhtml" id="body-1908-a-psychical-invasion.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1908-ancient-sorceries.xhtml" id="body-1908-ancient-sorceries.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1908-secret-worship.xhtml" id="body-1908-secret-worship.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1908-the-camp-of-the-dog.xhtml" id="body-1908-the-camp-of-the-dog.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1908-the-kit-bag.xhtml" id="body-1908-the-kit-bag.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1908-the-nemesis-of-fire.xhtml" id="body-1908-the-nemesis-of-fire.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1908-the-occupant-of-the-room.xhtml" id="body-1908-the-occupant-of-the-room.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1909-carltons-drive.xhtml" id="body-1909-carltons-drive.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1909-entrance-and-exit.xhtml" id="body-1909-entrance-and-exit.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1909-the-man-who-played-upon-the-leaf.xhtml" id="body-1909-the-man-who-played-upon-the-leaf.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1909-the-terror-of-the-twins.xhtml" id="body-1909-the-terror-of-the-twins.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1910-if-the-cap-fits.xhtml" id="body-1910-if-the-cap-fits.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1910-old-clothes.xhtml" id="body-1910-old-clothes.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1910-simon-parnacute.xhtml" id="body-1910-simon-parnacute.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1910-the-sea-fit.xhtml" id="body-1910-the-sea-fit.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1910-the-wendigo.xhtml" id="body-1910-the-wendigo.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1911-accessory-before-the-fact.xhtml" id="body-1911-accessory-before-the-fact.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1911-clairvoyance.xhtml" id="body-1911-clairvoyance.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1911-dream-trespass.xhtml" id="body-1911-dream-trespass.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1911-the-deferred-appointment.xhtml" id="body-1911-the-deferred-appointment.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1911-the-empty-sleeve.xhtml" id="body-1911-the-empty-sleeve.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1911-the-glamour-of-the-snow.xhtml" id="body-1911-the-glamour-of-the-snow.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1911-the-golden-fly.xhtml" id="body-1911-the-golden-fly.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1911-the-messenger.xhtml" id="body-1911-the-messenger.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1911-the-prayer.xhtml" id="body-1911-the-prayer.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1911-the-transfer.xhtml" id="body-1911-the-transfer.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1911-two-in-one.xhtml" id="body-1911-two-in-one.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1912-ancient-lights.xhtml" id="body-1912-ancient-lights.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1912-sand.xhtml" id="body-1912-sand.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1912-temptation-of-the-clay.xhtml" id="body-1912-temptation-of-the-clay.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1912-the-attic.xhtml" id="body-1912-the-attic.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1912-the-goblins-collection.xhtml" id="body-1912-the-goblins-collection.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1912-the-man-who-found-out.xhtml" id="body-1912-the-man-who-found-out.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1912-the-man-whom-the-trees-loved.xhtml" id="body-1912-the-man-whom-the-trees-loved.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1912-the-whisperers.xhtml" id="body-1912-the-whisperers.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1912-wayfarers.xhtml" id="body-1912-wayfarers.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1913-h-s-h.xhtml" id="body-1913-h-s-h.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1913-the-damned.xhtml" id="body-1913-the-damned.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1913-the-sacrifice.xhtml" id="body-1913-the-sacrifice.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1913-the-tradition.xhtml" id="body-1913-the-tradition.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1913-transition.xhtml" id="body-1913-transition.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1914-a-bit-of-wood.xhtml" id="body-1914-a-bit-of-wood.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1914-a-descent-into-egypt.xhtml" id="body-1914-a-descent-into-egypt.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1914-a-desert-episode.xhtml" id="body-1914-a-desert-episode.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1914-a-victim-of-higher-space.xhtml" id="body-1914-a-victim-of-higher-space.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1914-by-water.xhtml" id="body-1914-by-water.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1914-let-not-the-sun.xhtml" id="body-1914-let-not-the-sun.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1914-pines.xhtml" id="body-1914-pines.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1914-the-impulse.xhtml" id="body-1914-the-impulse.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1914-the-invitation.xhtml" id="body-1914-the-invitation.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1914-the-regeneration-of-lord-ernie.xhtml" id="body-1914-the-regeneration-of-lord-ernie.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1914-the-wings-of-horus.xhtml" id="body-1914-the-wings-of-horus.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1915-an-egyptian-hornet.xhtml" id="body-1915-an-egyptian-hornet.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1915-cains-atonement.xhtml" id="body-1915-cains-atonement.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1915-the-other-wing.xhtml" id="body-1915-the-other-wing.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1916-initiation.xhtml" id="body-1916-initiation.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1917-the-touch-of-pan.xhtml" id="body-1917-the-touch-of-pan.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1917-the-tryst.xhtml" id="body-1917-the-tryst.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1919-the-call.xhtml" id="body-1919-the-call.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1919-the-decoy.xhtml" id="body-1919-the-decoy.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1919-wireless-confusion.xhtml" id="body-1919-wireless-confusion.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1920-chinese-magic.xhtml" id="body-1920-chinese-magic.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1920-first-hate.xhtml" id="body-1920-first-hate.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1920-running-wolf.xhtml" id="body-1920-running-wolf.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1921-confession.xhtml" id="body-1921-confession.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1921-egyptian-sorcery.xhtml" id="body-1921-egyptian-sorcery.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1921-the-lane-that-ran-east-and-west.xhtml" id="body-1921-the-lane-that-ran-east-and-west.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1921-the-olive.xhtml" id="body-1921-the-olive.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1921-the-tarn-of-sacrifiice.xhtml" id="body-1921-the-tarn-of-sacrifiice.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1921-the-valley-of-the-beasts.xhtml" id="body-1921-the-valley-of-the-beasts.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1921-the-wolves-of-god.xhtml" id="body-1921-the-wolves-of-god.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/body-1921-vengeance-is-mine.xhtml" id="body-1921-vengeance-is-mine.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-bit-of-wood.xhtml" id="a-bit-of-wood.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-case-of-eavesdropping.xhtml" id="a-case-of-eavesdropping.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-descent-into-egypt.xhtml" id="a-descent-into-egypt.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-desert-episode.xhtml" id="a-desert-episode.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-haunted-island.xhtml" id="a-haunted-island.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-psychical-invasion.xhtml" id="a-psychical-invasion.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-suspicious-gift.xhtml" id="a-suspicious-gift.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-victim-of-higher-space.xhtml" id="a-victim-of-higher-space.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/accessory-before-the-fact.xhtml" id="accessory-before-the-fact.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/an-egyptian-hornet.xhtml" id="an-egyptian-hornet.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/ancient-lights.xhtml" id="ancient-lights.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/ancient-sorceries.xhtml" id="ancient-sorceries.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/by-water.xhtml" id="by-water.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/cains-atonement.xhtml" id="cains-atonement.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/carltons-drive.xhtml" id="carltons-drive.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chinese-magic.xhtml" id="chinese-magic.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/clairvoyance.xhtml" id="clairvoyance.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/confession.xhtml" id="confession.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dream-trespass.xhtml" id="dream-trespass.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/egyptian-sorcery.xhtml" id="egyptian-sorcery.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/entrance-and-exit.xhtml" id="entrance-and-exit.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/first-hate.xhtml" id="first-hate.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/h-s-h.xhtml" id="h-s-h.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/if-the-cap-fits.xhtml" id="if-the-cap-fits.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/initiation.xhtml" id="initiation.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/keeping-his-promise.xhtml" id="keeping-his-promise.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/let-not-the-sun.xhtml" id="let-not-the-sun.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/max-hensig.xhtml" id="max-hensig.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/may-day-eve.xhtml" id="may-day-eve.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/miss-slumbubble.xhtml" id="miss-slumbubble.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/old-clothes.xhtml" id="old-clothes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/pines.xhtml" id="pines.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/running-wolf.xhtml" id="running-wolf.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/sand.xhtml" id="sand.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/secret-worship.xhtml" id="secret-worship.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/simon-parnacute.xhtml" id="simon-parnacute.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/skeleton-lake-an-episode-in-camp.xhtml" id="skeleton-lake-an-episode-in-camp.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/smith-an-episode-in-a-lodging-house.xhtml" id="smith-an-episode-in-a-lodging-house.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/temptation-of-the-clay.xhtml" id="temptation-of-the-clay.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-attic.xhtml" id="the-attic.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-call.xhtml" id="the-call.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-camp-of-the-dog.xhtml" id="the-camp-of-the-dog.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-damned.xhtml" id="the-damned.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-dance-of-death.xhtml" id="the-dance-of-death.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-decoy.xhtml" id="the-decoy.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-deferred-appointment.xhtml" id="the-deferred-appointment.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-empty-house.xhtml" id="the-empty-house.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-empty-sleeve.xhtml" id="the-empty-sleeve.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-glamour-of-the-snow.xhtml" id="the-glamour-of-the-snow.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-goblins-collection.xhtml" id="the-goblins-collection.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-golden-fly.xhtml" id="the-golden-fly.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-impulse.xhtml" id="the-impulse.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-insanity-of-jones.xhtml" id="the-insanity-of-jones.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-invitation.xhtml" id="the-invitation.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-kit-bag.xhtml" id="the-kit-bag.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-lane-that-ran-east-and-west.xhtml" id="the-lane-that-ran-east-and-west.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-listener.xhtml" id="the-listener.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-man-who-found-out.xhtml" id="the-man-who-found-out.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-man-who-played-upon-the-leaf.xhtml" id="the-man-who-played-upon-the-leaf.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-man-whom-the-trees-loved.xhtml" id="the-man-whom-the-trees-loved.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-messenger.xhtml" id="the-messenger.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-nemesis-of-fire.xhtml" id="the-nemesis-of-fire.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-occupant-of-the-room.xhtml" id="the-occupant-of-the-room.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-olive.xhtml" id="the-olive.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-other-wing.xhtml" id="the-other-wing.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-prayer.xhtml" id="the-prayer.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-regeneration-of-lord-ernie.xhtml" id="the-regeneration-of-lord-ernie.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sacrifice.xhtml" id="the-sacrifice.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sea-fit.xhtml" id="the-sea-fit.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-strange-adventures-of-a-private-secretary-in-ny.xhtml" id="the-strange-adventures-of-a-private-secretary-in-ny.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tarn-of-sacrifiice.xhtml" id="the-tarn-of-sacrifiice.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-terror-of-the-twins.xhtml" id="the-terror-of-the-twins.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-touch-of-pan.xhtml" id="the-touch-of-pan.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tradition.xhtml" id="the-tradition.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-transfer.xhtml" id="the-transfer.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tryst.xhtml" id="the-tryst.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-valley-of-the-beasts.xhtml" id="the-valley-of-the-beasts.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-wendigo.xhtml" id="the-wendigo.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-whisperers.xhtml" id="the-whisperers.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-willows.xhtml" id="the-willows.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-wings-of-horus.xhtml" id="the-wings-of-horus.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-wolves-of-god.xhtml" id="the-wolves-of-god.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-wood-of-the-dead.xhtml" id="the-wood-of-the-dead.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/transition.xhtml" id="transition.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/two-in-one.xhtml" id="two-in-one.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/vengeance-is-mine.xhtml" id="vengeance-is-mine.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/wayfarers.xhtml" id="wayfarers.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/wireless-confusion.xhtml" id="wireless-confusion.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/with-intent-to-steal.xhtml" id="with-intent-to-steal.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="body-1899-a-haunted-island.xhtml"/>
-		<itemref idref="body-1900-a-case-of-eavesdropping.xhtml"/>
-		<itemref idref="body-1906-a-suspicious-gift.xhtml"/>
-		<itemref idref="body-1906-keeping-his-promise.xhtml"/>
-		<itemref idref="body-1906-skeleton-lake-an-episode-in-camp.xhtml"/>
-		<itemref idref="body-1906-smith-an-episode-in-a-lodging-house.xhtml"/>
-		<itemref idref="body-1906-the-empty-house.xhtml"/>
-		<itemref idref="body-1906-the-strange-adventures-of-a-private-secretary-in-ny.xhtml"/>
-		<itemref idref="body-1906-the-wood-of-the-dead.xhtml"/>
-		<itemref idref="body-1906-with-intent-to-steal.xhtml"/>
-		<itemref idref="body-1907-max-hensig.xhtml"/>
-		<itemref idref="body-1907-may-day-eve.xhtml"/>
-		<itemref idref="body-1907-miss-slumbubble.xhtml"/>
-		<itemref idref="body-1907-the-dance-of-death.xhtml"/>
-		<itemref idref="body-1907-the-insanity-of-jones.xhtml"/>
-		<itemref idref="body-1907-the-listener.xhtml"/>
-		<itemref idref="body-1907-the-willows.xhtml"/>
-		<itemref idref="body-1908-a-psychical-invasion.xhtml"/>
-		<itemref idref="body-1908-ancient-sorceries.xhtml"/>
-		<itemref idref="body-1908-secret-worship.xhtml"/>
-		<itemref idref="body-1908-the-camp-of-the-dog.xhtml"/>
-		<itemref idref="body-1908-the-kit-bag.xhtml"/>
-		<itemref idref="body-1908-the-nemesis-of-fire.xhtml"/>
-		<itemref idref="body-1908-the-occupant-of-the-room.xhtml"/>
-		<itemref idref="body-1909-carltons-drive.xhtml"/>
-		<itemref idref="body-1909-entrance-and-exit.xhtml"/>
-		<itemref idref="body-1909-the-man-who-played-upon-the-leaf.xhtml"/>
-		<itemref idref="body-1909-the-terror-of-the-twins.xhtml"/>
-		<itemref idref="body-1910-if-the-cap-fits.xhtml"/>
-		<itemref idref="body-1910-old-clothes.xhtml"/>
-		<itemref idref="body-1910-simon-parnacute.xhtml"/>
-		<itemref idref="body-1910-the-sea-fit.xhtml"/>
-		<itemref idref="body-1910-the-wendigo.xhtml"/>
-		<itemref idref="body-1911-accessory-before-the-fact.xhtml"/>
-		<itemref idref="body-1911-clairvoyance.xhtml"/>
-		<itemref idref="body-1911-dream-trespass.xhtml"/>
-		<itemref idref="body-1911-the-deferred-appointment.xhtml"/>
-		<itemref idref="body-1911-the-empty-sleeve.xhtml"/>
-		<itemref idref="body-1911-the-glamour-of-the-snow.xhtml"/>
-		<itemref idref="body-1911-the-golden-fly.xhtml"/>
-		<itemref idref="body-1911-the-messenger.xhtml"/>
-		<itemref idref="body-1911-the-prayer.xhtml"/>
-		<itemref idref="body-1911-the-transfer.xhtml"/>
-		<itemref idref="body-1911-two-in-one.xhtml"/>
-		<itemref idref="body-1912-ancient-lights.xhtml"/>
-		<itemref idref="body-1912-sand.xhtml"/>
-		<itemref idref="body-1912-temptation-of-the-clay.xhtml"/>
-		<itemref idref="body-1912-the-attic.xhtml"/>
-		<itemref idref="body-1912-the-goblins-collection.xhtml"/>
-		<itemref idref="body-1912-the-man-who-found-out.xhtml"/>
-		<itemref idref="body-1912-the-man-whom-the-trees-loved.xhtml"/>
-		<itemref idref="body-1912-the-whisperers.xhtml"/>
-		<itemref idref="body-1912-wayfarers.xhtml"/>
-		<itemref idref="body-1913-h-s-h.xhtml"/>
-		<itemref idref="body-1913-the-damned.xhtml"/>
-		<itemref idref="body-1913-the-sacrifice.xhtml"/>
-		<itemref idref="body-1913-the-tradition.xhtml"/>
-		<itemref idref="body-1913-transition.xhtml"/>
-		<itemref idref="body-1914-a-bit-of-wood.xhtml"/>
-		<itemref idref="body-1914-a-descent-into-egypt.xhtml"/>
-		<itemref idref="body-1914-a-desert-episode.xhtml"/>
-		<itemref idref="body-1914-a-victim-of-higher-space.xhtml"/>
-		<itemref idref="body-1914-by-water.xhtml"/>
-		<itemref idref="body-1914-let-not-the-sun.xhtml"/>
-		<itemref idref="body-1914-pines.xhtml"/>
-		<itemref idref="body-1914-the-impulse.xhtml"/>
-		<itemref idref="body-1914-the-invitation.xhtml"/>
-		<itemref idref="body-1914-the-regeneration-of-lord-ernie.xhtml"/>
-		<itemref idref="body-1914-the-wings-of-horus.xhtml"/>
-		<itemref idref="body-1915-an-egyptian-hornet.xhtml"/>
-		<itemref idref="body-1915-cains-atonement.xhtml"/>
-		<itemref idref="body-1915-the-other-wing.xhtml"/>
-		<itemref idref="body-1916-initiation.xhtml"/>
-		<itemref idref="body-1917-the-touch-of-pan.xhtml"/>
-		<itemref idref="body-1917-the-tryst.xhtml"/>
-		<itemref idref="body-1919-the-call.xhtml"/>
-		<itemref idref="body-1919-the-decoy.xhtml"/>
-		<itemref idref="body-1919-wireless-confusion.xhtml"/>
-		<itemref idref="body-1920-chinese-magic.xhtml"/>
-		<itemref idref="body-1920-first-hate.xhtml"/>
-		<itemref idref="body-1920-running-wolf.xhtml"/>
-		<itemref idref="body-1921-confession.xhtml"/>
-		<itemref idref="body-1921-egyptian-sorcery.xhtml"/>
-		<itemref idref="body-1921-the-lane-that-ran-east-and-west.xhtml"/>
-		<itemref idref="body-1921-the-olive.xhtml"/>
-		<itemref idref="body-1921-the-tarn-of-sacrifiice.xhtml"/>
-		<itemref idref="body-1921-the-valley-of-the-beasts.xhtml"/>
-		<itemref idref="body-1921-the-wolves-of-god.xhtml"/>
-		<itemref idref="body-1921-vengeance-is-mine.xhtml"/>
+		<itemref idref="a-haunted-island.xhtml"/>
+		<itemref idref="a-case-of-eavesdropping.xhtml"/>
+		<itemref idref="a-suspicious-gift.xhtml"/>
+		<itemref idref="keeping-his-promise.xhtml"/>
+		<itemref idref="skeleton-lake-an-episode-in-camp.xhtml"/>
+		<itemref idref="smith-an-episode-in-a-lodging-house.xhtml"/>
+		<itemref idref="the-empty-house.xhtml"/>
+		<itemref idref="the-strange-adventures-of-a-private-secretary-in-ny.xhtml"/>
+		<itemref idref="the-wood-of-the-dead.xhtml"/>
+		<itemref idref="with-intent-to-steal.xhtml"/>
+		<itemref idref="max-hensig.xhtml"/>
+		<itemref idref="may-day-eve.xhtml"/>
+		<itemref idref="miss-slumbubble.xhtml"/>
+		<itemref idref="the-dance-of-death.xhtml"/>
+		<itemref idref="the-insanity-of-jones.xhtml"/>
+		<itemref idref="the-listener.xhtml"/>
+		<itemref idref="the-willows.xhtml"/>
+		<itemref idref="a-psychical-invasion.xhtml"/>
+		<itemref idref="ancient-sorceries.xhtml"/>
+		<itemref idref="secret-worship.xhtml"/>
+		<itemref idref="the-camp-of-the-dog.xhtml"/>
+		<itemref idref="the-kit-bag.xhtml"/>
+		<itemref idref="the-nemesis-of-fire.xhtml"/>
+		<itemref idref="the-occupant-of-the-room.xhtml"/>
+		<itemref idref="carltons-drive.xhtml"/>
+		<itemref idref="entrance-and-exit.xhtml"/>
+		<itemref idref="the-man-who-played-upon-the-leaf.xhtml"/>
+		<itemref idref="the-terror-of-the-twins.xhtml"/>
+		<itemref idref="if-the-cap-fits.xhtml"/>
+		<itemref idref="old-clothes.xhtml"/>
+		<itemref idref="simon-parnacute.xhtml"/>
+		<itemref idref="the-sea-fit.xhtml"/>
+		<itemref idref="the-wendigo.xhtml"/>
+		<itemref idref="accessory-before-the-fact.xhtml"/>
+		<itemref idref="clairvoyance.xhtml"/>
+		<itemref idref="dream-trespass.xhtml"/>
+		<itemref idref="the-deferred-appointment.xhtml"/>
+		<itemref idref="the-empty-sleeve.xhtml"/>
+		<itemref idref="the-glamour-of-the-snow.xhtml"/>
+		<itemref idref="the-golden-fly.xhtml"/>
+		<itemref idref="the-messenger.xhtml"/>
+		<itemref idref="the-prayer.xhtml"/>
+		<itemref idref="the-transfer.xhtml"/>
+		<itemref idref="two-in-one.xhtml"/>
+		<itemref idref="ancient-lights.xhtml"/>
+		<itemref idref="sand.xhtml"/>
+		<itemref idref="temptation-of-the-clay.xhtml"/>
+		<itemref idref="the-attic.xhtml"/>
+		<itemref idref="the-goblins-collection.xhtml"/>
+		<itemref idref="the-man-who-found-out.xhtml"/>
+		<itemref idref="the-man-whom-the-trees-loved.xhtml"/>
+		<itemref idref="the-whisperers.xhtml"/>
+		<itemref idref="wayfarers.xhtml"/>
+		<itemref idref="h-s-h.xhtml"/>
+		<itemref idref="the-damned.xhtml"/>
+		<itemref idref="the-sacrifice.xhtml"/>
+		<itemref idref="the-tradition.xhtml"/>
+		<itemref idref="transition.xhtml"/>
+		<itemref idref="a-bit-of-wood.xhtml"/>
+		<itemref idref="a-descent-into-egypt.xhtml"/>
+		<itemref idref="a-desert-episode.xhtml"/>
+		<itemref idref="a-victim-of-higher-space.xhtml"/>
+		<itemref idref="by-water.xhtml"/>
+		<itemref idref="let-not-the-sun.xhtml"/>
+		<itemref idref="pines.xhtml"/>
+		<itemref idref="the-impulse.xhtml"/>
+		<itemref idref="the-invitation.xhtml"/>
+		<itemref idref="the-regeneration-of-lord-ernie.xhtml"/>
+		<itemref idref="the-wings-of-horus.xhtml"/>
+		<itemref idref="an-egyptian-hornet.xhtml"/>
+		<itemref idref="cains-atonement.xhtml"/>
+		<itemref idref="the-other-wing.xhtml"/>
+		<itemref idref="initiation.xhtml"/>
+		<itemref idref="the-touch-of-pan.xhtml"/>
+		<itemref idref="the-tryst.xhtml"/>
+		<itemref idref="the-call.xhtml"/>
+		<itemref idref="the-decoy.xhtml"/>
+		<itemref idref="wireless-confusion.xhtml"/>
+		<itemref idref="chinese-magic.xhtml"/>
+		<itemref idref="first-hate.xhtml"/>
+		<itemref idref="running-wolf.xhtml"/>
+		<itemref idref="confession.xhtml"/>
+		<itemref idref="egyptian-sorcery.xhtml"/>
+		<itemref idref="the-lane-that-ran-east-and-west.xhtml"/>
+		<itemref idref="the-olive.xhtml"/>
+		<itemref idref="the-tarn-of-sacrifiice.xhtml"/>
+		<itemref idref="the-valley-of-the-beasts.xhtml"/>
+		<itemref idref="the-wolves-of-god.xhtml"/>
+		<itemref idref="vengeance-is-mine.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
