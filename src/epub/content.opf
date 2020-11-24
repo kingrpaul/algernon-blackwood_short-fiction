@@ -320,27 +320,27 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Suzanne Shell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Newman </dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Newman, David</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Dave Morgan and the Beginners Projects</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Beginners Projects, Dave Morgan and the</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-4">Stan Goodman</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">Goodman, Stan</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-5">Tonya Allen</dc:contributor>
 		<meta property="file-as" refines="#transcriber-5">Allen, Tonya</meta>
-		<dc:contributor id="transcriber-6">Michael Ciesielski</dc:contributor>
-		<meta property="file-as" refines="#transcriber-4">Ciesielski, Michael</meta>
-		<dc:contributor id="transcriber-7">Annika Feilbach</dc:contributor>
-		<dc:contributor id="transcriber-8">David Starner</dc:contributor>
-		<meta property="file-as" refines="#transcriber-5">Starner, David</meta>
-		<meta property="file-as" refines="#transcriber-5">Feilbach, Annika</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-6">Michael Ciesielski</dc:contributor>
+		<meta property="file-as" refines="#transcriber-6">Ciesielski, Michael</meta>
 		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-7">Annika Feilbach</dc:contributor>
+		<meta property="file-as" refines="#transcriber-7">Feilbach, Annika</meta>
 		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-8">David Starner</dc:contributor>
+		<meta property="file-as" refines="#transcriber-8">Starner, David</meta>
 		<meta property="role" refines="#transcriber-8" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Paul King</dc:contributor>
 		<meta property="file-as" refines="#producer-1">King, Paul</meta>
