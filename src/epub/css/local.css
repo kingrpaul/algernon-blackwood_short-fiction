@@ -6,6 +6,64 @@
 	text-indent: 0;
 }
 
+[epub|type~="z3998:poem"] p + p{
+	margin-top: 1em;
+}
+
+[epub|type~="z3998:poem"] p > span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+[epub|type~="z3998:poem"] p > span + br{
+	display: none;
+}
+
+p span.i1{
+	text-indent: -1em;
+	padding-left: 2em;
+}
+
+p span.i2{
+	text-indent: -1em;
+	padding-left: 3em;
+}
+
+<blockquote epub:type="z3998:poem">
+	<p>
+		<span>...</span>
+		<br/>
+		<span>...</span>
+	</p>
+</blockquote>
+
+span.elision{
+	margin: .5em;
+	margin-left: 3em;
+}
+
+/* If eliding within an epigraph, include this additional style: */
+[epub|type~="epigraph"] span.elision{
+	font-style: normal;
+}
+
+<blockquote epub:type="z3998:verse">
+	<p>
+		<span>O Lady! we receive but what we give,</span>
+		<br/>
+		<span>And in our life alone does nature live:</span>
+		<br/>
+		<span>Ours is her wedding garments, ours her shroud!</span>
+		<br/>
+		<span class="elision">⋮</span>
+		<br/>
+		<span class="i1">Ah! from the soul itself must issue forth</span>
+		<br/>
+		<span>A light, a glory, a fair luminous cloud,</span>
+	</p>
+</blockquote>
+
 [epub|type~="z3998:postscript"]{
 	margin-top: 1em;
 	text-indent: 0;
