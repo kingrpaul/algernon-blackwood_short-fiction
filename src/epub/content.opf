@@ -397,7 +397,6 @@
 		<item href="text/running-wolf.xhtml" id="running-wolf.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sand.xhtml" id="sand.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/secret-worship.xhtml" id="secret-worship.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-eccentricity-of-simon-parnacute.xhtml" id="simon-parnacute.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/skeleton-lake-an-episode-in-camp.xhtml" id="skeleton-lake-an-episode-in-camp.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/smith-an-episode-in-a-lodging-house.xhtml" id="smith-an-episode-in-a-lodging-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/temptation-of-the-clay.xhtml" id="temptation-of-the-clay.xhtml" media-type="application/xhtml+xml"/>
@@ -408,6 +407,7 @@
 		<item href="text/the-dance-of-death.xhtml" id="the-dance-of-death.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-decoy.xhtml" id="the-decoy.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-deferred-appointment.xhtml" id="the-deferred-appointment.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-eccentricity-of-simon-parnacute.xhtml" id="the-eccentricity-of-simon-parnacute.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-empty-house.xhtml" id="the-empty-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-empty-sleeve.xhtml" id="the-empty-sleeve.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-glamour-of-the-snow.xhtml" id="the-glamour-of-the-snow.xhtml" media-type="application/xhtml+xml"/>
@@ -431,7 +431,7 @@
 		<item href="text/the-regeneration-of-lord-ernie.xhtml" id="the-regeneration-of-lord-ernie.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-sacrifice.xhtml" id="the-sacrifice.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-sea-fit.xhtml" id="the-sea-fit.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-strange-adventures-of-a-private-secretary-in-new-york.xhtml" id="the-strange-adventures-of-a-private-secretary-in-new-york.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-strange-adventures-of-a-private-secretary-in-ny.xhtml" id="the-strange-adventures-of-a-private-secretary-in-ny.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-tarn-of-sacrifiice.xhtml" id="the-tarn-of-sacrifiice.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-terror-of-the-twins.xhtml" id="the-terror-of-the-twins.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-touch-of-pan.xhtml" id="the-touch-of-pan.xhtml" media-type="application/xhtml+xml"/>
@@ -487,7 +487,7 @@
 		<itemref idref="the-terror-of-the-twins.xhtml"/>
 		<itemref idref="if-the-cap-fits.xhtml"/>
 		<itemref idref="old-clothes.xhtml"/>
-		<itemref idref="simon-parnacute.xhtml"/>
+		<itemref idref="the-eccentricity-of-simon-parnacute.xhtml"/>
 		<itemref idref="the-sea-fit.xhtml"/>
 		<itemref idref="the-wendigo.xhtml"/>
 		<itemref idref="accessory-before-the-fact.xhtml"/>

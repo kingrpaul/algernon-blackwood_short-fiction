@@ -6,4 +6,13 @@
 			<reason>Spaces used to align columns in production notes.</reason>
 		</ignore>
 	</file>
+	<file path="the-strange-adventures-of-a-private-secretary-in-ny.xhtml">
+		<ignore>
+			<code>m-045</code>
+			<reason>Visually confirmed title present in the TOC.</reason>
+		</ignore>
+	</file>
+
+
+
 </se-lint-ignore>
