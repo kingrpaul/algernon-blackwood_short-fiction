@@ -399,7 +399,7 @@
 		<item href="text/secret-worship.xhtml" id="secret-worship.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/skeleton-lake-an-episode-in-camp.xhtml" id="skeleton-lake-an-episode-in-camp.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/smith-an-episode-in-a-lodging-house.xhtml" id="smith-an-episode-in-a-lodging-house.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/temptation-of-the-clay.xhtml" id="temptation-of-the-clay.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-temptation-of-the-clay.xhtml" id="the-temptation-of-the-clay.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-attic.xhtml" id="the-attic.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-call.xhtml" id="the-call.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-camp-of-the-dog.xhtml" id="the-camp-of-the-dog.xhtml" media-type="application/xhtml+xml"/>
@@ -503,7 +503,7 @@
 		<itemref idref="two-in-one.xhtml"/>
 		<itemref idref="ancient-lights.xhtml"/>
 		<itemref idref="sand.xhtml"/>
-		<itemref idref="temptation-of-the-clay.xhtml"/>
+		<itemref idref="the-temptation-of-the-clay.xhtml"/>
 		<itemref idref="the-attic.xhtml"/>
 		<itemref idref="the-goblins-collection.xhtml"/>
 		<itemref idref="the-man-who-found-out.xhtml"/>
