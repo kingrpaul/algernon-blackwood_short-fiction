@@ -1,0 +1,106 @@
+se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10897
+
+=== COMMIT 1 ===
+wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/14471/14471-h/14471-h.htm"
+file -bi src/epub/text/body.xhtml
+perl -pi -e 's|<h2|<!--se:split--><h2|g' src/epub/text/body.xhtml
+se split-file src/epub/text/body.xhtml
+* Rename file
+* Remove <a> tags: <a.[^<]+</a>
+* Fix <hr> tags.
+git add -A 
+git commit -m "Initial commit a-haunted island"
+ == a-haunted-island
+ == a-suspicious-gift
+
+=== COMMIT 2 ===
+se clean .
+* Convert en-US -> en-GB
+git add -A 
+git commit -m "Split files and clean"
+
+=== COMMIT 3 ===
+se typogrify .
+git add -A
+git commit -m "Typogrify"
+
+=== COMMIT 4 ===
+* Other typogrify: ((\s)‘([a-z]))|(([0-9])+’)|(([0-9])+”)|((?<!en-)(?<!z3998:roman">)(?<![A-Z])[A-Z]{2,}(?!"))|(—[’”][^<\s])|(([’”])([,.]))
+* Exclude Files: toc.*, colo*, impr*, uncopy*,*.opf,title*,*.md,*.svg,*.css,*.xml
+git add -A
+git commit -m "Manual typography changes"
+
+=== COMMIT 5 ===
+se find-unusual-characters .
+git add -A
+git commit -m "Correct transcription errors"
+
+
+=== COMMIT 6 ===
+* Check no footnotes
+git add -A 
+git commit -m "Move footnotes to endnotes"
+
+=== COMMIT 7 ===
+* Check no figures
+git add -A
+git commit -m "Add LOI"
+
+=== COMMIT 8 ===
+se british2american .
+* Check wonky quotes: [^”‘]+’⁠—(?=[^”]*?</p>;)
+git commit -am "Convert from British-style quotation to American style"
+
+=== COMMIT 9 ===
+se semanticate .
+git diff -U0 --word-diff-regex=.
+git commit -am "Semanticate"
+
+=== COMMIT 10 ==
+* Check bad semantics: (([A-Z’]{2,}))|(([A-Z]\.(\s?[A-Z]\.)*))|((a\.m\.)|(p\.m\.))
+* Check foreign language, poetry, times, letters
+git commit -am "Manually add additional semantics"
+
+=== COMMIT 11 ===
+se modernize-spelling .
+git diff -U0 --word-diff-regex=.
+* Check split words: (([Ss])ome one)|(([Aa])ny one)|(([Ee])very one)|(([Aa])ny way)|(([Ww])ith out)
+git commit -am "[Editorial] Modernize hyphenation and spelling"
+
+=== COMMIT 12 ===
+se find-mismatched-dashes .
+git commit -am "[Editorial] Correct mismatched dashes"
+
+=== COMMIT 13 ===
+* Fix title:
+	<body epub:type="bodymatter z3998:fiction">
+		<article id="the-empty-house" epub:type="se:short-story">
+			<h2 epub:type="title">The Empty House</h2>
+se build-title .
+git commit -am "Add titles"
+
+=== COMMIT 14 ===
+se build-manifest . 
+se build-spine .
+git commit -am "Add manifest and spine"
+
+=== COMMIT 15 ===
+se build-toc .
+git commit -am "Add ToC"
+
+=== COMMIT 16 ===
+se clean .
+se lint .
+se build --output-dir=$HOME/dist/ --kindle .
+git commit -am "Proofread"
+
+
+
+
+============
+
+to reinitialize 
+---------------
+rm -rf .git 
+git init
+
