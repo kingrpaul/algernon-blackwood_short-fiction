@@ -1,5 +1,7 @@
 se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10897
 * Exclude Files: toc.*, colo*, impr*, uncopy*,*.opf,title*,*.md,*.svg,*.css,*.xml
+Quotes: ‘ ’  “ ”
+
 
 === COMMIT 1 ===
 wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/14471/14471-h/14471-h.htm"
@@ -10,11 +12,13 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags.
 git add -A
-git commit -m "Initial commit keeping-his-promise"
+git commit -m "Initial smith-an-episode-in-a-lodging-house"
  == a-haunted-island
  == a-suspicious-gift
  == a-case-of-eavesdropping
  == keeping-his-promise
+ == skeleton-lake-an-episode-in-camp
+ == smith-an-episode-in-a-lodging-house
 
 === COMMIT 2 ===
 se clean .
