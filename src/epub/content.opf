@@ -85,6 +85,7 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-case-of-eavesdropping.xhtml" id="a-case-of-eavesdropping.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-haunted-island.xhtml" id="a-haunted-island.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-suspicious-gift.xhtml" id="a-suspicious-gift.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -97,6 +98,7 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="a-haunted-island.xhtml"/>
+		<itemref idref="a-case-of-eavesdropping.xhtml"/>
 		<itemref idref="a-suspicious-gift.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
