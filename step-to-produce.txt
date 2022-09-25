@@ -1,4 +1,5 @@
 se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10897
+* Exclude Files: toc.*, colo*, impr*, uncopy*,*.opf,title*,*.md,*.svg,*.css,*.xml
 
 === COMMIT 1 ===
 wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/14471/14471-h/14471-h.htm"
@@ -8,15 +9,17 @@ se split-file src/epub/text/body.xhtml
 * Rename file
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags.
-git add -A 
-git commit -m "Initial commit a-haunted island"
+git add -A
+git commit -m "Initial commit keeping-his-promise"
  == a-haunted-island
  == a-suspicious-gift
+ == a-case-of-eavesdropping
+ == keeping-his-promise
 
 === COMMIT 2 ===
 se clean .
 * Convert en-US -> en-GB
-git add -A 
+git add -A
 git commit -m "Split files and clean"
 
 === COMMIT 3 ===
@@ -26,7 +29,6 @@ git commit -m "Typogrify"
 
 === COMMIT 4 ===
 * Other typogrify: ((\s)‘([a-z]))|(([0-9])+’)|(([0-9])+”)|((?<!en-)(?<!z3998:roman">)(?<![A-Z])[A-Z]{2,}(?!"))|(—[’”][^<\s])|(([’”])([,.]))
-* Exclude Files: toc.*, colo*, impr*, uncopy*,*.opf,title*,*.md,*.svg,*.css,*.xml
 git add -A
 git commit -m "Manual typography changes"
 
@@ -34,7 +36,6 @@ git commit -m "Manual typography changes"
 se find-unusual-characters .
 git add -A
 git commit -m "Correct transcription errors"
-
 
 === COMMIT 6 ===
 * Check no footnotes
@@ -90,7 +91,7 @@ git commit -am "Add ToC"
 
 === COMMIT 16 ===
 se clean .
-se lint .
+se lint . > lint.txt
 se build --output-dir=$HOME/dist/ --kindle .
 git commit -am "Proofread"
 
