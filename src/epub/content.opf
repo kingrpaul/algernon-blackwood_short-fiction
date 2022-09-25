@@ -90,6 +90,7 @@
 		<item href="text/a-suspicious-gift.xhtml" id="a-suspicious-gift.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/keeping-his-promise.xhtml" id="keeping-his-promise.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
@@ -100,6 +101,7 @@
 		<itemref idref="a-haunted-island.xhtml"/>
 		<itemref idref="a-case-of-eavesdropping.xhtml"/>
 		<itemref idref="a-suspicious-gift.xhtml"/>
+		<itemref idref="keeping-his-promise.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
