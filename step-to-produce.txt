@@ -1,6 +1,16 @@
 se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10897
 * Exclude Files: toc.*, colo*, impr*, uncopy*,*.opf,title*,*.md,*.svg,*.css,*.xml
 Quotes: ‘ ’  “ ”
+ == a-haunted-island
+ == a-suspicious-gift
+ == a-case-of-eavesdropping
+ == keeping-his-promise
+ == skeleton-lake-an-episode-in-camp
+ == smith-an-episode-in-a-lodging-house
+ == the-empty-house
+ == the-strange-adventures-of-a-private-secretary-in-new-york
+ == the-wood-of-the-dead
+ 
 
 
 === COMMIT 1 ===
@@ -12,13 +22,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags.
 git add -A
-git commit -m "Initial smith-an-episode-in-a-lodging-house"
- == a-haunted-island
- == a-suspicious-gift
- == a-case-of-eavesdropping
- == keeping-his-promise
- == skeleton-lake-an-episode-in-camp
- == smith-an-episode-in-a-lodging-house
+git commit -m "Initial the-empty-house"
 
 === COMMIT 2 ===
 se clean .
