@@ -10,6 +10,7 @@ Quotes: ‘ ’  “ ”
  == the-empty-house
  == the-strange-adventures-of-a-private-secretary-in-new-york
  == the-wood-of-the-dead
+ == with-intent-to-steal
  
 
 
@@ -20,9 +21,9 @@ perl -pi -e 's|<h2|<!--se:split--><h2|g' src/epub/text/body.xhtml
 se split-file src/epub/text/body.xhtml
 * Rename file
 * Remove <a> tags: <a.[^<]+</a>
-* Fix <hr> tags.
+* Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial the-empty-house"
+git commit -m "Initial NEW_STORY"
 
 === COMMIT 2 ===
 se clean .
@@ -89,7 +90,7 @@ se build-title .
 git commit -am "Add titles"
 
 === COMMIT 14 ===
-se build-manifest . 
+se build-manifest .
 se build-spine .
 git commit -am "Add manifest and spine"
 
