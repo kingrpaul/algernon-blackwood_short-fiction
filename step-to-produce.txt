@@ -14,11 +14,14 @@ Quotes: ‘ ’  “ ”
  == the-wendigo
  == the-willows
  == a-bit-of-wood
+ == the-man-whom-the-trees-loved
+ == wayfarers
+
  
 
 
 === COMMIT 1 ===
-wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/45964/45964-h/45964-h.htm"
+wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/cache/epub/11377/pg11377.html"
 file -bi src/epub/text/body.xhtml
 perl -pi -e 's|<h2|<!--se:split--><h2|g' src/epub/text/body.xhtml
 se split-file src/epub/text/body.xhtml
@@ -26,7 +29,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit a-bit-of-wood"
+git commit -m "Initial commit the-man-whom-the-trees-loved"
 
 === COMMIT 2 ===
 se clean .
