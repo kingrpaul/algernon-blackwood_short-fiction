@@ -11,14 +11,14 @@ Quotes: ‘ ’  “ ”
  == the-strange-adventures-of-a-private-secretary-in-new-york
  == the-wood-of-the-dead
  == with-intent-to-steal
- == the-willows
  == the-wendigo
- 
+ == the-willows
+ == a-bit-of-wood
  
 
 
 === COMMIT 1 ===
-wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/10897/10897-h/10897-h.htm"
+wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/45964/45964-h/45964-h.htm"
 file -bi src/epub/text/body.xhtml
 perl -pi -e 's|<h2|<!--se:split--><h2|g' src/epub/text/body.xhtml
 se split-file src/epub/text/body.xhtml
@@ -26,7 +26,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-wendigo"
+git commit -m "Initial commit a-bit-of-wood"
 
 === COMMIT 2 ===
 se clean .
