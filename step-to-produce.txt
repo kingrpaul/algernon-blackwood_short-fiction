@@ -12,12 +12,13 @@ Quotes: ‘ ’  “ ”
  == the-wood-of-the-dead
  == with-intent-to-steal
  == the-willows
+ == the-wendigo
  
  
 
 
 === COMMIT 1 ===
-wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/11438/11438-h/11438-h.htm"
+wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/10897/10897-h/10897-h.htm"
 file -bi src/epub/text/body.xhtml
 perl -pi -e 's|<h2|<!--se:split--><h2|g' src/epub/text/body.xhtml
 se split-file src/epub/text/body.xhtml
@@ -25,7 +26,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial NEW_STORY"
+git commit -m "Initial commit the-wendigo"
 
 === COMMIT 2 ===
 se clean .

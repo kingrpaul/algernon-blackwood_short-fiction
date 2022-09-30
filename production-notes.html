@@ -2,27 +2,96 @@
 <html>
 
 <head>
-  <link href="production-notes.css" rel="stylesheet" type="text/css" />
+  <style>
+    blockquote {font-variant: small-caps;}
+    td {font-size: 1em;}
+    h1 {font-size: 1.5em;}
+    p {margin: 0.1em;}
+    ul {
+      list-style-type: none;
+      margin-top: 0.8em;
+    }
+    ul li {margin-top: 0.2em;}
+
+    ul>header {font-weight: bold;}
+    ul li::marker {display: none;}
+    ul li,
+    ul li a,
+    ul li p {
+      color: black;
+      display: block;
+      margin-left: 1em;
+      width: fit-content;
+    }
+
+    ul li a {
+      font-size: 0.8em;
+      font-variant: small-caps;
+      text-decoration: none;
+    }
+
+    ul li p {
+      font-size: 0.9em;
+      font-style: italic;
+    }
+
+    li.working>header {
+      color: blue;
+      text-decoration: underline;
+    }
+
+    li.no-source>header {
+      color: red;
+      font-size: 0.9em;
+    }
+
+    li.text-read>header::after {content: " ⊕";}
+  </style>
 </head>
 
 <body>
 
-  <h1>Notes: Algernon Blackwood, Short Fiction</h1>
+  <table style="width: 100%; padding:1em;">
+    <tbody>
+      <tr>
+        <td>
+          <img style="display:inline-block;" width="100vw" class="center" 
+          src="https://media.mutualart.com/Images//2019_03/05/10/102438097/05d22306-e0e7-4c8c-8f86-58926cf24608.Jpeg"
+          alt="painted portrait of Algernon Blackwood"></td>
+          <td>
+            <h1>Algernon Blackwood, Short Fiction</h1>
+            <blockquote>
+              "My imagination requires a judicious rein; I am afraid to let it loose, 
+              for it carries me sometimes into appalling places beyond the stars 
+              and beneath the world."
+            </blockquote>
+          </td>
+      </tr>
+    </tbody>
+  </table>
 
-  <ul>
-    <hr />
-    <li>
-      <p>YEAR</p>
-      <dl>
-        <dt>Title</dt>
-        <dd>
-          <p>Transcript Source (YEAR)</p>
-          <p>Page Scans Source (YEAR)</p>
-          <p>Notes, ⊕=read</p>
-        </dd>
-      </dl>
-    </li>
-    <hr />
+  <hr />
+
+    <ul>
+      <header>1896</header>
+      <li class="working">
+        <header>The Story of Karl Ott</header>
+        <a target="_blank" href="https://en.wikisource.org/wiki/The_Story_of_Karl_Ott">[WikiSource] The Empty House And Other Ghost Stories (1906)</a>
+        <a target="_blank" href="https://archive.org/details/sim_pall-mall-magazine_1896-10_10_42/page/188/mode/2up">[Archive] The Story of Karl Ott (1896)</a>
+        <p>pdf-32, complete</p>
+      </li>
+    </ul>
+
+
+    <ul>
+      <header>1897</header>
+    </ul>
+
+
+    <ul>
+      <header>1898</header>
+    </ul>
+
 
 
     <ul>
@@ -33,7 +102,7 @@
           The Empty House And Other Ghost Stories (1906)</a>
         <a target="_blank" href="https://archive.org/details/emptyhouseotherg00blacrich/page/n9/mode/2up">[Archive]
           The Empty House And Other Ghost Stories (1906)</a>
-        <p>pdf-pg32, complete</p>
+        <p>pdf-32, complete</p>
       </li>
     </ul>
 
@@ -52,11 +121,11 @@
 
     <ul>
       <header>1901</header>
-      <li>
-        <header></header>
-        <a target="_blank" href=""></a>
-        <a target="_blank" href=""></a>
-        <p></p>
+      <li class="no-source">
+        <header>Summering in Canadian Backwoods</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="">[ ] Longman’s Magazine Jan 1901</a>
+        <p>no scans, no transcript</p>
       </li>
     </ul>
 
@@ -91,6 +160,23 @@
         <a target="_blank" href="">no scans</a>
         <p></p>
       </li>
+
+      <li class="no-source">
+        <header>The House of the Past</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=216&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
+        <p>no transcript, no scans</p>
+      </li>
+
+
+
+
+      <li class="no-source">
+        <header> 	Testing His Courage - The Story of a Quaint Device</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="">[ ] Pearson’s Magazine Sep 1904 </a>
+        <p>no transcript, no scans</p>
+      </li>
     </ul>
 
 
@@ -108,6 +194,12 @@
 
     <ul>
       <header>1906</header>
+      <li class="no-source">
+        <header>A Holiday Down the Danube with Punt and Tent</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="">[ ] The Boy’s Own Paper Sep 1 1906</a>
+        <p>no transcript, no scans</p>
+      </li>
       <li class="text-read">
         <header>A Suspicious Gift</header>
         <a target="_blank" href="https://www.gutenberg.org/files/14471/14471-h/14471-h.htm#chapter8">
@@ -125,6 +217,18 @@
           <a target="_blank" href="https://archive.org/details/emptyhouseotherg00blacrich/page/90/mode/2up">[Archive]
             The Empty House And Other Ghost Stories (1906)</a>
             <p>pdf-90, complete</p>
+      </li>
+      <li class="no-source">
+        <header>About Moose and Moose-Hunting</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="">[ ] Pearson’s Magazine Nov 1923</a>
+        <p>no transcript, no scan</p>
+      </li>
+      <li class="no-source">
+        <header>My Adventure with a Lion</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="">[ ] The Boy’s Own Paper Jun 2 1906</a>
+        <p>no transcript, no scan</p>
       </li>
       <li class="text-read">
         <header>Skeleton Lake: An Episode in Camp</header>
@@ -184,21 +288,120 @@
 
     <ul>
       <header>1907</header>
+      <li class="working">
+        <header>Max Hensig</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/MaxHensig.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://archive.org/details/listenerandothe00blacgoog/page/n51/mode/2up">[Archive] The Listener and Other Stories (1917)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>May Day Eve</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/May_Day_Eve.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://archive.org/details/listenerandothe00blacgoog/page/n275/mode/2up">[Archive] The Listener and Other Stories (1917)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>Miss Slumbubble—and Claustrophobia</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/Miss_Slumbubble.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://archive.org/details/listenerandothe00blacgoog/page/n311/mode/2up">[Archive] The Listener and Other Stories (1917)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Dance of Death</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/danceofdeath.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://archive.org/details/listenerandothe00blacgoog/page/n243/mode/2up">[Archive] The Listener and Other Stories (1917)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Eccentricity of Simon Parnacute</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/Simon_Parnacute.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=hvd.32044086875077&view=1up&seq=321&skin=2021">The Lost Valley and Other Stories [Hathi] (1917)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Insanity of Jones</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/16726/16726-h/16726-h.htm#The_Insanity_of_Jones">[Gutenberg] Four Weird Tales (no-year)</a>
+        <a target="_blank" href="https://archive.org/details/listenerandothe00blacgoog/page/n203/mode/2up">[Archive] The Listener and Other Stories (1917)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Listener</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/Listener.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://archive.org/details/listenerandothe00blacgoog/page/n9/mode/2up">[Archive] The Listener and Other Stories (1917)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Man Who Played Upon the Leaf</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/ManWhoPlayed.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=hvd.32044086875077&view=1up&seq=261&skin=2021">The Lost Valley and Other Stories [Hathi] (1917)</a>
+        <p></p>
+      </li>
+      <li class="no-source">
+        <header>The Old Man of Visions</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="https://archive.org/details/listenerandothe00blacgoog/page/n259/mode/2up">[Archive] The Listener and Other Stories (1917)</a>
+        <p></p>
+      </li>
       <li class="working text-read">
         <header>The Willows</header>
         <a target="_blank" href="https://www.gutenberg.org/files/11438/11438-h/11438-h.htm">[Gutenberg] The Willows (1907)</a>
         <a target="_blank" href="https://archive.org/details/TheWillows/page/n1/mode/2up">[Archive] The Willows (1907)</a>
         <p></p>
       </li>
-    </ul>
+      <li class="working">
+        <header>The Woman's Ghost Story</header>
+        <a target="_blank" href="https://americanliterature.com/author/algernon-blackwood/short-story/the-womans-ghost-story">AmericanLiterature.com (transcript)/</a>
+        <a target="_blank" href="https://www.hauntedcrossroads.com/stories/algernon-blackwood/the-womans-ghost-story-algernon-blackwood/">also… HauntedCrossroads.com  (transcript)</a>
+        <a target="_blank" href="https://archive.org/details/listenerandothe00blacgoog/page/n335/mode/2up">[Archive] The Listener and Other Stories (1917)</a>
+        <p></p>
+      </li>
 
+    </ul>
 
     <ul>
       <header>1908</header>
+
+      <li class="working">
+        <header>Case 1: A Psychical Invasion</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/49222/49222-h/49222-h.htm#i">[Gutenberg] John Silence, Physician Extraordinary (1908)</a>
+        <a target="_blank" href="https://archive.org/details/johnsilencephysi00blac/page/n9/mode/2up">[Archive] John Silence, Physician Extraordinary (1908)</a>
+        <p>john-silence, <b>group these as one work?</b></p>
+      </li>
+
+      <li class="working">
+        <header>Case 2: Ancient Sorceries</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/49222/49222-h/49222-h.htm#ii">[Gutenberg] John Silence, Physician Extraordinary (1908)</a>
+        <a target="_blank" href="https://archive.org/details/johnsilencephysi00blac/page/72/mode/2up">[Archive] John Silence, Physician Extraordinary (1908)</a>
+        <p>john-silence, <b>group these as one work?</b></p>
+      </li>
+      <li class="working">
+        <header>Case 4: Secret Worship</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/49222/49222-h/49222-h.htm#iv">[Gutenberg] John Silence, Physician Extraordinary (1908)</a>
+        <a target="_blank" href="https://archive.org/details/johnsilencephysi00blac/page/242/mode/2up">[Archive] John Silence, Physician Extraordinary (1908)</a>
+        <p>john-silence, <b>group these as one work?</b></p>
+      </li>
+      <li class="working">
+        <header>Case 5: The Camp of the Dog</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/49222/49222-h/49222-h.htm#v">[Gutenberg] John Silence, Physician Extraordinary (1908)</a>
+        <a target="_blank" href="https://archive.org/details/johnsilencephysi00blac/page/290/mode/2up">[Archive] John Silence, Physician Extraordinary (1908)</a>
+        <p>john-silence, <b>group these as one work?</b></p>
+      </li>
+      <li class="working">
+        <header>Case 3: The Nemesis of Fire</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/49222/49222-h/49222-h.htm#iii">[Gutenberg] John Silence, Physician Extraordinary (1908)</a>
+        <a target="_blank" href="https://archive.org/details/johnsilencephysi00blac/page/140/mode/2up">[Archive] John Silence, Physician Extraordinary (1908)</a>
+        <p>john-silence, <b>group these as one work?</b></p>
+      </li>
       <li class="no-source">
         <header>Stodgman's Opportunity</header>
         <a target="_blank" href="">no transcript</a>
         <a target="_blank" href="">no scans</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Kit-Bag</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/kit_bag.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=njp.32101064477225&view=1up&seq=723&skin=2021">[Hathi] Pall Mall Magazine, December 1908</a>
         <p></p>
       </li>
       <li class="no-source">
@@ -212,11 +415,23 @@
     
     <ul>
       <header>1909</header>
-      <li>
-        <header></header>
-        <a target="_blank" href=""></a>
-        <a target="_blank" href=""></a>
+      <li class="working">
+        <header>Carlton's Drive</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/CarltonsDrive.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=hvd.32044086875077&view=1up&seq=311&skin=2021">The Lost Valley and Other Stories [Hathi] (1917)</a>
         <p></p>
+      </li>
+      <li class="working">
+        <header>Entrance and Exit</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/Entrance_Exit.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=176&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
+        <p></p>
+      </li>
+      <li class="no-source">
+        <header>You May Telephone From Here</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=184&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
+        <p>no transcript</p>
       </li>
     </ul>
 
@@ -224,10 +439,52 @@
 
     <ul>
       <header>1910</header>
+      <li class="working">
+        <header>If the Cap Fits</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/If_the_Cap_Fits.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href=" 	https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=233&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
+        <p></p>
+      </li>
+      <li class="no-source">
+        <header>Imagination</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=102&skin=2021">[Hathi] Ten Minute Stories (1914)</a>
+        <p></p>
+      </li>
+      <li class="no-source">
+        <header>Perspective</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=hvd.32044086875077&view=1up&seq=207&skin=2021">[Hathi] The Lost Valley and Other Stories (1917)</a>
+        <p></p>
+      </li>
+      <li class="no-source">
+        <header>The Lost Valley</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=hvd.32044086875077&view=1up&seq=19&skin=2021">[Hathi] The Lost Valley and Other Stories (1917)</a>
+        <p></p>
+      </li>
+      <li class="no-source">
+        <header>The Man From the 'Gods'</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=hvd.32044086875077&view=1up&seq=243&skin=2021">[Hathi] The Lost Valley and Other Stories (1917)</a>
+        <p></p>
+      </li>
       <li class="no-source">
         <header>The Message of the Clock</header>
         <a target="_blank" href="">no transcript</a>
         <a target="_blank" href="">no scans</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>Old Clothes</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/Old_clothes.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=hvd.32044086875077&view=1up&seq=165&skin=2021">The Lost Valley and Other Stories [Hathi] (1917)</a>
+        <p></p>
+      </li>
+      <li class="no-source">
+        <header>The Price of Wiggins's Orgy</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=hvd.32044086875077&view=1up&seq=285&skin=2021">[Hathi] The Lost Valley and Other Stories (1917)</a>
         <p></p>
       </li>
       <li class="no-source">
@@ -242,7 +499,25 @@
         <a target="_blank" href="">no scans</a>
         <p></p>
       </li>
-      <li class="working text-read">
+      <li class="no-source">
+        <header>Special Delivery</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="https://archive.org/details/pansgardenvolume00blacuoft/page/384/mode/2up">[Archive] Pan's Garden (1912)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Sea Fit</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/Sea_Fit.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://archive.org/details/pansgardenvolume00blacuoft/page/112/mode/2up">[Archive] Pan's Garden (1912)</a>
+        <p></p>
+      </li>
+      <li class="no-source">
+        <header>The Strange Experience of the Rev. Phillip Ambleside</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="">[ ] The Pall Mall Magazine Mar 1910</a>
+        <p></p>
+      </li>
+      <li class="text-read">
         <header>The Wendigo</header>
         <a target="_blank" href="https://www.gutenberg.org/files/10897/10897-h/10897-h.htm"> [Gutenberg] The Wendigo(1910)</a>
         <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=hvd.32044086875077&view=1up&seq=103&skin=2021">[Hathi] The Lost Valley and Other Stories (1917)</a>
@@ -254,19 +529,84 @@
 
     <ul>
       <header>1911</header>
+      <li class="working">
+        <header>Accessory Before the Fact</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/AccessoryBeforetheFact.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=15&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>Clairvoyance</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/Clairvoyance.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://archive.org/details/pansgardenvolume00blacuoft/page/360/mode/2up">[Archive] Pan's Garden (1912)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>Dream Trespass</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/Dream_Trespass.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=153&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
+        <p></p>
+      </li>
       <li class="no-source">
         <header>In A Jura Village</header>
         <a target="_blank" href="">no transcript</a>
         <a target="_blank" href="">no scans</a>
         <p></p>
       </li>
+      <li class="working">
+        <header>The Deferred Appointment</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/Deferred_Appointment.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=26&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Empty Sleeve</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/38310/38310-h/38310-h.htm#Page_211">[Gutenberg] The Wolves of God, and Other Fey Stories (1921)</a>
+        <a target="_blank" href="https://archive.org/details/wolvesofgodandot00blacrich/page/216/mode/2up">[Archive] The Wolves of God, and Other Fey Stories (1921)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Golden Fly</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/golden_fly.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://archive.org/details/pansgardenvolume00blacuoft/page/372/mode/2up">[Archive] Pan's Garden (1912)</a>
+        <p></p>
+      </li>
+      <li class="working text-read">
+        <header>The Messenger</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/Messenger.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://archive.org/details/pansgardenvolume00blacuoft/page/164/mode/2up">[Archive] Pan's Garden (1912)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Prayer</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/The_Prayer.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=35&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Transfer</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/Transfer.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://archive.org/details/pansgardenvolume00blacuoft/page/340/mode/2up">[Archive] Pan's Garden (1912)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>Two in One</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/Two_in_One.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=130&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
+        <p></p>
+      </li>
     </ul>
-
 
 
 
     <ul>
       <header>1912</header>
+      <li class="working">
+        <header>Ancient Lights</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/ancient%20lights.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=142&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
+        <p></p>
+      </li>
       <li class="no-source">
         <header>Egyptian Antiquities</header>
         <a target="_blank" href="">no transcript</a>
@@ -279,17 +619,119 @@
         <a target="_blank" href="">no scans</a>
         <p></p>
       </li>
+      <li class="working">
+        <header>Sand</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/16726/16726-h/16726-h.htm#Sand">[Gutenberg] Four Weird Tales (no-year)</a>
+        <a target="_blank" href="https://archive.org/details/pansgardenvolume00blacuoft/page/222/mode/2up">[Archive] Pan's Garden (1912)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Attic</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/Attic.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://archive.org/details/pansgardenvolume00blacuoft/page/136/mode/2up">[Archive] Pan's Garden (1912)</a>
+        <p></p>
+      </li>
       <li class="no-source">
         <header>The Bitter Bit</header>
         <a target="_blank" href="">no transcript</a>
         <a target="_blank" href="">no scans</a>
         <p></p>
       </li>
+      <li class="no-source">
+        <header>The Destruction of Smith</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="https://archive.org/details/pansgardenvolume00blacuoft/page/402/mode/2up">[Archive] Pan's Garden (1912)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Garden of Survival</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/Garden_of_Survival.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://archive.org/details/gardensurvival01blacgoog/page/n10/mode/2up">[Archive] The Garden of Survival (1918)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Glamour of the Snow</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/16726/16726-h/16726-h.htm#The_Glamour_of_the_Snow">[Gutenberg] Four Weird Tales (no-year)</a>
+        <a target="_blank" href="https://archive.org/details/pansgardenvolume00blacuoft/page/174/mode/2up">[Archive] Pan's Garden (1912)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Goblin's Collection</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/Goblins_Collection.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=90&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
+        <p></p>
+      </li>
+      <li class="no-source">
+        <header>The Heath Fire</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="https://archive.org/details/pansgardenvolume00blacuoft/page/148/mode/2up">[Archive] Pan's Garden (1912)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Man Who Found Out</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/38310/38310-h/38310-h.htm#Page_192">[Gutenberg] The Wolves of God, and Other Fey Stories (1921)</a>
+        <a target="_blank" href="https://archive.org/details/wolvesofgodandot00blacrich/page/196/mode/2up">[Archive] The Wolves of God, and Other Fey Stories (1921)</a>
+        <p></p>
+      </li>
+        <li class="working text-read">
+        <header>The Man Whom the Trees Loved</header>
+        <a target="_blank" href="https://www.gutenberg.org/cache/epub/11377/pg11377.html">[Gutenberg] The Man Whom the Trees Loved (1912)</a>
+        <a target="_blank" href="https://archive.org/details/pansgardenvolume00blacuoft/page/xii/mode/2up">[Archive] Pan's Garden (1912)</a>
+        <p></p>
+      </li>
+      <li class="no-source">
+        <header>The Return</header>
+        <a target="_blank" href="">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://archive.org/details/pansgardenvolume00blacuoft/page/210/mode/2up">[Archive] Pan's Garden (1912)</a>
+        <p>no transcript</p>
+      </li>
+      <li class="working">
+        <header>The Second Generation</header>
+        <a target="_blank" href="https://americanliterature.com/author/algernon-blackwood/short-story/the-second-generation">AmericanLiterature.com</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=274&skin=2021">[Hathi] Ten Minute Stories (1914)</a>
+        <p>no transcript</p>
+      </li>
+      <li class="working">
+        <header>The Temptation of the Clay</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/Temptation_of_the_Clay.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://archive.org/details/pansgardenvolume00blacuoft/page/416/mode/2up">[Archive] Pan's Garden (1912)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Terror of the Twins</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/Terror_Twins.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=hvd.32044086875077&view=1up&seq=233&skin=2021">The Lost Valley and Other Stories [Hathi] (1917)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Whisperers</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/The_Whisperers3.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=193&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>Wayfarers</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/43816/43816-h/43816-h.htm#V">[Gutenberg] Incredible Adventures (1914)</a>
+        <a target="_blank" href="https://archive.org/details/incredibleadvent00blac/page/336/mode/2up">[Archive] Incredible Adventures (1914)</a>
+        <p></p>
+      </li>
+      <li class="no-source">
+        <header>Wind</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=252&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
+        <p>no transcript</p>
+      </li>
     </ul>
  
 
     <ul>
       <header>1913</header>
+      <li class="working text-read">
+        <header>H.S.H.</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/45964/45964-h/45964-h.htm#XI">[Gutenberg] Day and Night Stories (1917)</a>
+        <a target="_blank" href="https://archive.org/details/dayandnightstori00blacrich/page/170/mode/2up">[Archive] Day and Night Stories (1917)</a>
+        <p>1913, pdf-186</p>
+      </li>
       <li class="no-source">
         <header>The Barmecide Feast</header>
         <a target="_blank" href="">no transcript</a>
@@ -308,6 +750,18 @@
         <a target="_blank" href="">no scans</a>
         <p></p>
       </li>
+      <li class="working text-read">
+        <header>The Tradition</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/45964/45964-h/45964-h.htm#XV">[Gutenberg] Day and Night Stories (1917)</a>
+        <a target="_blank" href="https://archive.org/details/dayandnightstori00blacrich/page/223/mode/2up">[Archive] Day and Night Stories (1917)</a>
+        <p>1913, pdf-238</p>
+      </li>
+      <li class="working text-read">
+        <header>Transition</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/45964/45964-h/45964-h.htm#XIV">[Gutenberg] Day and Night Stories (1917)</a>
+        <a target="_blank" href="https://archive.org/details/dayandnightstori00blacrich/page/216/mode/2up">[Archive] Day and Night Stories (1917)</a>
+        <p>1913, pdf-231</p>
+      </li>
       <li class="no-source">
         <header>Who Was She?</header>
         <a target="_blank" href="">no transcript</a>
@@ -321,10 +775,64 @@
 
     <ul>
       <header>1914</header>
+      <li class="working text-read">
+        <header>A Bit of Wood</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/45964/45964-h/45964-h.htm#XII">[Gutenberg] Day and Night Stories (1917)</a>
+        <a target="_blank" href="https://archive.org/details/dayandnightstori00blacrich/page/186/mode/2up">[Archive] Day and Night Stories (1917)</a>
+        <p>pdf-202</p>
+      </li>
+      <li class="working">
+        <header>A Descent into Egypt</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/43816/43816-h/43816-h.htm#IV">[Gutenberg] Incredible Adventures (1914)</a>
+        <a target="_blank" href="https://archive.org/details/incredibleadvent00blac/page/238/mode/2up">[Archive] Incredible Adventures (1914)</a>
+        <p></p>
+      </li>
+      <li class="working text-read">
+        <header>A Desert Episode</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/45964/45964-h/45964-h.htm#V">[Gutenberg] Day and Night Stories (1917)</a>
+        <a target="_blank" href="https://archive.org/details/dayandnightstori00blacrich/page/94/mode/2up">[Archive] Day and Night Stories (1917)</a>
+        <p>1914, pdf-109</p>
+      </li>
+      <li class="working text-read">
+        <header>A Victim of Higher Space</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/45964/45964-h/45964-h.htm#XIII">[Gutenberg] Day and Night Stories (1917)</a>
+        <a target="_blank" href="https://archive.org/details/dayandnightstori00blacrich/page/192/mode/2up">[Archive] Day and Night Stories (1917)</a>
+        <p>1914, john-silence, pdf-207</p>
+      </li>
       <li class="no-source">
         <header>Breakfast Honey</header>
         <a target="_blank" href="">no transcript</a>
         <a target="_blank" href="">no scans</a>
+        <p></p>
+      </li>
+      <li class="working text-read">
+        <header>By Water</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/45964/45964-h/45964-h.htm#X">[Gutenberg] Day and Night Stories (1917)</a>
+        <a target="_blank" href="https://archive.org/details/dayandnightstori00blacrich/page/162/mode/2up">[Archive] Day and Night Stories (1917)</a>
+        <p>1914, pdf-177</p>
+      </li>
+      <li class="no-source">
+        <header>Faith Cure on the Channel</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=83&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
+        <p></p>
+      </li>
+      <li class="no-source">
+        <header>Her Birthday</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=125&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
+        <p></p>
+      </li>
+      <li class="no-source">
+        <header>Jimbo's Longest Day</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=225&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>Let Not the Sun</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/Let_Not_the_Sun.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=166&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
         <p></p>
       </li>
       <li class="no-source">
@@ -334,10 +842,22 @@
         <p></p>
       </li>
       <li class="no-source">
+        <header>News vs Nourishment</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=243&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
+        <p></p>
+      </li>
+      <li class="no-source">
         <header>Non-Human</header>
         <a target="_blank" href="">no transcript</a>
         <a target="_blank" href="">no scans</a>
         <p></p>
+      </li>
+      <li class="working text-read">
+        <header>Pines</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/Pines.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=259&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
+        <p>pdf-202</p>
       </li>
       <li class="no-source">
         <header>The Daisy World</header>
@@ -345,10 +865,34 @@
         <a target="_blank" href="">no scans</a>
         <p></p>
       </li>
+      <li class="working">
+        <header>The Damned</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/43816/43816-h/43816-h.htm#III">[Gutenberg] Incredible Adventures (1914)</a>
+        <a target="_blank" href="https://archive.org/details/incredibleadvent00blac/page/128/mode/2up">[Archive] Incredible Adventures (1914)</a>
+        <p></p>
+      </li>
       <li class="no-source">
         <header>The Falling Glass</header>
         <a target="_blank" href="">no transcript</a>
         <a target="_blank" href="">no scans</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Impulse</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/The_Impulse.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=117&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Invitation</header>
+        <a target="_blank" href="https://algernonblackwood.org/Z-files/TheInvitation.pdf">AlgernonBlackwood.org</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=109&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
+        <p></p>
+      </li>
+      <li class="no-source">
+        <header>The Lease</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=65&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
         <p></p>
       </li>
       <li class="no-source">
@@ -361,6 +905,54 @@
         <header>The Philosopher</header>
         <a target="_blank" href="">no transcript</a>
         <a target="_blank" href="">no scans</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Regeneration of Lord Ernie</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/43816/43816-h/43816-h.htm#I">[Gutenberg] Incredible Adventures (1914)</a>
+        <a target="_blank" href="https://archive.org/details/incredibleadvent00blac/page/n13/mode/2up">[Archive] Incredible Adventures (1914)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Sacrifice</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/43816/43816-h/43816-h.htm#II">[Gutenberg] Incredible Adventures (1914)</a>
+        <a target="_blank" href="https://archive.org/details/incredibleadvent00blac/page/92/mode/2up">[Archive] Incredible Adventures (1914)</a>
+        <p></p>
+      </li>
+      <li class="no-source">
+        <header>The Secret</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=57&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
+        <p></p>
+      </li>
+      <li class="no-source">
+        <header>The Strange Disappearance of a Baronet</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=46&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
+        <p></p>
+      </li>
+      <li class="working text-read">
+        <header>The Wings of Horus</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/45964/45964-h/45964-h.htm#III">[Gutenberg] Day and Night Stories (1917)</a>
+        <a target="_blank" href="https://archive.org/details/dayandnightstori00blacrich/page/41/mode/2up">[Archive] Day and Night Stories (1917)</a>
+        <p>1914, pdf-56</p>
+      </li>
+      <li class="no-source">
+        <header>The Winter Alps</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=266&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
+        <p></p>
+      </li>
+      <li class="no-source">
+        <header>Up and Down</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=73&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
+        <p></p>
+      </li>
+      <li class="no-source">
+        <header>Violence</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&view=1up&seq=203&skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
         <p></p>
       </li>
       <li class="no-source">
@@ -376,6 +968,12 @@
 
     <ul>
       <header>1915</header>
+      <li class="working text-read">
+        <header>Cain's Atonement</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/45964/45964-h/45964-h.htm#VIII">[Gutenberg] Day and Night Stories (1917)</a>
+        <a target="_blank" href="https://archive.org/details/dayandnightstori00blacrich/page/145/mode/2up">[Archive] Day and Night Stories (1917)</a>
+        <p>1915, pdf-160</p>
+      </li>      
       <li class="no-source">
         <header>The Celestial Motorbus</header>
         <a target="_blank" href="">no transcript</a>
@@ -387,6 +985,12 @@
         <a target="_blank" href="">no transcript</a>
         <a target="_blank" href="">no scans</a>
         <p></p>
+      </li>
+      <li class="working text-read">
+        <header>The Other Wing</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/45964/45964-h/45964-h.htm#VI">[Gutenberg] Day and Night Stories (1917)</a>
+        <a target="_blank" href="https://archive.org/details/dayandnightstori00blacrich/page/112/mode/2up">[Archive] Day and Night Stories (1917)</a>
+        <p>1915, pdf-127</p>
       </li>
       <li class="no-source">
         <header>The Paper Man</header>
@@ -406,11 +1010,23 @@
         <a target="_blank" href="">no scans</a>
         <p></p>
       </li>
+      <li class="working text-read">
+        <header>Initiation</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/45964/45964-h/45964-h.htm#IV">[Gutenberg] Day and Night Stories (1917)</a>
+        <a target="_blank" href="https://archive.org/details/dayandnightstori00blacrich/page/67/mode/2up">[Archive] Day and Night Stories (1917)</a>
+        <p>1916, pdf-81</p>
+      </li>
       <li class="no-source">
         <header>Proportion</header>
         <a target="_blank" href="">no transcript</a>
         <a target="_blank" href="">no scans</a>
         <p></p>
+      </li>
+      <li class="working text-read">
+        <header>The Occupant of the Room</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/45964/45964-h/45964-h.htm#VII">[Gutenberg] Day and Night Stories (1917)</a>
+        <a target="_blank" href="https://archive.org/details/dayandnightstori00blacrich/page/134/mode/2up">[Archive] Day and Night Stories (1917)</a>
+        <p>1909, pdf-149</p>
       </li>
       <li class="no-source">
         <header>The Snake</header>
@@ -425,11 +1041,23 @@
 
     <ul>
       <header>1917</header>
-      <li>
-        <header></header>
-        <a target="_blank" href=""></a>
-        <a target="_blank" href=""></a>
-        <p></p>
+      <li class="working text-read">
+        <header>An Egyptian Hornet</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/45964/45964-h/45964-h.htm#IX">[Gutenberg] Day and Night Stories (1917)</a>
+        <a target="_blank" href="https://archive.org/details/dayandnightstori00blacrich/page/154/mode/2up">[Archive] Day and Night Stories (1917)</a>
+        <p>1917, pdf-169</p>
+      </li>
+      <li class="working text-read">
+        <header>The Touch of Pan</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/45964/45964-h/45964-h.htm#II">[Gutenberg] Day and Night Stories (1917)</a>
+        <a target="_blank" href="https://archive.org/details/dayandnightstori00blacrich/page/16/mode/2up">[Archive] Day and Night Stories (1917)</a>
+        <p>1917, pdf-31</p>
+      </li>
+      <li class="working text-read">
+        <header>The Tryst</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/45964/45964-h/45964-h.htm#I">[Gutenberg] Day and Night Stories (1917)</a>
+        <a target="_blank" href="https://archive.org/details/dayandnightstori00blacrich/page/1/mode/2up">[Archive] Day and Night Stories (1917)</a>
+        <p>1917, pdf-16</p>
       </li>
     </ul>
 
@@ -443,6 +1071,12 @@
         <a target="_blank" href="">The Story-Teller (March 1918)</a>
         <p>No page scan source.</p>
       </li>
+      <li class="no-source">
+        <header>The Memory of Beauty</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="">[ ] Land & Water, Vol. 70 #2904 Jan 3 1918</a>
+        <p>no transcript, no scans</p>
+      </li>
     </ul>
 
 
@@ -455,6 +1089,25 @@
         <a target="_blank" href="https://algernonblackwood.org/Z-files/Alexander_Alexander.pdf">AlgernonBlackwood.org</a>
         <a target="_blank" href="">The Saturday Westminster Gazette (6 September 1919)</a>
         <p>No page scan source.</p>
+      </li>
+
+      <li class="working">
+        <header>The Call</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/38310/38310-h/38310-h.htm#Page_137">[Gutenberg] The Wolves of God, and Other Fey Stories (1921)</a>
+        <a target="_blank" href="https://archive.org/details/wolvesofgodandot00blacrich/page/138/mode/2up">[Archive] The Wolves of God, and Other Fey Stories (1921)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Decoy</header>
+        <a target="_blank" href="">[Gutenberg] The Wolves of God, and Other Fey Stories (1921)</a>
+        <a target="_blank" href="">[Archive] The Wolves of God, and Other Fey Stories (1921)</a>
+        <p></p>
+      </li>
+      <li class="no-source">
+        <header>The Little Beggar</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/38310/38310-h/38310-h.htm#Page_169">no transcript</a>
+        <a target="_blank" href="https://archive.org/details/wolvesofgodandot00blacrich/page/172/mode/2up">[ ] The Saturday Westminster Gazette May 10 1919</a>
+        <p>no transcript, no scans</p>
       </li>
       <li class="no-source">
         <header>The Other Woman</header>
@@ -474,16 +1127,43 @@
         <a target="_blank" href="">no scans</a>
         <p></p>
       </li>
+      <li class="working">
+        <header>Wireless Confusion</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/38310/38310-h/38310-h.htm#Page_230">[Gutenberg] The Wolves of God, and Other Fey Stories (1921)</a>
+        <a target="_blank" href="https://archive.org/details/wolvesofgodandot00blacrich/page/234/mode/2up">[Archive] The Wolves of God, and Other Fey Stories (1921)</a>
+        <p></p>
+      </li>
+  
+
     </ul>
 
 
 
     <ul>
       <header>1920</header>
-      <li>
-        <header></header>
-        <a target="_blank" href=""></a>
-        <a target="_blank" href=""></a>
+      <li class="working">
+        <header>Chinese Magic</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/38310/38310-h/38310-h.htm#Page_27">[Gutenberg] The Wolves of God, and Other Fey Stories (1921)</a>
+        <a target="_blank" href="https://archive.org/details/wolvesofgodandot00blacrich/page/26/mode/2up">[Archive] The Wolves of God, and Other Fey Stories (1921)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>First Hate</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/38310/38310-h/38310-h.htm#Page_74">[Gutenberg] The Wolves of God, and Other Fey Stories (1921)</a>
+        <a target="_blank" href="https://archive.org/details/wolvesofgodandot00blacrich/page/74/mode/2up">[Archive] The Wolves of God, and Other Fey Stories (1921)</a>
+        <p></p>
+      </li>
+
+      <li class="working">
+        <header>Running Wolf</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/38310/38310-h/38310-h.htm#Page_52">[Gutenberg] The Wolves of God, and Other Fey Stories (1921)</a>
+        <a target="_blank" href="https://archive.org/details/wolvesofgodandot00blacrich/page/52/mode/2up">[Archive] The Wolves of God, and Other Fey Stories (1921)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Olive</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/9363/9363-h/9363-h.htm#link2H_4_0006">[Gutenberg] The Best of British Short Stories (1922)</a>
+        <a target="_blank" href="https://archive.org/details/bestbritishshor00unkngoog/page/n64/mode/2up">[Archive] The Best of British Short Stories (1922)</a>
         <p></p>
       </li>
     </ul>
@@ -496,7 +1176,19 @@
       <li class="no-source">
         <header>Changing 'Ats</header>
         <a target="_blank" href="">no transcript</a>
-        <a target="_blank" href="">no scans</a>
+        <a target="_blank" href="">Time and Tide, Vol. 2 No. 50</a>
+        <p>no transcript, no scans</p>
+      </li>
+      <li class="working">
+        <header>Confession</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/38310/38310-h/38310-h.htm#Page_237">[Gutenberg] The Wolves of God, and Other Fey Stories (1921)</a>
+        <a target="_blank" href="https://archive.org/details/wolvesofgodandot00blacrich/page/242/mode/2up">[Archive] The Wolves of God, and Other Fey Stories (1921)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>Egyptian Sorcery</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/38310/38310-h/38310-h.htm#Page_151">[Gutenberg] The Wolves of God, and Other Fey Stories (1921)</a>
+        <a target="_blank" href="https://archive.org/details/wolvesofgodandot00blacrich/page/152/mode/2up">[Archive] The Wolves of God, and Other Fey Stories (1921)</a>
         <p></p>
       </li>
       <li class="no-source">
@@ -505,6 +1197,38 @@
         <a target="_blank" href="">no scans</a>
         <p></p>
       </li>
+      <li class="working">
+        <header>The Lane That Ran East and West</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/38310/38310-h/38310-h.htm#Page_259">[Gutenberg] The Wolves of God, and Other Fey Stories (1921)</a>
+        <a target="_blank" href="https://archive.org/details/wolvesofgodandot00blacrich/page/264/mode/2up">[Archive] The Wolves of God, and Other Fey Stories (1921)</a>
+        <p></p>
+      </li>
+        <li class="working">
+        <header>The Tarn of Sacrifice</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/38310/38310-h/38310-h.htm#Page_86">[Gutenberg] The Wolves of God, and Other Fey Stories (1921)</a>
+        <a target="_blank" href="https://archive.org/details/wolvesofgodandot00blacrich/page/86/mode/2up">[Archive] The Wolves of God, and Other Fey Stories (1921)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Valley of the Beasts</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/38310/38310-h/38310-h.htm#Page_113">[Gutenberg] The Wolves of God, and Other Fey Stories (1921)</a>
+        <a target="_blank" href="https://archive.org/details/wolvesofgodandot00blacrich/page/114/mode/2up">[Archive] The Wolves of God, and Other Fey Stories (1921)</a>
+        <p></p>
+      </li>
+      <li class="working">
+        <header>The Wolves of God</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/38310/38310-h/38310-h.htm#Page_1">[Gutenberg] The Wolves of God, and Other Fey Stories (1921)</a>
+        <a target="_blank" href="https://archive.org/details/wolvesofgodandot00blacrich/page/n11/mode/2up">[Archive] The Wolves of God, and Other Fey Stories (1921)</a>
+        <p></p>
+      </li>
+        <li class="working">
+        <header>Vengeance Is Mine</header>
+        <a target="_blank" href="https://www.gutenberg.org/files/38310/38310-h/38310-h.htm#Page_279">[Gutenberg] The Wolves of God, and Other Fey Stories (1921)</a>
+        <a target="_blank" href="https://archive.org/details/wolvesofgodandot00blacrich/page/284/mode/2up">[Archive] The Wolves of God, and Other Fey Stories (1921)</a>
+        <p></p>
+      </li>
+  
+
     </ul>
 
 
@@ -517,22 +1241,42 @@
         <p></p>
       </li>
       <li class="no-source">
-        <header>Lost!</header>
+        <header>Lost in the Alps</header>
         <a target="_blank" href="">no transcript</a>
-        <a target="_blank" href="">no scans</a>
-        <p></p>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=hvd.hn46n6&view=1up&seq=121&skin=2021">[Hathi] The Living Age Volume CCCXV Sep 8 1922</a>
+        <p>No transcript.</p>
       </li>
+      <li class="no-source">
+        <header>The Woman’s Ghost Story</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="">[ ] Pearson’s Magazine (US) Jun 1922</a>
+        <p>No transcript. No page scans.</p>
+      </li>
+
+
     </ul>
 
 
 
     <ul>
       <header>1923</header>
-      <li>
-        <header></header>
-        <a target="_blank" href=""></a>
-        <a target="_blank" href=""></a>
-        <p></p>
+      <li class="no-source">
+        <header>Adventurous Memories</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="">[ ] Cassell’s Magazine of Fiction Jul, Aug, Sep, Oct, Nov 1923</a>
+        <p>No transcript, no scans.</p>
+      </li>
+      <li class="no-source">
+        <header>The Man Who Was Milligan</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="">[ ] Pearson’s Magazine Nov 1923</a>
+        <p>No transcript, no scans.</p>
+      </li>
+      <li class="no-source">
+        <header>Tongues of Fire</header>
+        <a target="_blank" href="">no transcript</a>
+        <a target="_blank" href="">[ ] The English Review, Vol. 36 No. 4, Apr 1923</a>
+        <p>No transcript, no scans.</p>
       </li>
     </ul>
 
@@ -598,1320 +1342,51 @@
 
     </ul>
 
-<!--     
-    <li class="no-source">
-      <header></header>
-      <a target="_blank" href="">no transcript</a>
-      <a target="_blank" href="">no scans</a>
-      <p></p>
-    </li>
- -->
 
-
-
-<!-- 
-    <ul>
-      <header></header>
-      <li>
-        <header></header>
-        <a target="_blank" href=""></a>
-        <a target="_blank" href=""></a>
-        <p></p>
-      </li>
-    </ul>
- -->
-
-
-<br/>
-
-
-
-  <table>
-    <caption>Works Included (titles in bold were fully-read)</caption>
-    <tr>
-      <th class="year" ;>Year</th>
-      <th class="title">Title</th>
-      <th class="transcript">Transcript</th>
-      <th class="scans">Page Scans</th>
-      <th class="notes">Notes</th>
-    </tr>
-    <tr>
-      <td>1914</td>
-      <td class="read">A Bit of Wood</td>
-      <td>[3]</td>
-      <td>[4]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1914</td>
-      <td class="read">A Desert Episode</td>
-      <td>[3]</td>
-      <td>[4]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1914</td>
-      <td class="read">A Victim of Higher Space</td>
-      <td>[3]</td>
-      <td>[4]</td>
-      <td>John Silence</td>
-    </tr>
-    <tr>
-      <td>1917</td>
-      <td class="read">An Egyptian Hornet </td>
-      <td>[3]</td>
-      <td>[4]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1914</td>
-      <td class="read">By Water</td>
-      <td>[3]</td>
-      <td>[4]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1915</td>
-      <td class="read">Cain's Atonement</td>
-      <td>[3]</td>
-      <td>[4]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1913</td>
-      <td class="read">H.S.H.</td>
-      <td>[3]</td>
-      <td>[4]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1916</td>
-      <td class="read">Initiation</td>
-      <td>[3]</td>
-      <td>[4]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1909</td>
-      <td class="read">The Occupant of the Room</td>
-      <td>[3]</td>
-      <td>[4]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1915</td>
-      <td class="read">The Other Wing</td>
-      <td>[3]</td>
-      <td>[4]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1917</td>
-      <td class="read">The Touch of Pan</td>
-      <td>[3]</td>
-      <td>[4]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1913</td>
-      <td class="read">The Tradition</td>
-      <td>[3]</td>
-      <td>[4]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1917</td>
-      <td class="read">The Tryst</td>
-      <td>[3]</td>
-      <td>[4]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1914</td>
-      <td class="read">The Wings of Horus</td>
-      <td>[3]</td>
-      <td>[4]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1913</td>
-      <td class="read">Transition</td>
-      <td>[3]</td>
-      <td>[4]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1914</td>
-      <td class="read">Pines</td>
-      <td>[5]</td>
-      <td>[6]</td>
-      <td>added to <a href="https://en.wikipedia.org/wiki/Draft:Algernon_Blackwood_bibliography" target="_blank">
-          Wikipedia</a> </td>
-    </tr>
-    <tr>
-      <td>1911</td>
-      <td class="read">The Messenger</td>
-      <td>[5]</td>
-      <td>[7]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1921</td>
-      <td class="read">The Olive</td>
-      <td>[8]</td>
-      <td>[9]</td>
-      <td></td>
-    </tr>
-    <!-- <tr>
-      <td>1907</td>
-      <td class="read">The Willows</td>
-      <td>[10]</td>
-      <td>[11]</td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1910</td>
-      <td class="read">The Wendigo</td>
-      <td>[12]</td>
-      <td>[13]</td>
-      <td></td>
-    </tr> -->
-    <tr>
-      <td>1912</td>
-      <td class="read">The Man Whom the Trees Loved</td>
-      <td>[14]</td>
-      <td>[7]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1914</td>
-      <td class="unread">A Descent into Egypt</td>
-      <td>[15]</td>
-      <td>[16]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1914</td>
-      <td class="unread">The Damned</td>
-      <td>[15]</td>
-      <td>[16]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1914</td>
-      <td class="unread">The Regeneration of Lord Ernie</td>
-      <td>[15]</td>
-      <td>[16]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1914</td>
-      <td class="unread">The Sacrifice</td>
-      <td>[15]</td>
-      <td>[16]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1912</td>
-      <td class="unread">Wayfarers</td>
-      <td>[15]</td>
-      <td>[16]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1908</td>
-      <td class="unread">A Psychical Invasion</td>
-      <td>[17]</td>
-      <td>[18]</td>
-      <td>John Silence</td>
-    </tr>
-    <tr>
-      <td>1908</td>
-      <td class="unread">Ancient Sorceries</td>
-      <td>[17]</td>
-      <td>[18]</td>
-      <td>John Silence</td>
-    </tr>
-    <tr>
-      <td>1908</td>
-      <td class="unread">Secret Worship</td>
-      <td>[17]</td>
-      <td>[18]</td>
-      <td>John Silence</td>
-    </tr>
-    <tr>
-      <td>1908</td>
-      <td class="unread">The Camp of the Dog</td>
-      <td>[17]</td>
-      <td>[18]</td>
-      <td>John Silence</td>
-    </tr>
-    <tr>
-      <td>1908</td>
-      <td class="unread">The Nemesis of Fire</td>
-      <td>[17]</td>
-      <td>[18]</td>
-      <td>John Silence</td>
-    </tr>
-    <tr>
-      <td>1920</td>
-      <td class="unread">Chinese Magic</td>
-      <td>[19]</td>
-      <td>[20]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1921</td>
-      <td class="unread">Confession</td>
-      <td>[19]</td>
-      <td>[20]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1921</td>
-      <td class="unread">Egyptian Sorcery</td>
-      <td>[19]</td>
-      <td>[20]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1920</td>
-      <td class="unread">First Hate</td>
-      <td>[19]</td>
-      <td>[20]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1920</td>
-      <td class="unread">Running Wolf</td>
-      <td>[19]</td>
-      <td>[20]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1919</td>
-      <td class="unread">The Call</td>
-      <td>[19]</td>
-      <td>[20]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1919</td>
-      <td class="unread">The Decoy</td>
-      <td>[19]</td>
-      <td>[20]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1911</td>
-      <td class="unread">The Empty Sleeve</td>
-      <td>[19]</td>
-      <td>[20]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1921</td>
-      <td class="unread">The Lane That Ran East and West</td>
-      <td>[19]</td>
-      <td>[20]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1912</td>
-      <td class="unread">The Man Who Found Out</td>
-      <td>[19]</td>
-      <td>[20]</td>
-      <td>Also appears in [21]</td>
-    </tr>
-    <tr>
-      <td>1921</td>
-      <td class="unread">The Tarn of Sacrifice</td>
-      <td>[19]</td>
-      <td>[20]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1921</td>
-      <td class="unread">The Valley of the Beasts</td>
-      <td>[19]</td>
-      <td>[20]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1921</td>
-      <td class="unread">The Wolves of God</td>
-      <td>[19]</td>
-      <td>[20]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1921</td>
-      <td class="unread">Vengeance Is Mine</td>
-      <td>[19]</td>
-      <td>[20]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1919</td>
-      <td class="unread">Wireless Confusion</td>
-      <td>[19]</td>
-      <td>[20]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1907</td>
-      <td class="unread">The Insanity of Jones</td>
-      <td>[21]</td>
-      <td>[22]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1912</td>
-      <td class="unread">Sand</td>
-      <td>[21]</td>
-      <td>[7]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1911</td>
-      <td class="unread">The Glamour of the Snow</td>
-      <td>[21]</td>
-      <td>[7]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1911</td>
-      <td class="unread">The Deferred Appointment</td>
-      <td>[5]</td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1924</td>
-      <td class="unread">The Impulse</td>
-      <td>[5]</td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1914</td>
-      <td class="unread">The Invitation</td>
-      <td>[5]</td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1909</td>
-      <td class="unread">Entrance and Exit</td>
-      <td>[5]</td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1911</td>
-      <td class="unread">Accessory Before the Fact</td>
-      <td>[5]</td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1910</td>
-      <td class="unread">If the Cap Fits</td>
-      <td>[5]</td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1911</td>
-      <td class="unread">Clairvoyance</td>
-      <td>[5]</td>
-      <td>[7]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1911</td>
-      <td class="unread">The Golden Fly</td>
-      <td>[5]</td>
-      <td>[7]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1912</td>
-      <td class="unread">The Whisperers</td>
-      <td>[5]</td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1914</td>
-      <td class="unread">Let Not the Sun -</td>
-      <td>[5]</td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1912</td>
-      <td class="unread">The Attic</td>
-      <td>[5]</td>
-      <td>[7]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1911</td>
-      <td class="unread">The Prayer</td>
-      <td>[5]</td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1909</td>
-      <td class="unread">Carlton's Drive</td>
-      <td>[5]</td>
-      <td>[13]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1912</td>
-      <td class="unread">Ancient Lights</td>
-      <td>[5]</td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1912</td>
-      <td class="unread">The Terror of the Twins</td>
-      <td>[5]</td>
-      <td>[13]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1912</td>
-      <td class="unread">The Goblin's Collection</td>
-      <td>[5]</td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1911</td>
-      <td class="unread">Dream Trespass</td>
-      <td>[5]</td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1911</td>
-      <td class="unread">Two in One</td>
-      <td>[5]</td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1907</td>
-      <td class="unread">The Dance of Death</td>
-      <td>[5]</td>
-      <td>[22]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1911</td>
-      <td class="unread">The Transfer</td>
-      <td>[5]</td>
-      <td>[7]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1908</td>
-      <td class="unread">The Kit-Bag</td>
-      <td>[5]</td>
-      <td>[27]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1910</td>
-      <td class="unread">The Sea Fit</td>
-      <td>[5]</td>
-      <td>[7]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1907</td>
-      <td class="unread">Miss Slumbubble—and Claustrophobia</td>
-      <td>[5]</td>
-      <td>[22]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1907</td>
-      <td class="unread">The Man Who Played Upon the Leaf</td>
-      <td>[5]</td>
-      <td>[13]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1907</td>
-      <td class="unread">May Day Eve</td>
-      <td>[5]</td>
-      <td>[22]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1907</td>
-      <td class="unread">The Listener</td>
-      <td>[5]</td>
-      <td>[22]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1907</td>
-      <td class="unread">The Eccentricity of Simon Parnacute</td>
-      <td>[5]</td>
-      <td>[13]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1910</td>
-      <td class="unread">Old Clothes</td>
-      <td>[5]</td>
-      <td>[13]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1907</td>
-      <td class="unread">Max Hensig</td>
-      <td>[5]</td>
-      <td>[22]</td>
-      <td>scans missing pg 106-107, rpt to but they cannot correct</td>
-    </tr>
-    <tr>
-      <td>1912</td>
-      <td class="unread">The Temptation of the Clay</td>
-      <td>[5]</td>
-      <td>[7]</td>
-      <td></td>
-    </tr>
-
-  </table>
-
-
-
-
-
-  <!-- <table>
-    <caption>Excluded - Transcript Available, But No Page Scans</caption>
-    <tr>
-      <th class="year" ;>Year</th>
-      <th class="title">Title</th>
-      <th class="transcript">Transcript</th>
-      <th class="scans">Page Scans</th>
-      <th class="notes">Notes</th>
-    </tr> -->
-    <!-- <tr>
-      <td>1919</td>
-      <td class="unread">Alexander Alexander</td>
-      <td>[5]</td>
-      <td>[23]</td>
-      <td>added to <a href="https://en.wikipedia.org/wiki/Draft:Algernon_Blackwood_bibliography" target="_blank">
-          Wikipedia</a></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1924</td>
-      <td class="unread">Malahide and Forden</td>
-      <td>[5]</td>
-      <td>[24]</td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1918</td>
-      <td class="unread">S.O.S.</td>
-      <td>[5]</td>
-      <td>[25]</td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1910</td>
-      <td class="unread">The Singular Death of Morton</td>
-      <td>[5]</td>
-      <td>[26]</td>
-      <td></td>
-    </tr> -->
-  <!-- </table><br /> -->
-
-  <!-- <table>
-    <caption>Excluded - No Source Known or Available</caption>
-    <tr>
-      <th class="year" ;>Year</th>
-      <th class="title">Title</th>
-      <th class="transcript">Transcript</th>
-      <th class="scans">Page Scans</th>
-      <th class="notes">Notes</th>
-    </tr> -->
-    <!-- <tr>
-      <td>1902</td>
-      <td class="unread">The Last Egg in the Nest</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1910</td>
-      <td class="unread">The Message of the Clock</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1904</td>
-      <td class="unread">How Garnier Broke the Log-Jam</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <td>1908</td>
-    <td class="unread">Stodgman's Opportunity</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1908</td>
-      <td class="unread">The Story of Mr. Popkiss Told</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1910</td>
-      <td class="unread">The South Wind</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1911</td>
-      <td class="unread">In A Jura Village</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1912</td>
-      <td class="unread">Egyptian Antiquities</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1912</td>
-      <td class="unread">La Mauvaise Riche</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1912</td>
-      <td class="unread">The Bitter Bit</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1913</td>
-      <td class="unread">The Barmecide Feast</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1913</td>
-      <td class="unread">The Kiss of a Psychologist</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1913</td>
-      <td class="unread">The Story Hour</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1913</td>
-      <td class="unread">Who Was She?</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1914</td>
-      <td class="unread">Breakfast Honey</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1914</td>
-      <td class="unread">Maria</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1914</td>
-      <td class="unread">Non-Human</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1914</td>
-      <td class="unread">The Daisy World</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1914</td>
-      <td class="unread">The Falling Glass</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1914</td>
-      <td class="unread">The Night Wind</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1914</td>
-      <td class="unread">The Philosopher</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1914</td>
-      <td class="unread">What Nobody Understands</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <tr>
-      <!-- <td>1915</td>
-      <td class="unread">The Celestial Motorbus</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1915</td>
-      <td class="unread">The God</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1915</td>
-      <td class="unread">The Paper Man</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1916</td>
-      <td class="unread">Camping Out</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1916</td>
-      <td class="unread">Proportion</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1916</td>
-      <td class="unread">The Snake</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1919</td>
-      <td class="unread">The Other Woman
-      </td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1919</td>
-      <td class="unread">The Perfect Poseur</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1919</td>
-      <td class="unread">The World-Dream of McCallister</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1921</td>
-      <td class="unread">Changing 'Ats</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1921</td>
-      <td class="unread">Nephelé</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1922</td>
-      <td class="unread">Genius</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1922</td>
-      <td class="unread">Lost!</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1924</td>
-      <td class="unread">A Continuous Performance</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1924</td>
-      <td class="unread">A Man of Earth</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1924</td>
-      <td class="unread">Laughter of Courage</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1924</td>
-      <td class="unread">Petershin and Mr. Snide</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1924</td>
-      <td class="unread">Picking Fir-Cones</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1924</td>
-      <td class="unread">Playing Catch</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1924</td>
-      <td class="unread">The Open Window</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-    <!-- <tr>
-      <td>1924</td>
-      <td class="unread">The Pikestaffe Case</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> -->
-
-  <!-- </table><br /> -->
-
-
-  <table>
-    <caption>Excluded - Page Scans (or source) Available, But No Transcript</caption>
-    <tr>
-      <th class="year" ;>Year</th>
-      <th class="title">Title</th>
-      <th class="transcript">Transcript</th>
-      <th class="scans">Page Scans</th>
-      <th class="notes">Notes</th>
-    </tr>
-    <tr>
-      <td>1922</td>
-      <td class="unread">The Woman’s Ghost Story</td>
-      <td></td>
-      <td>[42]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1923</td>
-      <td class="unread">Tongues of Fire</td>
-      <td></td>
-      <td>[41]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1901</td>
-      <td class="unread">Summering in Canadian Backwoods</td>
-      <td></td>
-      <td>[40]</td>
-      <td>added to <a href="https://en.wikipedia.org/wiki/Draft:Algernon_Blackwood_bibliography" target="_blank">
-          Wikipedia</a></td>
-    </tr>
-    <tr>
-      <td>1910</td>
-      <td class="unread">The Strange Experience of the Rev. Phillip Ambleside</td>
-      <td></td>
-      <td>[39]</td>
-      <td>added to <a href="https://en.wikipedia.org/wiki/Draft:Algernon_Blackwood_bibliography" target="_blank">
-          Wikipedia</a></td>
-    </tr>
-    <tr>
-      <td>1911</td>
-      <td class="unread">The Return</td>
-      <td></td>
-      <td>[38]</td>
-      <td>Also appears in [43] and [7]?</td>
-    </tr>
-    <tr>
-      <td>1906</td>
-      <td class="unread">My Adventure with a Lion</td>
-      <td></td>
-      <td>[37]</td>
-      <td>added to <a href="https://en.wikipedia.org/wiki/Draft:Algernon_Blackwood_bibliography" target="_blank">
-          Wikipedia</a></td>
-    </tr>
-    <tr>
-      <td>1918</td>
-      <td class="unread">The Memory of Beauty</td>
-      <td></td>
-      <td>[35]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1906</td>
-      <td class="unread">A Holiday Down the Danube with Punt and Tent</td>
-      <td></td>
-      <td>[34]</td>
-      <td>added to <a href="https://en.wikipedia.org/wiki/Draft:Algernon_Blackwood_bibliography" target="_blank">
-          Wikipedia</a></td>
-    </tr>
-    <tr>
-      <td>1923</td>
-      <td class="unread">Adventurous Memories</td>
-      <td></td>
-      <td>[33]</td>
-      <td>added to <a href="https://en.wikipedia.org/wiki/Draft:Algernon_Blackwood_bibliography" target="_blank">
-          Wikipedia</a></td>
-    </tr>
-    <tr>
-      <td>1904</td>
-      <td class="unread">The House of the Past</td>
-      <td></td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1909</td>
-      <td class="unread">You May Telephone From Here</td>
-      <td></td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1910</td>
-      <td class="unread">Imagination</td>
-      <td></td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1912</td>
-      <td class="unread">The Second Generation</td>
-      <td></td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1914</td>
-      <td class="unread">Faith Cure on the Channel</td>
-      <td></td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1914</td>
-      <td class="unread">Her Birthday</td>
-      <td></td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1914</td>
-      <td class="unread">Jimbo's Longest Day</td>
-      <td></td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1914</td>
-      <td class="unread">News vs Nourishment</td>
-      <td></td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1914</td>
-      <td class="unread">The Lease</td>
-      <td></td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1914</td>
-      <td class="unread">The Secret</td>
-      <td></td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1914</td>
-      <td class="unread">The Strange Disappearance of a Baronet</td>
-      <td></td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1914</td>
-      <td class="unread">Up and Down</td>
-      <td></td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1914</td>
-      <td class="unread">Violence</td>
-      <td></td>
-      <td>[6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1910</td>
-      <td class="unread">Perspective</td>
-      <td></td>
-      <td>[13]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1910</td>
-      <td class="unread">The Lost Valley</td>
-      <td></td>
-      <td>[13]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1910</td>
-      <td class="unread">The Man From the 'Gods'</td>
-      <td></td>
-      <td>[13]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1910</td>
-      <td class="unread">The Price of Wiggins's Orgy</td>
-      <td></td>
-      <td>[13]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1907</td>
-      <td class="unread">The Old Man of Visions</td>
-      <td></td>
-      <td>[22]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1907</td>
-      <td class="unread">The Woman's Ghost Story</td>
-      <td></td>
-      <td>[22]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1917</td>
-      <td class="unread">The Winter Alps</td>
-      <td></td>
-      <td>[22]</td>
-      <td>added to <a href="https://en.wikipedia.org/wiki/Draft:Algernon_Blackwood_bibliography" target="_blank">
-          Wikipedia</a></td>
-    </tr>
-    <tr>
-      <td>1910</td>
-      <td class="unread">Special Delivery</td>
-      <td></td>
-      <td>[7]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1912</td>
-      <td class="unread">The Destruction of Smith</td>
-      <td></td>
-      <td>[7]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1912</td>
-      <td class="unread">The Heath Fire</td>
-      <td></td>
-      <td>[7]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1912</td>
-      <td class="unread">Wind</td>
-      <td></td>
-      <td>[6]</td>
-      <td>added to <a href="https://en.wikipedia.org/wiki/Draft:Algernon_Blackwood_bibliography" target="_blank">
-          Wikipedia</a></td>
-    </tr>
-    <tr>
-      <td>1896</td>
-      <td class="unread">The Story of Karl Ott</td>
-      <td></td>
-      <td>[28]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1904</td>
-      <td class="unread">Testing His Courage - The Story of a Quaint Device</td>
-      <td></td>
-      <td>[29]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1919</td>
-      <td class="unread">The Little Beggar</td>
-      <td></td>
-      <td>[32]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1906</td>
-      <td class="unread">About Moose and Moose-Hunting</td>
-      <td></td>
-      <td>[36]</td>
-      <td>added to <a href="https://en.wikipedia.org/wiki/Draft:Algernon_Blackwood_bibliography" target="_blank">
-          Wikipedia</a></td>
-    </tr>
-    <tr>
-      <td>1923</td>
-      <td class="unread">The Man Who Was Milligan</td>
-      <td></td>
-      <td>[31]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1912</td>
-      <td class="unread">The Garden of Survival</td>
-      <td>[5]</td>
-      <td>[44]</td>
-      <td>text incomplete, missing eg pp 80-87</td>
-    </tr>
-
-  </table>
-  <br />
-
-
-
-  <h2>Story Sources</h2>
-  <!-- <p>[1] <a href="http://www.gutenberg.org/ebooks/14471"> The Empty House And Other Ghost Stories [Gutenberg] (1906)</a>
-  </p>
-  <p>[2] <a href="https://archive.org/details/emptyhouseotherg00blacrich"> The Empty House And Other Ghost Stories
-      [Archive] (1906)</a></p> -->
-  <p>[3] <a href="https://www.gutenberg.org/ebooks/45964">Day and Night Stories [Gutenberg] (1917)</a></p>
-  <p>[4] <a href="https://archive.org/details/dayandnightstori45964gut">Day and Night Stories [Archive] (1917)</a></p>
-  <p>[5] <a href="http://http://algernonblackwood.org/">AlgernonBlackwood.org</a></p>
-  <p>[6] <a href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554">Ten Minute Stories [Hathi]] (1914)</a></p>
-  <p>[7] <a href="https://archive.org/details/pansgardenvolume00blacuoft">Pan's Garden [Archive] (1912)</a></p>
-  <p>[8] <a href="https://www.gutenberg.org/ebooks/9363">The Best of British Short Stories [Gutenberg] (1922)</a></p>
-  <p>[9] <a href="https://archive.org/details/bestbritishshor00unkngoog">The Best of British Short Stories [Archive]
-      (1922)</a></p>
-  <!-- <p>[10] <a href="https://www.gutenberg.org/ebooks/11438">The Willows [Gutenberg] (1907)</a></p>
-  <p>[11] <a href="https://archive.org/details/TheWillows">The Willows [Archive] (1907)</a></p> -->
-  <!-- <p>[12] <a href="https://www.gutenberg.org/ebooks/10897">The Wendigo [Gutenberg] (1910)</a></p> -->
-  <p>[13] <a href="https://babel.hathitrust.org/cgi/pt?id=hvd.32044086875077">The Lost Valley and Other Stories [Hathi]
-      (1917)</a></p>
-  <p>[14] <a href="https://www.gutenberg.org/ebooks/11377">The Man Whom the Trees Loved [Gutenberg] (1912)</a></p>
-  <p>[15] <a href="https://www.gutenberg.org/ebooks/43816">Incredible Adventures [Gutenberg] (1914)</a></p>
-  <p>[16] <a href="https://archive.org/details/incredibleadvent00blac">Incredible Adventures [Archive] (1914)</a></p>
-  <p>[17] <a href="https://www.gutenberg.org/ebooks/49222">John Silence, Physician Extraordinary [Gutenberg] (1908)</a>
-  </p>
-  <p>[18] <a href="https://archive.org/details/johnsilencephysi00blac">John Silence, Physician Extraordinary [Archive]
-      (1908)</a></p>
-  <p>[19] <a href="https://www.gutenberg.org/ebooks/38310">The Wolves of God, and Other Fey Stories [Gutenberg]
-      (1921)</a></p>
-  <p>[20] <a href="https://archive.org/details/wolvesofgodandot00blacrich">The Wolves of God, and Other Fey Stories
-      [Archive] (1921)</a></p>
-  <p>[21] <a href="https://www.gutenberg.org/ebooks/16726">Four Weird Tales [Gutenberg]</a></p>
-  <p>[22] <a href="https://archive.org/details/listenerandothe00blacgoog">The Listener and Other Stories [Archive]</a>
-  </p>
-  <!-- <p>[23] The Saturday Westminster Gazette (6 September 1919)</p> -->
-  <!-- <p>[24] Tongues of Fire and Other Sketches (23 November 1924)</p> -->
-  <!-- <p>[25] The Story-Teller (March 1918)</p> -->
-  <!-- <p>[26] The Tramp, Vol. 2 No. 10 </p> -->
-  <p>[27] <a href="https://hdl.handle.net/2027/njp.32101064477225?urlappend=%3Bseq=723">Pall Mall Magazine, December
-      1908</a></p>
-  <p>[28] <a href="https://hdl.handle.net/2027/mdp.39015075053952?urlappend=%3Bseq=211">The Pall Mall magazine. v.10
-      1896 Sep-Dec.</a></p>
-  <p>[29] Pearson’s Magazine Sep 1904
-    <!-- <p>[30] Nash’s Magazine Jun 1910</p> -->
-    <p>[31] Pearson’s Magazine Nov 1923</p>
-    <p>[32] The Saturday Westminster Gazette May 10 1919</p>
-    <p>[33] Cassell’s Magazine of Fiction Jul, Aug, Sep, Oct, Nov 1923</p>
-    <p>[34] The Boy’s Own Paper Sep 1 1906</p>
-    <p>[35] Land &amp; Water, Vol. 70 #2904 Jan 3 1918</p>
-    <p>[36] The Boy’s Own Paper Aug 11 1906</p>
-    <p>[37] The Boy’s Own Paper Jun 2 1906</p>
-    <p>[38] The Eye-Witness Jun 22 1911</p>
-    <p>[39] The Pall Mall Magazine Mar 1910</p>
-    <p>[40] Longman’s Magazine Jan 1901</p>
-    <p>[41] The English Review, Vol. 36 No. 4, Apr 1923</p>
-    <p>[42] Pearson’s Magazine (US) Jun 1922</p>
-    <p>[43] The Eye-Witness, Vol. 1 No. 1</p>
-    <p>[44] <a href="https://archive.org/details/gardensurvival01blacgoog">The Garden of Survival [Archive] (1918)</a>
-    </p>
+<hr/>
 
     <h2>Resources </h2>
-    <p><a target="_blank"
-        href="https://antimatter-camerlengo.blogspot.com/2015/01/algernon-blackwood-short-story-summaries.html">
-        Algernon Blackwood - The Short Story Summaries</a></p>
-    <p><a target="_blank" href="http://www.philsp.com/homeville/sfi/n00128.htm#A205">The Science Fiction, Fantasy, &
-        Weird Fiction
-        Magazine Index</a></p>
-
+    <ul>
+      <li>
+        <a target="_blank" href="https://antimatter-camerlengo.blogspot.com/2015/01/algernon-blackwood-short-story-summaries.html">Algernon Blackwood - The Short Story Summaries</a>
+      </li>
+      <li>
+        <a target="_blank" href="http://www.philsp.com/homeville/sfi/n00128.htm#A205">The Science Fiction, Fantasy, & Weird Fiction Magazine Index</a>
+      </li>    
+      <li>
+        <a target="_blank" href="https://wikisummaries.org/algernon-blackwood-authors/">WikiSummaries: Algernon Blackwood</a>
+      </li>
+      <li>
+        <a target="_blank" href="https://www.isfdb.org/cgi-bin/ea.cgi?1126+None">ISFDB: Summary Bibliography: Algernon Blackwood</a>
+      </li>
+      <li>
+        <a target="_blank" href="http://antimatter-camerlengo.blogspot.com/2015/01/algernon-blackwood-short-story-summaries.html">Truncheon: Algernon Blackwood- The Short Story Summaries</a>
+      </li>
+      <li>
+        <a target="_blank" href="https://forum.librivox.org/viewtopic.php?t=57337">LibriVox Forum: Unrecorded Algernon Blackwood stories</a>
+      </li>
+      <li>
+        <a target="_blank" href="https://www.fantasticfiction.com/b/algernon-blackwood/">Fantastic Fiction: Algernon Blackwood</a>
+      </li>
+      <li>
+        <a target="_blank" href="https://www.liquisearch.com/algernon_blackwood/works/weird_fiction">LiquidSearch: Algernon Blackwood - Works - Weird Fiction</a>
+      </li>
+      <li>
+        <a target="_blank" href="https://fampeople.com/cat-algernon-blackwood">FamPeople: Algernon Blackwood</a>
+      </li>
+      <li>
+        <a target="_blank" href="https://zims-en.kiwix.campusafrica.gos.orange.com/wikipedia_en_all_nopic/A/Algernon_Blackwood">Kiwix Campusafrica: Algernon Blackwood (contains unlisted works)</a>
+      </li>
+      <li>
+        <a target="_blank" href="https://zims-en.kiwix.campusafrica.gos.orange.com/wikipedia_en_all_nopic/A/Algernon_Blackwood">SFE: Blackwood, Algernon</a>
+      </li>
+      <li>
+        <a target="_blank" href="https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Blackwood%2C%20Algernon%2C%201869%2D1951">UPenn: Online books by ALgernon Blackwood (many source scans)</a>
+      </li>
+      <li>
+        <a target="_blank" href="https://talesofmytery.blogspot.com/search/label/Algernon%20Blackwood">Tales of Mystery and Imagination: ALgernon Blackwood</a>
+      </li>
+    </ul>
 </body>
 
 </html>
