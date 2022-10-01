@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path=" h-s-h.xhtml">
+		<ignore>
+			<code>t-065</code>
+			<reason>title is a 3-letter abbreviation</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
