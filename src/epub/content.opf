@@ -99,6 +99,7 @@
 		<item href="text/the-man-whom-the-trees-loved.xhtml" id="the-man-whom-the-trees-loved.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-strange-adventures-of-a-private-secretary-in-new-york.xhtml" id="the-strange-adventures-of-a-private-secretary-in-new-york.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-tradition.xhtml" id="the-tradition.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tryst.xhtml" id="the-tryst.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-wendigo.xhtml" id="the-wendigo.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-willows.xhtml" id="the-willows.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-wood-of-the-dead.xhtml" id="the-wood-of-the-dead.xhtml" media-type="application/xhtml+xml"/>
@@ -130,6 +131,7 @@
 		<itemref idref="the-tradition.xhtml"/>
 		<itemref idref="transition.xhtml"/>
 		<itemref idref="a-bit-of-wood.xhtml"/>
+		<itemref idref="the-tryst.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
