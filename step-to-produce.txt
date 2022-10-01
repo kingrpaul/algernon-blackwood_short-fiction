@@ -22,6 +22,7 @@ Quotes: ‘ ’  “ ”
  == wayfarers
  == the-tradition
  == h-s-h
+ == transition
 ────────────────────────────────────── 
 
 
@@ -34,7 +35,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial h-s-h"
+git commit -m "Initial commit transition"
 
 === COMMIT 2 ===
 se clean .
