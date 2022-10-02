@@ -23,7 +23,18 @@ Quotes: ‘ ’  “ ”
  == the-tradition
  == h-s-h
  == transition
+ == the-tryst
+ == the-touch-of-pan
+ == an-egyptian-hornet
+ == the-story-of-karl-ott
 ────────────────────────────────────── 
+
+gasthaus -> make lower case and remove the "german", everywhere
+Eggischorn -> Eggishorn
+on to -> onto 
+
+<i xml:lang="de">
+
 
 
 === COMMIT 1 ===
@@ -35,7 +46,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit transition"
+git commit -m "Initial commit the-story-of-karl-ott"
 
 === COMMIT 2 ===
 se clean .
