@@ -29,12 +29,10 @@ Quotes: ‘ ’  “ ”
  == the-story-of-karl-ott
 ────────────────────────────────────── 
 
-gasthaus -> make lower case and remove the "german", everywhere
-Eggischorn -> Eggishorn
-on to -> onto 
 
+[^a-z]on to[^a-z]   ****  on to -> onto, everywhere
 <i xml:lang="de">
-
+([\n\s]+(Down  the  Danube  in  a  Canadian  Canoe\.)[\n\s]+([0-9]+)[\n\s]+)|([\n\s]+([0-9]+)[\n\s]+(Down  the  Danube  in  a  Canadian  Canoe\.)[\n\s]+)
 
 
 === COMMIT 1 ===
