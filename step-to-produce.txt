@@ -27,13 +27,23 @@ Quotes: ‘ ’  “ ”
  == the-touch-of-pan
  == an-egyptian-hornet
  == the-story-of-karl-ott
+ == down-the-danube-in-a-canadian-canoe
 ────────────────────────────────────── 
 
 
 [^a-z]on to[^a-z]   ****  on to -> onto, everywhere
 <i xml:lang="de">
-([\n\s]+(Down  the  Danube  in  a  Canadian  Canoe\.)[\n\s]+([0-9]+)[\n\s]+)|([\n\s]+([0-9]+)[\n\s]+(Down  the  Danube  in  a  Canadian  Canoe\.)[\n\s]+)
 
+
+goods-shed -> goods shed
+none the less -> nonetheless
+mass -> Mass
+obstacle-race -> obstacle race
+Government -> government
+canoeers -> canoers
+Obermarchsthal -> Obermarchtal
+Weiner Wald -> Wienerwald
+gipsy -> gypsy
 
 === COMMIT 1 ===
 wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/45964/45964-h/45964-h.htm"
@@ -44,7 +54,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-story-of-karl-ott"
+git commit -m "Initial commit down-the-danube-in-a-canadian-canoe"
 
 === COMMIT 2 ===
 se clean .
