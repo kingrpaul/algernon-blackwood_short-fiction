@@ -9,10 +9,10 @@ none the less → nonetheless
 good night → goodnight
 <i xml:lang="de">
 
-
 "[Editorial] Correct mismatched dashes re-crossed→recrossed, smith-an-episode-in-a-lodging-house"
 "[Editorial] Correct mismatched dashes spring-tide→springtide, the-man-whom-the-trees-loved"
 "[Editorial] mass→Mass, Government→government canoeers→canoers Obermarchsthal→Obermarchtal Wiener_Wald→Wienerwald gipsy→gypsy to_morrow→tomorrow half_way→halfway well_nigh→well-nigh; down-the-danube-in-a-canadian-canoe"
+"[Editorial] dahabiyeh→dahabeah Love→love; a-desert-episode"
 
  == a-haunted-island
  == a-suspicious-gift
@@ -130,9 +130,6 @@ se clean .
 se lint . > lint.txt
 se build --output-dir=$HOME/dist/ --kindle .
 git commit -am "Proofread"
-
-
-<i xml:lang="fr">dahabiyeh</i> -> dahabeah
 
 
 ============
