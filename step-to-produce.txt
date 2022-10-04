@@ -1,6 +1,6 @@
 se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10897
 * Exclude Files: toc.*, colo*, impr*, uncopy*,*.opf,title*,*.md,*.svg,*.css,*.xml
-Quotes: ‘ ’  “ ”
+Quotes: ‘ — ’  “ — ”
 
  ****  MODERNIZE ****  everywhere
 [^a-z]on to[^a-z]   
@@ -38,6 +38,8 @@ good night → goodnight
  == the-story-of-karl-ott
  == down-the-danube-in-a-canadian-canoe
  == a-desert-episode
+ == a-victim-of-higher-space
+ == by-water
 ────────────────────────────────────── 
 
 
@@ -50,7 +52,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit a-desert-episode"
+git commit -m "Initial commit by-water"
 
 === COMMIT 2 ===
 se clean .
