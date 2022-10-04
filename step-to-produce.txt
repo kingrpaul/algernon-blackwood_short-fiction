@@ -43,10 +43,6 @@ good night → goodnight
  == the-house-of-the-past
 ────────────────────────────────────── 
 
-**********************************************************************
-https://archive.org/details/in.ernet.dli.2015.125930/page/n11/mode/2up
-**********************************************************************
-
 === COMMIT 1 ===
 wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/45964/45964-h/45964-h.htm"
 file -bi src/epub/text/body.xhtml
