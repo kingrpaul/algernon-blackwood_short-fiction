@@ -40,8 +40,12 @@ good night → goodnight
  == a-desert-episode
  == a-victim-of-higher-space
  == by-water
+ == the-house-of-the-past
 ────────────────────────────────────── 
 
+**********************************************************************
+https://archive.org/details/in.ernet.dli.2015.125930/page/n11/mode/2up
+**********************************************************************
 
 === COMMIT 1 ===
 wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/45964/45964-h/45964-h.htm"
@@ -52,7 +56,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit by-water"
+git commit -m "Initial the-house-of-the-past"
 
 === COMMIT 2 ===
 se clean .
@@ -132,6 +136,9 @@ se clean .
 se lint . > lint.txt
 se build --output-dir=$HOME/dist/ --kindle .
 git commit -am "Proofread"
+
+
+git commit -am "[Editorial] [A-Z]→[a-z], met→meet"
 
 
 ============
