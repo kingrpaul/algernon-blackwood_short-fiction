@@ -37,6 +37,7 @@ good night → goodnight
  == an-egyptian-hornet
  == the-story-of-karl-ott
  == down-the-danube-in-a-canadian-canoe
+ == a-desert-episode
 ────────────────────────────────────── 
 
 
@@ -49,7 +50,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit down-the-danube-in-a-canadian-canoe"
+git commit -m "Initial commit a-desert-episode"
 
 === COMMIT 2 ===
 se clean .
@@ -131,6 +132,7 @@ se build --output-dir=$HOME/dist/ --kindle .
 git commit -am "Proofread"
 
 
+<i xml:lang="fr">dahabiyeh</i> -> dahabeah
 
 
 ============
