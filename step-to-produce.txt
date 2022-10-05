@@ -7,6 +7,7 @@ Quotes: ‘ — ’  “ — ”
 on to → onto
 none the less → nonetheless
 good night → goodnight
+pine-woods → pinewoods in "danube"
 <i xml:lang="de">
 
 "[Editorial] Correct mismatched dashes re-crossed→recrossed, smith-an-episode-in-a-lodging-house"
@@ -41,6 +42,9 @@ good night → goodnight
  == a-victim-of-higher-space
  == by-water
  == the-house-of-the-past
+ == initiation
+ == the-occupant-of-the-room
+ == summering-in-canadian-backwoods
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
@@ -52,7 +56,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial the-house-of-the-past"
+git commit -m "Initial commit summering-in-canadian-backwoods"
 
 === COMMIT 2 ===
 se clean .
@@ -134,7 +138,7 @@ se build --output-dir=$HOME/dist/ --kindle .
 git commit -am "Proofread"
 
 
-git commit -am "[Editorial] [A-Z]→[a-z], met→meet"
+
 
 
 ============
