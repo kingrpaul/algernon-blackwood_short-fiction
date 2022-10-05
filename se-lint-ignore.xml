@@ -6,4 +6,10 @@
 			<reason>title is a 3-letter abbreviation</reason>
 		</ignore>
 	</file>
+	<file path="summering-in-canadian-backwoods.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>to match author's representation of currency</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>

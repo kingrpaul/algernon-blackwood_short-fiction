@@ -9,6 +9,7 @@ none the less → nonetheless
 good night → goodnight
 pine-woods → pinewoods in "danube"
 <i xml:lang="de">
+Some of these are non-fiction
 
 "[Editorial] Correct mismatched dashes re-crossed→recrossed, smith-an-episode-in-a-lodging-house"
 "[Editorial] Correct mismatched dashes spring-tide→springtide, the-man-whom-the-trees-loved"
@@ -138,7 +139,9 @@ se build --output-dir=$HOME/dist/ --kindle .
 git commit -am "Proofread"
 
 
-
+Pole star → polestar
+Crows Nest → Crow’s Nest
+Government → government
 
 
 ============
