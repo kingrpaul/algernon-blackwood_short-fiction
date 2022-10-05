@@ -101,6 +101,7 @@
 		<item href="text/keeping-his-promise.xhtml" id="keeping-his-promise.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/skeleton-lake-an-episode-in-camp.xhtml" id="skeleton-lake-an-episode-in-camp.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/smith-an-episode-in-a-lodging-house.xhtml" id="smith-an-episode-in-a-lodging-house.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/summering-in-canadian-backwoods.xhtml" id="summering-in-canadian-backwoods.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-empty-house.xhtml" id="the-empty-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-house-of-the-past.xhtml" id="the-house-of-the-past.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-man-whom-the-trees-loved.xhtml" id="the-man-whom-the-trees-loved.xhtml" media-type="application/xhtml+xml"/>
@@ -126,6 +127,7 @@
 		<itemref idref="the-story-of-karl-ott.xhtml"/>
 		<itemref idref="a-haunted-island.xhtml"/>
 		<itemref idref="a-case-of-eavesdropping.xhtml"/>
+		<itemref idref="summering-in-canadian-backwoods.xhtml"/>
 		<itemref idref="down-the-danube-in-a-canadian-canoe.xhtml"/>
 		<itemref idref="the-house-of-the-past.xhtml"/>
 		<itemref idref="a-suspicious-gift.xhtml"/>
