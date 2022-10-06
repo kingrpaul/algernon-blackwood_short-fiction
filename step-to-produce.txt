@@ -8,6 +8,7 @@ on to → onto
 none the less → nonetheless
 good night → goodnight
 pine-woods → pinewoods in "danube"
+re-crossing → recrossing in "danube"
 <i xml:lang="de">
 Some of these are non-fiction
 
@@ -47,6 +48,8 @@ Some of these are non-fiction
  == initiation
  == the-occupant-of-the-room
  == summering-in-canadian-backwoods
+ == the-olive
+ == cains-atonement
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
@@ -58,7 +61,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit summering-in-canadian-backwoods"
+git commit -m "Initial commit cains-atonement"
 
 === COMMIT 2 ===
 se clean .
