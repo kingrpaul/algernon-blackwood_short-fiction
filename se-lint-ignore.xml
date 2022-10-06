@@ -12,4 +12,11 @@
 			<reason>to match author's representation of currency</reason>
 		</ignore>
 	</file>
+	<file path="the-olive.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>intent of single quote to mark out the word as a word</reason>
+		</ignore>
+	</file>
+
 </se-lint-ignore>
