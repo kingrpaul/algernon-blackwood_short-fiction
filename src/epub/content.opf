@@ -101,6 +101,7 @@
 		<item href="text/initiation.xhtml" id="initiation.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/keeping-his-promise.xhtml" id="keeping-his-promise.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/skeleton-lake-an-episode-in-camp.xhtml" id="skeleton-lake-an-episode-in-camp.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/sleep-and-how-to-do-without-it.xhtml" id="sleep-and-how-to-do-without-it.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/smith-an-episode-in-a-lodging-house.xhtml" id="smith-an-episode-in-a-lodging-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/summering-in-canadian-backwoods.xhtml" id="summering-in-canadian-backwoods.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-empty-house.xhtml" id="the-empty-house.xhtml" media-type="application/xhtml+xml"/>
@@ -152,6 +153,7 @@
 		<itemref idref="a-victim-of-higher-space.xhtml"/>
 		<itemref idref="by-water.xhtml"/>
 		<itemref idref="cains-atonement.xhtml"/>
+		<itemref idref="sleep-and-how-to-do-without-it.xhtml"/>
 		<itemref idref="initiation.xhtml"/>
 		<itemref idref="the-occupant-of-the-room.xhtml"/>
 		<itemref idref="an-egyptian-hornet.xhtml"/>
