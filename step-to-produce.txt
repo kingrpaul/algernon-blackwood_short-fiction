@@ -1,3 +1,10 @@
+COVER ART?
+https://archive.org/details/sim_illustrated-london-news_1925-07-25_167_4501/page/n31/mode/2up?q=%22Algernon+Blackwood%22
+
+
+
+
+
 se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10897
 * Exclude Files: toc.*, colo*, impr*, uncopy*,*.opf,title*,*.md,*.svg,*.css,*.xml
 Quotes: ‘ — ’  “ — ”
@@ -18,6 +25,7 @@ Some of these are non-fiction
 "[Editorial] mass→Mass, Government→government canoeers→canoers Obermarchsthal→Obermarchtal Wiener_Wald→Wienerwald gipsy→gypsy to_morrow→tomorrow half_way→halfway well_nigh→well-nigh; down-the-danube-in-a-canadian-canoe"
 "[Editorial] dahabiyeh→dahabeah Love→love; a-desert-episode"
 "[Editorial] Pole_star→polestar Crows_Nest → Crow’s_Nest Government→government quintette → quintet"
+"[Editorial] modernize sleep-and-how-to-do-without-it carbon-dioxide→carbon_dioxide Tamas→tamas Rajas→rajas Sattua→sattva none_the_less→nonetheless Mummery→mummery some_day→someday worth_while→worthwhile"
 
  == a-haunted-island
  == a-suspicious-gift
@@ -51,6 +59,7 @@ Some of these are non-fiction
  == summering-in-canadian-backwoods
  == the-olive
  == cains-atonement
+ == sleep-and-how-to-do-without-it
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
@@ -62,7 +71,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit cains-atonement"
+git commit -m "Initial commit sleep-and-how-to-do-without-it"
 
 === COMMIT 2 ===
 se clean .
