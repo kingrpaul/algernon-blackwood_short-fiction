@@ -61,6 +61,8 @@ Some of these are non-fiction
  == cains-atonement
  == sleep-and-how-to-do-without-it
  == my-adventure-with-a-lion
+ == the-other-wing
+ == the-wings-of-horus
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
@@ -72,7 +74,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit my-adventure-with-a-lion"
+git commit -m "Initial commit the-wings-of-horus"
 
 === COMMIT 2 ===
 se clean .
