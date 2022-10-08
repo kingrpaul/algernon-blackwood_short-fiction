@@ -152,8 +152,6 @@ se clean .
 se lint . > lint.txt
 se build --output-dir=$HOME/dist/ --kindle .
 git commit -am "Proofread"
----- touched me on the arm
-
 
 
 ============
