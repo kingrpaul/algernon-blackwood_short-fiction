@@ -60,6 +60,7 @@ Some of these are non-fiction
  == the-olive
  == cains-atonement
  == sleep-and-how-to-do-without-it
+ == my-adventure-with-a-lion
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
@@ -71,7 +72,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit sleep-and-how-to-do-without-it"
+git commit -m "Initial commit my-adventure-with-a-lion"
 
 === COMMIT 2 ===
 se clean .
@@ -151,7 +152,7 @@ se clean .
 se lint . > lint.txt
 se build --output-dir=$HOME/dist/ --kindle .
 git commit -am "Proofread"
-
+---- touched me on the arm
 
 
 
