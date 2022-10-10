@@ -66,6 +66,8 @@ Some of these are non-fiction
  == the-wings-of-horus
  == pines
  == the-messenger
+ == the-dance-of-death
+ == engine
 
 ────────────────────────────────────── 
 
@@ -78,7 +80,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-wings-of-horus"
+git commit -m "Initial engine"
 
 === COMMIT 2 ===
 se clean .
