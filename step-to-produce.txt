@@ -1,6 +1,7 @@
 COVER ART?
 https://archive.org/details/sim_illustrated-london-news_1925-07-25_167_4501/page/n31/mode/2up?q=%22Algernon+Blackwood%22
-
+https://archive.org/details/sim_pall-mall-magazine_1914-05_51_253/page/576/mode/2up?q=%22Algernon+Blackwood%22
+https://archive.org/details/sim_bookman-a-review-of-books-and-life_1914-04_39_2/page/122/mode/2up?q=%22Algernon+Blackwood%22
 
 
 
@@ -64,6 +65,8 @@ Some of these are non-fiction
  == the-other-wing
  == the-wings-of-horus
  == pines
+ == the-messenger
+
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
