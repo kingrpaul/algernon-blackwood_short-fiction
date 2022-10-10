@@ -97,6 +97,7 @@
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/down-the-danube-in-a-canadian-canoe.xhtml" id="down-the-danube-in-a-canadian-canoe.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/engine.xhtml" id="engine.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/h-s-h.xhtml" id="h-s-h.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/initiation.xhtml" id="initiation.xhtml" media-type="application/xhtml+xml"/>
@@ -173,6 +174,7 @@
 		<itemref idref="the-touch-of-pan.xhtml"/>
 		<itemref idref="the-tryst.xhtml"/>
 		<itemref idref="the-olive.xhtml"/>
+		<itemref idref="engine.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
