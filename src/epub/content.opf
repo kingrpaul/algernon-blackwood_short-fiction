@@ -107,6 +107,7 @@
 		<item href="text/sleep-and-how-to-do-without-it.xhtml" id="sleep-and-how-to-do-without-it.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/smith-an-episode-in-a-lodging-house.xhtml" id="smith-an-episode-in-a-lodging-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/summering-in-canadian-backwoods.xhtml" id="summering-in-canadian-backwoods.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-dance-of-death.xhtml" id="the-dance-of-death.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-empty-house.xhtml" id="the-empty-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-house-of-the-past.xhtml" id="the-house-of-the-past.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-man-whom-the-trees-loved.xhtml" id="the-man-whom-the-trees-loved.xhtml" media-type="application/xhtml+xml"/>
@@ -147,6 +148,7 @@
 		<itemref idref="the-empty-house.xhtml"/>
 		<itemref idref="the-strange-adventures-of-a-private-secretary-in-new-york.xhtml"/>
 		<itemref idref="the-wood-of-the-dead.xhtml"/>
+		<itemref idref="the-dance-of-death.xhtml"/>
 		<itemref idref="with-intent-to-steal.xhtml"/>
 		<itemref idref="the-willows.xhtml"/>
 		<itemref idref="the-wendigo.xhtml"/>
