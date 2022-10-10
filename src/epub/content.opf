@@ -110,6 +110,7 @@
 		<item href="text/the-empty-house.xhtml" id="the-empty-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-house-of-the-past.xhtml" id="the-house-of-the-past.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-man-whom-the-trees-loved.xhtml" id="the-man-whom-the-trees-loved.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-messenger.xhtml" id="the-messenger.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-occupant-of-the-room.xhtml" id="the-occupant-of-the-room.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-olive.xhtml" id="the-olive.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-other-wing.xhtml" id="the-other-wing.xhtml" media-type="application/xhtml+xml"/>
@@ -149,6 +150,7 @@
 		<itemref idref="with-intent-to-steal.xhtml"/>
 		<itemref idref="the-willows.xhtml"/>
 		<itemref idref="the-wendigo.xhtml"/>
+		<itemref idref="the-messenger.xhtml"/>
 		<itemref idref="the-man-whom-the-trees-loved.xhtml"/>
 		<itemref idref="wayfarers.xhtml"/>
 		<itemref idref="h-s-h.xhtml"/>
