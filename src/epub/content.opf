@@ -108,6 +108,7 @@
 		<item href="text/sleep-and-how-to-do-without-it.xhtml" id="sleep-and-how-to-do-without-it.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/smith-an-episode-in-a-lodging-house.xhtml" id="smith-an-episode-in-a-lodging-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/summering-in-canadian-backwoods.xhtml" id="summering-in-canadian-backwoods.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-damned.xhtml" id="the-damned.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-dance-of-death.xhtml" id="the-dance-of-death.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-empty-house.xhtml" id="the-empty-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-house-of-the-past.xhtml" id="the-house-of-the-past.xhtml" media-type="application/xhtml+xml"/>
@@ -164,6 +165,7 @@
 		<itemref idref="a-victim-of-higher-space.xhtml"/>
 		<itemref idref="by-water.xhtml"/>
 		<itemref idref="pines.xhtml"/>
+		<itemref idref="the-damned.xhtml"/>
 		<itemref idref="the-wings-of-horus.xhtml"/>
 		<itemref idref="cains-atonement.xhtml"/>
 		<itemref idref="the-other-wing.xhtml"/>
