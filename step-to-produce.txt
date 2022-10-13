@@ -4,7 +4,19 @@ https://archive.org/details/sim_pall-mall-magazine_1914-05_51_253/page/576/mode/
 https://archive.org/details/sim_bookman-a-review-of-books-and-life_1914-04_39_2/page/122/mode/2up?q=%22Algernon+Blackwood%22
 
 
+	  working complete read skip no-transcript no-scans added-wikisource
+      <li class="title">
+        <a target="_blank" href=".//src//epub//text//_.xhtml"></a>
+        <a target="_blank" href="">[Gutenburg] - </a>
+        <a target="_blank" href="">[Wikisource] - </a>
+        <a target="_blank" href="">[Archive] - </a>
+        <a target="_blank" href="">[Hathi] - </a>
+        <p></p>
+        <p></p>
+      </li>
 
+
+00
 
 se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10897
 * Exclude Files: toc.*, colo*, impr*, uncopy*,*.opf,title*,*.md,*.svg,*.css,*.xml
@@ -13,13 +25,16 @@ Quotes: ‘ — ’  “ — ”
  ****  MODERNIZE ****  everywhere
 [^a-z]on to[^a-z]   
 on to → onto
-none the less → nonetheless
+none the less → nonetheless (everywhere)
 good night → goodnight
 pine-woods → pinewoods in "danube"
 re-crossing → recrossing in "danube"
+hell fire → hellfire in "the damned" 
+Salamander → salamander in "the damned" 
 <i xml:lang="de">
 Some of these are non-fiction
 *** ALSO THERE IS LINT" ***
+** ALSO ENGINE NEEDS TO BE BLOCKQUOTE?"
 
 "[Editorial] Correct mismatched dashes re-crossed→recrossed, smith-an-episode-in-a-lodging-house"
 "[Editorial] Correct mismatched dashes spring-tide→springtide, the-man-whom-the-trees-loved"
@@ -68,13 +83,15 @@ Some of these are non-fiction
  == the-messenger
  == the-dance-of-death
  == engine
+
+ == the-damned
  
- carltons-drive
+ == the-old-man-of-visions
 
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
-wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/45964/45964-h/45964-h.htm"
+wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/43816/43816-h/43816-h.htm"
 file -bi src/epub/text/body.xhtml
 perl -pi -e 's|<h2|<!--se:split--><h2|g' src/epub/text/body.xhtml
 se split-file src/epub/text/body.xhtml
@@ -82,7 +99,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial engine"
+git commit -m "Initial the-damned"
 
 === COMMIT 2 ===
 se clean .

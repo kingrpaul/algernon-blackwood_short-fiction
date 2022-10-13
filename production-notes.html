@@ -45,6 +45,35 @@
     }
 
     li.text-read>header::after {content: " ⊕";}
+
+
+    li {
+      padding-top: 0.3em;
+    }
+
+    li.title a:first-of-type{
+      font-size: 1em;
+      font-variant: small-caps;
+      margin-left: 0;
+    }
+
+    li.title.working a:first-of-type{
+      color:blue;    
+      text-decoration:underline;
+    }
+    li.title.read a:first-of-type::after {
+      content: " ⊕";
+    }
+    li.title.complete a:first-of-type {
+      color:DarkGreen;
+    }
+    li.title.skip a:first-of-type {
+      color:DarkRed;
+      text-decoration: line-through;
+    }
+
+
+
   </style>
 </head>
 
@@ -54,15 +83,16 @@
     <tbody>
       <tr>
         <td>
-          <img style="display:inline-block;" class="center" src="https://collectionimages.npg.org.uk/large/mw49547/Algernon-Henry-Blackwood.jpg" alt="painted portrait of Algernon Blackwood" width="100vw"></td>
-          <td>
-            <h1>Algernon Blackwood, Short Fiction</h1>
-            <blockquote>
-              "My imagination requires a judicious rein; I am afraid to let it loose, 
-              for it carries me sometimes into appalling places beyond the stars 
-              and beneath the world."
-            </blockquote>
-          </td>
+          <h1>Algernon Blackwood, Short Fiction</h1>
+          <blockquote>
+            "My imagination requires a judicious rein; I am afraid to let it loose, 
+            for it carries me sometimes into appalling places beyond the stars 
+            and beneath the world."
+          </blockquote>
+        </td>
+        <td>
+          <img style="display:inline-block;" class="center" src="https://collectionimages.npg.org.uk/large/mw49547/Algernon-Henry-Blackwood.jpg" alt="painted portrait of Algernon Blackwood" width="100vw">
+        </td>
       </tr>
     </tbody>
   </table>
@@ -79,14 +109,18 @@
 
     <ul>
       <header>1896</header>
-      <li class="complete text-read">
-        <header>The Story of Karl Ott</header>
-        <a target="_blank" href="https://en.wikisource.org/wiki/The_Story_of_Karl_Ott">[WikiSource] The Empty House And Other Ghost Stories (1906)</a>
-        <a target="_blank" href="https://archive.org/details/sim_pall-mall-magazine_1896-10_10_42/page/188/mode/2up">[Archive] The Story of Karl Ott (1896)</a>
-        <p>pdf-32</p>
-        <p> English lady trifles with the affections of an Alpine German villager.</p>
+
+
+
+      <li class="title complete read">
+        <a target="_blank" href=".//src//epub//text//the-story-of-karl-ott.xhtml">The Story of Karl Ott</a>
+        <a target="_blank" href="">[Gutenburg] - </a>
+        <a target="_blank" href="https://en.wikisource.org/wiki/The_Story_of_Karl_Ott"">[Wikisource]  The Empty House And Other Ghost Stories (1906)</a>
+        <a target="_blank" href="https://archive.org/details/sim_pall-mall-magazine_1896-10_10_42/page/188/mode/2up">[Archive]  Pall Mall magazine, Oct. 1896, pp. 189–200. </a>
+        <a target="_blank" href="">[Hathi] - </a>
+        <p></p>
+        <p>English lady trifles with the affections of an Alpine German villager.</p>
       </li>
-    </ul>
 
 
     <ul>
@@ -102,55 +136,63 @@
 
     <ul>
       <header>1899</header>
-      <li class="complete text-read">
-        <header>A Haunted Island</header>
-        <a target="_blank" href="https://www.gutenberg.org/files/14471/14471-h/14471-h.htm#chapter2">[Gutenberg]
-          The Empty House And Other Ghost Stories (1906)</a>
-        <a target="_blank" href="https://archive.org/details/emptyhouseotherg00blacrich/page/n9/mode/2up">[Archive]
-          The Empty House And Other Ghost Stories (1906)</a>
+      <li class="title complete read">
+        <a target="_blank" href=".//src//epub//text//a-haunted-island.xhtml">A Haunted Island</a>
+        <a target="_blank" href="https://www.gutenberg.org/files/14471/14471-h/14471-h.htm#chapter2"">[Gutenburg] The Empty House And Other Ghost Stories (1906)</a>
+        <a target="_blank" href="">[Wikisource] - </a>
+        <a target="_blank" href="https://archive.org/details/emptyhouseotherg00blacrich/page/n9/mode/2up">[Archive] The Empty House And Other Ghost Stories (1906)</a>
+        <a target="_blank" href="">[Hathi] - </a>
         <p>pdf-32</p>
+        <p>Spectral native encounter during a stay by a lake in Canada. Connects to summering-in-canadian-backwoods.</p>
       </li>
-    </ul>
+
 
     <ul>
       <header>1900</header>
-      <li class="complete text-read">
-        <header>A Case of Eavesdropping</header>
-        <a target="_blank" href="https://www.gutenberg.org/files/14471/14471-h/14471-h.htm#chapter3">[Gutenberg]
-          The Empty House And Other Ghost Stories (1906)</a>
-        <a target="_blank" href="https://archive.org/details/emptyhouseotherg00blacrich/page/62/mode/2up">[Archive]
-          The Empty House And Other Ghost Stories (1906)</a>
-        <p>jim-shorthouse pdf-63</p>
+      <li class="title complete read">
+        <a target="_blank" href=".//src//epub//text//a-case-of-eavesdropping.xhtml">A Case of Eavesdropping</a>
+        <a target="_blank" href="https://www.gutenberg.org/files/14471/14471-h/14471-h.htm#chapter3">[Gutenburg] The Empty House And Other Ghost Stories (1906)</a>
+        <a target="_blank" href="">[Wikisource] - </a>
+        <a target="_blank" href="https://archive.org/details/emptyhouseotherg00blacrich/page/62/mode/2up">[Archive] The Empty House And Other Ghost Stories (1906)</a>
+        <a target="_blank" href="">[Hathi] - </a>
+        <p>pdf-63</p>
+        <p>Jim-Shorthouse overhears a spectral German conversation in a meager, urban, US boarding-house.</p>
       </li>
     </ul>
 
 
     <ul>
       <header>1901</header>
-      <li class="complete text-read">
-        <header>Summering in Canadian Backwoods</header>
-        <a target="_blank" href="https://archive.org/stream/sim_longmans-magazine_1901-01_37_219/sim_longmans-magazine_1901-01_37_219_djvu.txt">[Archive] Longman’s Magazine Jan 1901 (transcript)</a>
-        <a target="_blank" href="https://archive.org/details/sim_longmans-magazine_1901-01_37_219/page/214/mode/2up">[Archive] Longman’s Magazine Jan 1901 (scans)</a>
-        <p>pg-215</p>
-        <p>Essay on the rural Canadian Great Lakes region.</p>
+      <li class="title complete read no-transcript">
+        <a target="_blank" href=".//src//epub//text//summering-in-canadian-backwoods.xhtml">Summering in Canadian Backwoods</a>
+        <a target="_blank" href="">[Gutenburg] - </a>
+        <a target="_blank" href="">[Wikisource] - </a>
+        <a target="_blank" href="https://archive.org/details/sim_longmans-magazine_1901-01_37_219/page/214/mode/2up">[Archive] Longman’s Magazine Jan 1901</a>
+        <a target="_blank" href="">[Hathi] - </a>
+        <p>txt-pg-215</p>
+        <p>Pleasantness of the rural Great Lakes region of Canadian.</p>
       </li>
-      <li class="complete text-read">
-        <header>Down the Danube in a Canadian Canoe</header>
-        <a target="_blank" href="https://archive.org/stream/macmillansmagazi84macmuoft/macmillansmagazi84macmuoft_djvu.txt">[Archive] MacMillan's Magazine, VOL. LXXXIV, May-Oct 1901 (pg 350) (transcript)</a>
-        <a target="_blank" href="https://archive.org/details/macmillansmagazi84macmuoft/page/350/mode/2up">[Archive] MacMillan's Magazine, VOL. LXXXIV, May-Oct 1901 (pg 350) (scans)</a>
-        <p>Pt1:pg-350 Pt2:pg418</p>
+      <li class="title complete read">
+        <a target="_blank" href=".//src//epub//text//down-the-danube-in-a-canadian-canoe.xhtml">Down the Danube in a Canadian Canoe</a>
+        <a target="_blank" href="">[Gutenburg] - </a>
+        <a target="_blank" href="">[Wikisource] - </a>
+        <a target="_blank" href="https://archive.org/details/macmillansmagazi84macmuoft/page/350/mode/2up">[Archive] MacMillan's Magazine, VOL. LXXXIV, May-Oct 1901 (pg 350)</a>
+        <a target="_blank" href="">[Hathi] - </a>
+        <p>txt-pg-350, txt-pg-418</p>
         <p>Travelogue of an English camper in Central Europe.</p>
       </li>
     </ul>
 
-
     <ul>
       <header>1902</header>
-      <li class="no-source">
-        <header>The Last Egg in the Nest</header>
-        <a target="_blank" href="">no transcript</a>
-        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=uc1.c2723993&amp;view=1up&amp;seq=791">The Boy’s Own Paper, Vol. 24 #1232, 23/08/1902</a>
-        <p>no-transcript, 9-col</p>
+      <li class="title skip no-transcript">
+        <a target="_blank" href=".//src//epub//text//the-last-egg-in-the-nest.xhtml">The Last Egg in the Nest</a>
+        <a target="_blank" href="">[Gutenburg] - </a>
+        <a target="_blank" href="">[Wikisource] - </a>
+        <a target="_blank" href="">[Archive] - </a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=uc1.c2723993&amp;view=1up&amp;seq=791">[Hathi] The Boy’s Own Paper, Vol. 24 #1232, 23/08/1902</a>
+        <p>9-col</p>
+        <p></p>
       </li>
     </ul>
 
@@ -161,28 +203,38 @@
 
 
     <ul>
-      <header>1904</header>
-      <li class="no-source">
-        <header>How Garnier Broke the Log-Jam</header>
-        <a target="_blank" href="">no transcript</a>
-        <a target="_blank" href="https://books.google.com/books?id=d8I5AQAAMAAJ&amp;pg=PR10&amp;lpg=PR10&amp;dq=%22How+Garnier+Broke+the+Log-Jam%22#v=onepage&amp;q=%22How%20Garnier%20Broke%20the%20Log-Jam%22&amp;f=false">[Google] The Boy's Own Annual, Volume 27</a>
-        <p>no-transcript, 7-col</p>
+
+      <li class="title skip no-transcript">
+        <a target="_blank" href=".//src//epub//text//how-garnier-broke-the-log-jam.xhtml">How Garnier Broke the Log-Jam</a>
+        <a target="_blank" href="">[Gutenburg] - </a>
+        <a target="_blank" href="">[Wikisource] - </a>
+        <a target="_blank" href="">[Archive] - </a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=uc1.c2723996&view=1up&seq=262">[Hathi] The Boy's Own Annual, Volume 27</a>
+        <p></p>
+        <p></p>
       </li>
-      <li class="complete text-read">
-        <header>The House of the Past</header>
-        <a target="_blank" href="http://iapsop.com/archive/materials/theosophical_review/theosophical_review_v34_n200_apr_15_1904.pdf">The Theosophical Review, Vol. 34 #200, 15/04/1904</a>
-        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&amp;view=1up&amp;seq=216&amp;skin=2021">[Hathi]] Ten Minute Stories (1914)</a>
-        <p>A dream of ghosts. </p>
+      <li class="title complete read">
+        <a target="_blank" href=".//src//epub//text//the-house-of-the-past.xhtml">The House of the Past</a>
+        <a target="_blank" href="">[Gutenburg] - </a>
+        <a target="_blank" href="https://en.wikisource.org/wiki/The_House_of_the_Past">[Wikisource] my transcript</a>
+        <a target="_blank" href="">[Archive] - </a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.319510023073554&amp;view=1up&amp;seq=216&amp;skin=2021">[Hathi] Ten Minute Stories (1914)</a>
+        <a target="_blank" href="http://iapsop.com/archive/materials/theosophical_review/theosophical_review_v34_n200_apr_15_1904.pdf">[Other] The Theosophical Review, Vol. 34 #200, 15/04/1904</a>
+        <p>from-ocr</p>
+        <p>A dream of ghosts.</p>
       </li>
-      <li class="no-source">
-        <header>Testing His Courage - The Story of a Quaint Device</header>
-        <a target="_blank" href="">no transcript</a>
-        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.31951002791840h&amp;view=1up&amp;seq=422">[ ] Pearson’s Magazine Sep 1904 </a>
-        <p>no-transcript, 7-col</p>
-      </li>
-    </ul>
 
 
+
+      <li class="title skip no-transcript">
+        <a target="_blank" href=".//src//epub//text//testing-his-courage-the-story-of-a-quant-device.xhtml">Testing His Courage - The Story of a Quaint Device</a>
+        <a target="_blank" href="">[Gutenburg] - </a>
+        <a target="_blank" href="">[Wikisource] - </a>
+        <a target="_blank" href="">[Archive] - </a>
+        <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=umn.31951002791840h&amp;view=1up&amp;seq=422">[Hathi] Pearson’s Magazine Sep 1904</a>
+        <p>7-col</p>
+        <p></p>
+      </li>
     <ul>
       <header>1905</header>
     </ul>
@@ -190,37 +242,56 @@
 
     <ul>
       <header>1906</header>
-      <li class="no-source">
-        <header>A Holiday Down the Danube with Punt and Tent</header>
-        <a target="_blank" href="">no transcript</a>
+
+      <li class="title skip no-transcript">
+        <a target="_blank" href=".//src//epub//text//a-holiday-down-the-danube-with-punt-and-tent.xhtml">A Holiday Down the Danube with Punt and Tent</a>
+        <a target="_blank" href="">[Gutenburg] - </a>
+        <a target="_blank" href="">[Wikisource] - </a>
+        <a target="_blank" href="">[Archive] - </a>
         <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=uc1.c2723997&amp;view=1up&amp;seq=806">[Hathi] The Boy’s Own Paper Sep 1 1906</a>
-        <p>no-transcript, 4-col</p>
+        <p></p>
+        <p>4-col</p>
       </li>
-      <li class="complete text-read">
-        <header>A Suspicious Gift</header>
+
+      <li class="title complete read">
+        <a target="_blank" href=".//src//epub//text//a-suspicious-gift.xhtml">A Suspicious Gift</a>
         <a target="_blank" href="https://www.gutenberg.org/files/14471/14471-h/14471-h.htm#chapter8">[Gutenberg] The Empty House And Other Ghost Stories (1906)</a>
+        <a target="_blank" href="">[Wikisource] - </a>
         <a target="_blank" href="https://archive.org/details/emptyhouseotherg00blacrich/page/218/mode/2up">[Archive] The Empty House And Other Ghost Stories (1906)</a>
-        <p>pdf-218</p>
+        <a target="_blank" href="">[Hathi] - </a>
+        <p></p>
+        <p>pdf-pg-218</p>
       </li>
-      <li class="complete text-read">
-        <header>Keeping His Promise</header>
+      <li class="title complete read">
+        <a target="_blank" href=".//src//epub//text//keeping-his-promise.xhtml">Keeping His Promise</a>
         <a target="_blank" href="https://www.gutenberg.org/files/14471/14471-h/14471-h.htm#chapter4">[Gutenberg] The Empty House And Other Ghost Stories (1906)</a>
+        <a target="_blank" href="">[Wikisource] - </a>
         <a target="_blank" href="https://archive.org/details/emptyhouseotherg00blacrich/page/90/mode/2up">[Archive] The Empty House And Other Ghost Stories (1906)</a>
-        <p>pdf-90</p>
+        <a target="_blank" href="">[Hathi] - </a>
+        <p>pdf-pg-90</p>
+        <p></p>
       </li>
-      <li class="no-source">
-        <header>About Moose and Moose-Hunting</header>
-        <a target="_blank" href="">no transcript</a>
-        <a target="_blank" href="">[ ] Pearson’s Magazine Nov 1923</a>
-        <p>no-transcript-scans</p>
+      <li class="title skip no-transcript no-scans">
+        <a target="_blank" href=".//src//epub//text//about_moose-and-moose-hunting.xhtml">About Moose and Moose-Hunting</a>
+        <a target="_blank" href="">[Gutenburg] - </a>
+        <a target="_blank" href="">[Wikisource] - </a>
+        <a target="_blank" href="">[Archive] - </a>
+        <a target="_blank" href="">[Hathi] - </a>
+        <a target="_blank" href="">[Other] Pearson’s Magazine Nov 1923</a>
+        <p></p>
+        <p></p>
       </li>
-      <li class="complete read">
-        <header>My Adventure with a Lion</header>
-        <a target="_blank" href="https://en.wikisource.org/wiki/My_Adventure_with_a_Lion">[WikiSource] My Transcript</a>
+      <li class="title complete read">
+        <a target="_blank" href=".//src//epub//text//my-adventure-with-a-lion.xhtml">My Adventure with a Lion</a>
+        <a target="_blank" href="">[Gutenburg] - </a>
+        <a target="_blank" href="https://en.wikisource.org/wiki/My_Adventure_with_a_Lion">[WikiSource] my transcript</a>
+        <a target="_blank" href="">[Archive] - </a>
         <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=uc1.c2723997&amp;view=1up&amp;seq=586">[Hathi] The Boy’s Own Paper Jun 2 1906</a>
         <p></p>
-        <p>A journalism intern covers a story. new-york</p>
+        <p>Journalism intern covers a story in New-York.</p>
       </li>
+
+
       <li class="complete text-read">
         <header>Skeleton Lake: An Episode in Camp</header>
         <a target="_blank" href="https://www.gutenberg.org/files/14471/14471-h/14471-h.htm#chapter10">[Gutenberg] The Empty House And Other Ghost Stories (1906)</a>
@@ -310,12 +381,17 @@
         <a target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=hvd.32044086875077&amp;view=1up&amp;seq=261&amp;skin=2021">The Lost Valley and Other Stories [Hathi] (1917)</a>
         <p></p>
       </li>
-      <li class="no-source">
-        <header>The Old Man of Visions</header>
-        <a target="_blank" href="">no transcript</a>
+      <li class="title working no-transcript text-read">
+        <!-- <header>The Old Man of Visions</header> -->
+        <a target="_blank" href=".//src//epub//text//the-old-man-of-visions.xhtml">The Old Man of Visions</a>
+        <a target="_blank" href="">[Gutenburg] - </a>
+        <a target="_blank" href="">[Wikisource] transcribed by me</a>
         <a target="_blank" href="https://archive.org/details/listenerandothe00blacgoog/page/n259/mode/2up">[Archive] The Listener and Other Stories (1917)</a>
-        <p>no-transcript</p>
+        <a target="_blank" href="<a target="_blank" href="">[Hathi] - </a>
+        <p></p>
+        <p>Encounter with a mystic prompts an epihany & spiritual awakening.</p>
       </li>
+
       <li class="complete text-read">
         <header>The Willows</header>
         <a target="_blank" href="https://www.gutenberg.org/files/11438/11438-h/11438-h.htm">[Gutenberg] The Willows (1907)</a>
@@ -900,11 +976,14 @@
         <a target="_blank" href="">no scans</a>
         <p>no-transcript-scans</p>
       </li>
-      <li class="working">
-        <header>The Damned</header>
+      <li class="title complete read">
+        <a target="_blank" href=".//src//epub//text//the-damned.xhtml">The Damned</a>
         <a target="_blank" href="https://www.gutenberg.org/files/43816/43816-h/43816-h.htm#III">[Gutenberg] Incredible Adventures (1914)</a>
+        <a target="_blank" href="">[Wikisource] - </a>
         <a target="_blank" href="https://archive.org/details/incredibleadvent00blac/page/128/mode/2up">[Archive] Incredible Adventures (1914)</a>
+        <a target="_blank" href="">[Hathi] - </a>
         <p></p>
+        <p>In the dogmatic hell of Blackwood's theology, nothing ever happens.</p>
       </li>
       <li class="working">
         <header>The Doll</header>
