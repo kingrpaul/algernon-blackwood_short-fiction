@@ -83,7 +83,6 @@ Some of these are non-fiction
  == the-messenger
  == the-dance-of-death
  == engine
-
  == the-damned
  
  == the-old-man-of-visions
@@ -99,7 +98,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial the-damned"
+git commit -m "Initial the-old-man-of-visions"
 
 === COMMIT 2 ===
 se clean .
@@ -185,6 +184,6 @@ git commit -am "Proofread"
 
 to reinitialize 
 ---------------
-rm -rf .git 
+rm ****** -rf .git 
 git init
 
