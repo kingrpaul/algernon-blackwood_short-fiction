@@ -11,12 +11,11 @@ https://archive.org/details/sim_bookman-a-review-of-books-and-life_1914-04_39_2/
         <a target="_blank" href="">[Wikisource] - </a>
         <a target="_blank" href="">[Archive] - </a>
         <a target="_blank" href="">[Hathi] - </a>
+        <a target="_blank" href="">[Other] - </a>
         <p></p>
         <p></p>
       </li>
 
-
-00
 
 se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10897
 * Exclude Files: toc.*, colo*, impr*, uncopy*,*.opf,title*,*.md,*.svg,*.css,*.xml
@@ -84,8 +83,8 @@ Some of these are non-fiction
  == the-dance-of-death
  == engine
  == the-damned
- 
  == the-old-man-of-visions
+ == sand
 
 ────────────────────────────────────── 
 
@@ -98,7 +97,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial the-old-man-of-visions"
+git commit -m "Initial commit sand"
 
 === COMMIT 2 ===
 se clean .
