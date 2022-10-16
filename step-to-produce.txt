@@ -85,7 +85,6 @@ Some of these are non-fiction
  == the-damned
  == the-old-man-of-visions
  == sand
- 
  == the-impulse
 
 ────────────────────────────────────── 
@@ -99,7 +98,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit sand"
+git commit -m "Initial commit the-impulse"
 
 === COMMIT 2 ===
 se clean .
