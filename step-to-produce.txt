@@ -86,11 +86,12 @@ Some of these are non-fiction
  == the-old-man-of-visions
  == sand
  == the-impulse
+ == ancient-sorceries
 
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
-wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/43816/43816-h/43816-h.htm"
+wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/49222/49222-h/49222-h.htm"
 file -bi src/epub/text/body.xhtml
 perl -pi -e 's|<h2|<!--se:split--><h2|g' src/epub/text/body.xhtml
 se split-file src/epub/text/body.xhtml
@@ -98,7 +99,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-impulse"
+git commit -m "Initial commit ancient-sorceries"
 
 === COMMIT 2 ===
 se clean .
