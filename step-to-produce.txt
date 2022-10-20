@@ -3,20 +3,6 @@ https://archive.org/details/sim_illustrated-london-news_1925-07-25_167_4501/page
 https://archive.org/details/sim_pall-mall-magazine_1914-05_51_253/page/576/mode/2up?q=%22Algernon+Blackwood%22
 https://archive.org/details/sim_bookman-a-review-of-books-and-life_1914-04_39_2/page/122/mode/2up?q=%22Algernon+Blackwood%22
 
-
-	  working complete read skip no-transcript no-scans added-wikisource
-      <li class="title">
-        <a target="_blank" href=".//src//epub//text//_.xhtml"></a>
-        <a target="_blank" href="">[Gutenburg] - </a>
-        <a target="_blank" href="">[Wikisource] - </a>
-        <a target="_blank" href="">[Archive] - </a>
-        <a target="_blank" href="">[Hathi] - </a>
-        <a target="_blank" href="">[Other] - </a>
-        <p></p>
-        <p></p>
-      </li>
-
-
 se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10897
 * Exclude Files: toc.*, colo*, impr*, uncopy*,*.opf,title*,*.md,*.svg,*.css,*.xml
 Quotes: ‘ — ’  “ — ”
@@ -86,7 +72,10 @@ Some of these are non-fiction
  == the-old-man-of-visions
  == sand
  == the-impulse
- == ancient-sorceries
+
+ == ancient-sorceries  READING
+ == you-may-telephone-from-here TRASCRIBED
+ == max-hensig TRANSCRIBED(ISH)
 
 ────────────────────────────────────── 
 
