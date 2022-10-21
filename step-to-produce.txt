@@ -74,9 +74,7 @@ Some of these are non-fiction
  == the-impulse
  == ancient-sorceries
  == you-may-telephone-from-here
-
-
- == max-hensig TRANSCRIBED(ISH)
+ == max-hensig
 
 
 
@@ -92,7 +90,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit you-may-telephone-from-here"
+git commit -m "Initial commit max-hensig"
 
 === COMMIT 2 ===
 se clean .
