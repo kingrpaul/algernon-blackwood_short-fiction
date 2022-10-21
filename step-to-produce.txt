@@ -72,10 +72,14 @@ Some of these are non-fiction
  == the-old-man-of-visions
  == sand
  == the-impulse
+ == ancient-sorceries
+ == you-may-telephone-from-here
 
- == ancient-sorceries  READING
- == you-may-telephone-from-here TRASCRIBED
+
  == max-hensig TRANSCRIBED(ISH)
+
+
+
 
 ────────────────────────────────────── 
 
@@ -88,7 +92,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit ancient-sorceries"
+git commit -m "Initial commit you-may-telephone-from-here"
 
 === COMMIT 2 ===
 se clean .
