@@ -77,9 +77,8 @@ Some of these are non-fiction
  == ancient-sorceries
  == you-may-telephone-from-here
  == max-hensig
-
-
  == monsieur-joseph-of-the-ski
+
  == clairvoyance
  
 
@@ -97,7 +96,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit max-hensig"
+git commit -m "Initial commit monsieur-joseph-of-the-ski"
 
 === COMMIT 2 ===
 se clean .
