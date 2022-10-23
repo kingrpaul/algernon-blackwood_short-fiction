@@ -18,7 +18,7 @@ pine-woods → pinewoods in "danube"
 re-crossing → recrossing in "danube"
 hell fire → hellfire in "the damned" 
 Salamander → salamander in "the damned" 
-<i xml:lang="de">
+<i xml:lang="fr">
 Some of these are non-fiction
 *** ALSO THERE IS LINT" ***
 ** ALSO ENGINE NEEDS TO BE BLOCKQUOTE?"
@@ -80,6 +80,9 @@ Some of these are non-fiction
  == monsieur-joseph-of-the-ski
 
  == clairvoyance
+
+
+ == the-egyptian-desert-from-helouan
  
 
 
@@ -96,7 +99,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit monsieur-joseph-of-the-ski"
+git commit -m "Initial commit clairvoyance"
 
 === COMMIT 2 ===
 se clean .
