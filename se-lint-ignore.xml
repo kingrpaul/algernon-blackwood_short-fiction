@@ -24,4 +24,10 @@
 			<reason>intent of single quote to mark out the word as a word</reason>
 		</ignore>
 	</file>
+	<file path="max-hensig.xhtml">
+		<ignore>
+			<code>s-021</code>
+			<reason>quotes in part of title to agree with page scans</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
