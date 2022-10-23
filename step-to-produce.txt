@@ -10,6 +10,8 @@ Quotes: ‘ — ’  “ — ”
  ****  MODERNIZE ****  everywhere
 [^a-z]on to[^a-z]   
 on to → onto
+any more → anymore
+any time → anytime
 none the less → nonetheless (everywhere)
 good night → goodnight
 pine-woods → pinewoods in "danube"
@@ -179,3 +181,4 @@ to reinitialize
 rm ****** -rf .git 
 git init
 
+<i epub:type="se:name.publication.newspaper">
