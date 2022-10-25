@@ -29,6 +29,7 @@ Some of these are non-fiction
 "[Editorial] dahabiyeh→dahabeah Love→love; a-desert-episode"
 "[Editorial] Pole_star→polestar Crows_Nest → Crow’s_Nest Government→government quintette → quintet"
 "[Editorial] modernize sleep-and-how-to-do-without-it carbon-dioxide→carbon_dioxide Tamas→tamas Rajas→rajas Sattua→sattva none_the_less→nonetheless Mummery→mummery some_day→someday worth_while→worthwhile"
+"[Editorial] modernize 80deg→80-deg millimétres→millimetres; the-egyptian-desert-from-helouan"
 
  == a-haunted-island
  == a-suspicious-gift
@@ -184,6 +185,9 @@ to reinitialize
 ---------------
 rm ****** -rf .git 
 git init
+
+
+
 
 
 https://standardebooks.org/manual/1.7.0/single-page
