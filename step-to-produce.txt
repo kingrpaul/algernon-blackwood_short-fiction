@@ -78,10 +78,7 @@ Some of these are non-fiction
  == you-may-telephone-from-here
  == max-hensig
  == monsieur-joseph-of-the-ski
-
  == clairvoyance
-
-
  == the-egyptian-desert-from-helouan
  
 
@@ -99,7 +96,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit clairvoyance"
+git commit -m "Initial commit the-egyptian-desert-from-helouan"
 
 === COMMIT 2 ===
 se clean .
@@ -188,4 +185,5 @@ to reinitialize
 rm ****** -rf .git 
 git init
 
-<i epub:type="se:name.publication.newspaper">
+
+https://standardebooks.org/manual/1.7.0/single-page
