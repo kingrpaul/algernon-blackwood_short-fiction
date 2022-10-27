@@ -81,8 +81,9 @@ Some of these are non-fiction
  == monsieur-joseph-of-the-ski
  == clairvoyance
  == the-egyptian-desert-from-helouan
- 
  == violence
+
+ == may-day-eve
 
 
 ────────────────────────────────────── 
@@ -96,7 +97,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit violence"
+git commit -m "Initial commit may-day-eve"
 
 === COMMIT 2 ===
 se clean .
