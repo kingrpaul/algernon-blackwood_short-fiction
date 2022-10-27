@@ -105,6 +105,7 @@
 		<item href="text/initiation.xhtml" id="initiation.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/keeping-his-promise.xhtml" id="keeping-his-promise.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/max-hensig.xhtml" id="max-hensig.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/may-day-eve.xhtml" id="may-day-eve.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/monsieur-joseph-of-the-ski.xhtml" id="monsieur-joseph-of-the-ski.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/my-adventure-with-a-lion.xhtml" id="my-adventure-with-a-lion.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/pines.xhtml" id="pines.xhtml" media-type="application/xhtml+xml"/>
@@ -163,6 +164,7 @@
 		<itemref idref="the-dance-of-death.xhtml"/>
 		<itemref idref="with-intent-to-steal.xhtml"/>
 		<itemref idref="max-hensig.xhtml"/>
+		<itemref idref="may-day-eve.xhtml"/>
 		<itemref idref="the-old-man-of-visions.xhtml"/>
 		<itemref idref="the-willows.xhtml"/>
 		<itemref idref="ancient-sorceries.xhtml"/>
