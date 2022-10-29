@@ -7,24 +7,6 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
 * Exclude Files: toc.*, colo*, impr*, uncopy*,*.opf,title*,*.md,*.svg,*.css,*.xml
 Quotes: ‘ — ’  “ — ”
 
- ****  MODERNIZE ****  everywhere
-[^a-z]on to[^a-z]   
-on to → onto
-any more → anymore
-any time → anytime
-none the less → nonetheless (everywhere)
-good night → goodnight
-pine-woods → pinewoods in "danube"
-re-crossing → recrossing in "danube"
-hell fire → hellfire in "the damned" 
-Salamander → salamander in "the damned"
-syren -> siren in "slumbubble"
-
-<i xml:lang="fr">
-Some of these are non-fiction
-*** ALSO THERE IS LINT" ***
-** ALSO ENGINE NEEDS TO BE BLOCKQUOTE?"
-
 "[Editorial] Correct mismatched dashes re-crossed→recrossed, smith-an-episode-in-a-lodging-house"
 "[Editorial] Correct mismatched dashes spring-tide→springtide, the-man-whom-the-trees-loved"
 "[Editorial] mass→Mass, Government→government canoeers→canoers Obermarchsthal→Obermarchtal Wiener_Wald→Wienerwald gipsy→gypsy to_morrow→tomorrow half_way→halfway well_nigh→well-nigh; down-the-danube-in-a-canadian-canoe"
@@ -32,6 +14,7 @@ Some of these are non-fiction
 "[Editorial] Pole_star→polestar Crows_Nest → Crow’s_Nest Government→government quintette → quintet"
 "[Editorial] modernize sleep-and-how-to-do-without-it carbon-dioxide→carbon_dioxide Tamas→tamas Rajas→rajas Sattua→sattva none_the_less→nonetheless Mummery→mummery some_day→someday worth_while→worthwhile"
 "[Editorial] modernize 80deg→80-deg millimétres→millimetres; the-egyptian-desert-from-helouan"
+"[Editorial] modernize none-the-less→nonetheless Salamander→salamander hell_fire→hellfire any_more→anymore any_time→anytime on_to→onto"
 
  == a-haunted-island
  == a-suspicious-gift
@@ -86,9 +69,9 @@ Some of these are non-fiction
  == violence
  == may-day-eve
  == miss-slumbubble-and-claustrophobia
- 
- == GENERAL GO THROUGH!
 
+ == ancient-lights
+ 
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
@@ -188,8 +171,6 @@ to reinitialize
 ---------------
 rm ****** -rf .git 
 git init
-
-
 
 
 
