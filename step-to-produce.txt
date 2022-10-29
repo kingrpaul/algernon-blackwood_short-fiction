@@ -17,7 +17,9 @@ good night → goodnight
 pine-woods → pinewoods in "danube"
 re-crossing → recrossing in "danube"
 hell fire → hellfire in "the damned" 
-Salamander → salamander in "the damned" 
+Salamander → salamander in "the damned"
+syren -> siren in "slumbubble"
+
 <i xml:lang="fr">
 Some of these are non-fiction
 *** ALSO THERE IS LINT" ***
@@ -83,7 +85,6 @@ Some of these are non-fiction
  == the-egyptian-desert-from-helouan
  == violence
  == may-day-eve
-
  == miss-slumbubble-and-claustrophobia
  
  == GENERAL GO THROUGH!

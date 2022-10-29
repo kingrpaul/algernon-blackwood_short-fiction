@@ -6,12 +6,6 @@
 			<reason>title is a 3-letter abbreviation</reason>
 		</ignore>
 	</file>
-	<file path="summering-in-canadian-backwoods.xhtml">
-		<ignore>
-			<code>t-042</code>
-			<reason>to match author's representation of currency</reason>
-		</ignore>
-	</file>
 	<file path="the-olive.xhtml">
 		<ignore>
 			<code>t-042</code>
@@ -24,10 +18,10 @@
 			<reason>intent of single quote to mark out the word as a word</reason>
 		</ignore>
 	</file>
-	<file path="max-hensig.xhtml">
+	<file path="initiation.xhtml">
 		<ignore>
-			<code>s-021</code>
-			<reason>quotes in part of title to agree with page scans</reason>
+			<code>t-005</code>
+			<reason>single word matching scan</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>

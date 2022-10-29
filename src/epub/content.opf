@@ -201,6 +201,7 @@
 		<itemref idref="the-tryst.xhtml"/>
 		<itemref idref="the-olive.xhtml"/>
 		<itemref idref="engine.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
