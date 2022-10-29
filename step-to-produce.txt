@@ -82,8 +82,9 @@ Some of these are non-fiction
  == clairvoyance
  == the-egyptian-desert-from-helouan
  == violence
-
  == may-day-eve
+
+ == miss-slumbubble-and-claustrophobia
  
  == GENERAL GO THROUGH!
 
@@ -98,7 +99,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit may-day-eve"
+git commit -m "Initial commit miss-slumbubble-and-claustrophobia"
 
 === COMMIT 2 ===
 se clean .
