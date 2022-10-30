@@ -92,6 +92,7 @@
 		<item href="text/a-suspicious-gift.xhtml" id="a-suspicious-gift.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-victim-of-higher-space.xhtml" id="a-victim-of-higher-space.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/an-egyptian-hornet.xhtml" id="an-egyptian-hornet.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/ancient-lights.xhtml" id="ancient-lights.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/ancient-sorceries.xhtml" id="ancient-sorceries.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/by-water.xhtml" id="by-water.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/cains-atonement.xhtml" id="cains-atonement.xhtml" media-type="application/xhtml+xml"/>
@@ -175,6 +176,7 @@
 		<itemref idref="clairvoyance.xhtml"/>
 		<itemref idref="monsieur-joseph-of-the-ski.xhtml"/>
 		<itemref idref="the-messenger.xhtml"/>
+		<itemref idref="ancient-lights.xhtml"/>
 		<itemref idref="sand.xhtml"/>
 		<itemref idref="the-egyptian-desert-from-helouan.xhtml"/>
 		<itemref idref="the-man-whom-the-trees-loved.xhtml"/>
