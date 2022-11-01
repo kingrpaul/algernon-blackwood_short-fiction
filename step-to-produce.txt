@@ -71,8 +71,9 @@ Quotes: ‘ — ’  “ — ”
  == miss-slumbubble-and-claustrophobia
  == ancient-lights
  == vengeance-is-mine
-
  == the-wolves-of-god
+
+ == switzerland-in-wartime
 
  
 ────────────────────────────────────── 
@@ -86,7 +87,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit vengeance-is-mine"
+git commit -m "Initial commit switzerland-in-wartime"
 
 === COMMIT 2 ===
 se clean .
