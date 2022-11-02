@@ -15,6 +15,9 @@ Quotes: ‘ — ’  “ — ”
 "[Editorial] modernize sleep-and-how-to-do-without-it carbon-dioxide→carbon_dioxide Tamas→tamas Rajas→rajas Sattua→sattva none_the_less→nonetheless Mummery→mummery some_day→someday worth_while→worthwhile"
 "[Editorial] modernize 80deg→80-deg millimétres→millimetres; the-egyptian-desert-from-helouan"
 "[Editorial] modernize none-the-less→nonetheless Salamander→salamander hell_fire→hellfire any_more→anymore any_time→anytime on_to→onto"
+"[Editorial] modernize peace_time→peacetime half_way→halfway"
+
+
 
  == a-haunted-island
  == a-suspicious-gift
@@ -72,14 +75,15 @@ Quotes: ‘ — ’  “ — ”
  == ancient-lights
  == vengeance-is-mine
  == the-wolves-of-god
-
  == switzerland-in-wartime
+ == the-insanity-of-jones
+
 
  
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
-wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/38310/38310-h/38310-h.htm"
+wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/16726/16726-h/16726-h.htm"
 file -bi src/epub/text/body.xhtml
 perl -pi -e 's|<h2|<!--se:split--><h2|g' src/epub/text/body.xhtml
 se split-file src/epub/text/body.xhtml
@@ -87,7 +91,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit switzerland-in-wartime"
+git commit -m "Initial commit the-insanity-of-jones"
 
 === COMMIT 2 ===
 se clean .
