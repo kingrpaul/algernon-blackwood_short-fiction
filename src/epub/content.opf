@@ -123,6 +123,7 @@
 		<item href="text/the-empty-house.xhtml" id="the-empty-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-house-of-the-past.xhtml" id="the-house-of-the-past.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-impulse.xhtml" id="the-impulse.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-insanity-of-jones.xhtml" id="the-insanity-of-jones.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-man-whom-the-trees-loved.xhtml" id="the-man-whom-the-trees-loved.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-messenger.xhtml" id="the-messenger.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-occupant-of-the-room.xhtml" id="the-occupant-of-the-room.xhtml" media-type="application/xhtml+xml"/>
@@ -167,6 +168,7 @@
 		<itemref idref="the-strange-adventures-of-a-private-secretary-in-new-york.xhtml"/>
 		<itemref idref="the-wood-of-the-dead.xhtml"/>
 		<itemref idref="the-dance-of-death.xhtml"/>
+		<itemref idref="the-insanity-of-jones.xhtml"/>
 		<itemref idref="with-intent-to-steal.xhtml"/>
 		<itemref idref="max-hensig.xhtml"/>
 		<itemref idref="may-day-eve.xhtml"/>
