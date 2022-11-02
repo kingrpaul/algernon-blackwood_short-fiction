@@ -24,4 +24,10 @@
 			<reason>single word matching scan</reason>
 		</ignore>
 	</file>
+	<file path="switzerland-in-wartime.xhtml">
+		<ignore>
+			<code>t-010</code>
+			<reason>money, not time</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
