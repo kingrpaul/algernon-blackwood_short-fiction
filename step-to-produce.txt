@@ -16,7 +16,7 @@ Quotes: ‘ — ’  “ — ”
 "[Editorial] modernize 80deg→80-deg millimétres→millimetres; the-egyptian-desert-from-helouan"
 "[Editorial] modernize none-the-less→nonetheless Salamander→salamander hell_fire→hellfire any_more→anymore any_time→anytime on_to→onto"
 "[Editorial] modernize peace_time→peacetime half_way→halfway"
-
+"[Editorial] modernize for_ever→forever"
 
 
  == a-haunted-island
@@ -76,8 +76,10 @@ Quotes: ‘ — ’  “ — ”
  == vengeance-is-mine
  == the-wolves-of-god
  == switzerland-in-wartime
- 
  == the-insanity-of-jones
+
+
+ == a-psychical-invasion
 
 
  
