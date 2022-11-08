@@ -77,8 +77,6 @@ Quotes: ‘ — ’  “ — ”
  == the-wolves-of-god
  == switzerland-in-wartime
  == the-insanity-of-jones
-
-
  == a-psychical-invasion
 
 
@@ -86,7 +84,7 @@ Quotes: ‘ — ’  “ — ”
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
-wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/16726/16726-h/16726-h.htm"
+wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/49222/49222-h/49222-h.htm"
 file -bi src/epub/text/body.xhtml
 perl -pi -e 's|<h2|<!--se:split--><h2|g' src/epub/text/body.xhtml
 se split-file src/epub/text/body.xhtml
@@ -94,7 +92,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-insanity-of-jones"
+git commit -m "Initial commit a-psychical-invasion"
 
 === COMMIT 2 ===
 se clean .
