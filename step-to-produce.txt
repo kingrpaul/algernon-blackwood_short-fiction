@@ -79,6 +79,8 @@ Quotes: ‘ — ’  “ — ”
  == the-insanity-of-jones
  == a-psychical-invasion
 
+ == let-not-the-sun
+
 
  
 ────────────────────────────────────── 
@@ -92,7 +94,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit a-psychical-invasion"
+git commit -m "Initial commit let-not-the-sun"
 
 === COMMIT 2 ===
 se clean .
@@ -184,3 +186,7 @@ git init
 
 
 https://standardebooks.org/manual/1.7.0/single-page
+
+
+#AlgernonBlackwood #ghost #witch #haunted 
+https://kingrpaul.github.io/algernon-blackwood_short-fiction//src/epub/text/a-psychical-invasion.xhtml
