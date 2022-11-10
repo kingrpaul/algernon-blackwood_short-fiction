@@ -78,9 +78,9 @@ Quotes: ‘ — ’  “ — ”
  == switzerland-in-wartime
  == the-insanity-of-jones
  == a-psychical-invasion
-
  == let-not-the-sun
 
+ == s-o-s
 
  
 ────────────────────────────────────── 
@@ -188,5 +188,4 @@ git init
 https://standardebooks.org/manual/1.7.0/single-page
 
 
-#AlgernonBlackwood #ghost #witch #haunted 
 https://kingrpaul.github.io/algernon-blackwood_short-fiction//src/epub/text/a-psychical-invasion.xhtml
