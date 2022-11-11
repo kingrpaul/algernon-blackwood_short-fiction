@@ -79,7 +79,6 @@ Quotes: ‘ — ’  “ — ”
  == the-insanity-of-jones
  == a-psychical-invasion
  == let-not-the-sun
-
  == s-o-s
 
  
@@ -94,7 +93,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit let-not-the-sun"
+git commit -m "Initial commit s-o-s"
 
 === COMMIT 2 ===
 se clean .
