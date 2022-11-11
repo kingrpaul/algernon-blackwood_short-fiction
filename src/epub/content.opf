@@ -120,6 +120,7 @@
 		<item href="text/smith-an-episode-in-a-lodging-house.xhtml" id="smith-an-episode-in-a-lodging-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/summering-in-canadian-backwoods.xhtml" id="summering-in-canadian-backwoods.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/switzerland-in-wartime.xhtml" id="switzerland-in-wartime.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-call.xhtml" id="the-call.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-damned.xhtml" id="the-damned.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-dance-of-death.xhtml" id="the-dance-of-death.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-egyptian-desert-from-helouan.xhtml" id="the-egyptian-desert-from-helouan.xhtml" media-type="application/xhtml+xml"/>
@@ -213,6 +214,7 @@
 		<itemref idref="the-touch-of-pan.xhtml"/>
 		<itemref idref="the-tryst.xhtml"/>
 		<itemref idref="s-o-s.xhtml"/>
+		<itemref idref="the-call.xhtml"/>
 		<itemref idref="the-olive.xhtml"/>
 		<itemref idref="the-wolves-of-god.xhtml"/>
 		<itemref idref="vengeance-is-mine.xhtml"/>
