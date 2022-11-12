@@ -30,4 +30,10 @@
 			<reason>money, not time</reason>
 		</ignore>
 	</file>
+	<file path="s-o-s.xhtml">
+		<ignore>
+			<code>t-065</code>
+			<reason>abbreviation as title</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
