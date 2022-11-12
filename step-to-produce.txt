@@ -80,10 +80,54 @@ Quotes: ‘ — ’  “ — ”
  == a-psychical-invasion
  == let-not-the-sun
  == s-o-s
-== the-call
+ == the-call
 
 RETYPOGRIFY/RE-LINT "SOS")
 RE-CHECK DASHES
+ 
+        a-descent-into-egypt
+        accessory-before-the-fact
+        carltons-drive
+        chinese-magic
+        confession
+        dream-trespass
+        egyptian-sorcery
+        entrance-and-exit
+        first-hate
+        if-the-cap-fits
+        old-clothes
+        running-wolf
+        secret-worship
+        the-attic
+        the-camp-of-the-dog
+        the-decoy
+        the-deferred-appointment
+        the-eccentricity-of-simon-parnacute
+        the-empty-sleeve
+        the-glamour-of-the-snow
+        the-goblins-collection
+        the-golden-fly
+        the-invitation
+        the-kit-bag
+        the-lane-that-ran-east-and-west
+        the-listener
+        the-man-who-found-out
+        the-man-who-played-upon-the-leaf
+        the-nemesis-of-fire
+        the-prayer
+        the-regeneration-of-lord-ernie
+        the-sacrifice
+        the-sea-fit
+        the-tarn-of-sacrifiice
+        the-temptation-of-the-clay
+        the-terror-of-the-twins
+        the-transfer
+        the-valley-of-the-beasts
+        the-whisperers
+        two-in-one
+        violence
+        wireless-confusion
+
  
 ────────────────────────────────────── 
 
