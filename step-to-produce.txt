@@ -81,12 +81,12 @@ Quotes: ‘ — ’  “ — ”
  == let-not-the-sun
  == s-o-s
  == the-call
+ == accessory-before-the-fact
 
-RETYPOGRIFY/RE-LINT "SOS")
-RE-CHECK DASHES
+ == carltons-drive
  
-        a-descent-into-egypt
-        accessory-before-the-fact
+        
+        
         carltons-drive
         chinese-magic
         confession
@@ -127,8 +127,9 @@ RE-CHECK DASHES
         two-in-one
         violence
         wireless-confusion
+        a-descent-into-egypt
 
- 
+
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
@@ -140,7 +141,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-call"
+git commit -m "Initial commit carltons-drive"
 
 === COMMIT 2 ===
 se clean .
