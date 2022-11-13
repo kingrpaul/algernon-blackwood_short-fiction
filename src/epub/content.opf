@@ -127,6 +127,7 @@
 		<item href="text/the-dance-of-death.xhtml" id="the-dance-of-death.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-egyptian-desert-from-helouan.xhtml" id="the-egyptian-desert-from-helouan.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-empty-house.xhtml" id="the-empty-house.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-goblins-collection.xhtml" id="the-goblins-collection.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-house-of-the-past.xhtml" id="the-house-of-the-past.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-impulse.xhtml" id="the-impulse.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-insanity-of-jones.xhtml" id="the-insanity-of-jones.xhtml" media-type="application/xhtml+xml"/>
@@ -193,6 +194,7 @@
 		<itemref idref="ancient-lights.xhtml"/>
 		<itemref idref="sand.xhtml"/>
 		<itemref idref="the-egyptian-desert-from-helouan.xhtml"/>
+		<itemref idref="the-goblins-collection.xhtml"/>
 		<itemref idref="the-man-whom-the-trees-loved.xhtml"/>
 		<itemref idref="wayfarers.xhtml"/>
 		<itemref idref="h-s-h.xhtml"/>
