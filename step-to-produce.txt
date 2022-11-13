@@ -17,7 +17,7 @@ Quotes: ‘ — ’  “ — ”
 "[Editorial] modernize none-the-less→nonetheless Salamander→salamander hell_fire→hellfire any_more→anymore any_time→anytime on_to→onto"
 "[Editorial] modernize peace_time→peacetime half_way→halfway"
 "[Editorial] modernize for_ever→forever"
-
+"[Editorial] modernize laisser_aller→laissez-aller"
 
  == a-haunted-island
  == a-suspicious-gift
@@ -82,12 +82,10 @@ Quotes: ‘ — ’  “ — ”
  == s-o-s
  == the-call
  == accessory-before-the-fact
-
  == carltons-drive
  
+    the-goblins-collection
         
-        
-        carltons-drive
         chinese-magic
         confession
         dream-trespass
@@ -105,12 +103,10 @@ Quotes: ‘ — ’  “ — ”
         the-eccentricity-of-simon-parnacute
         the-empty-sleeve
         the-glamour-of-the-snow
-        the-goblins-collection
         the-golden-fly
         the-invitation
         the-kit-bag
         the-lane-that-ran-east-and-west
-        the-listener
         the-man-who-found-out
         the-man-who-played-upon-the-leaf
         the-nemesis-of-fire
@@ -128,6 +124,7 @@ Quotes: ‘ — ’  “ — ”
         violence
         wireless-confusion
         a-descent-into-egypt
+        the-listener
 
 
 ────────────────────────────────────── 
