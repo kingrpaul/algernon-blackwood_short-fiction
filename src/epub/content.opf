@@ -122,6 +122,7 @@
 		<item href="text/smith-an-episode-in-a-lodging-house.xhtml" id="smith-an-episode-in-a-lodging-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/summering-in-canadian-backwoods.xhtml" id="summering-in-canadian-backwoods.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/switzerland-in-wartime.xhtml" id="switzerland-in-wartime.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-attic.xhtml" id="the-attic.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-call.xhtml" id="the-call.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-damned.xhtml" id="the-damned.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-dance-of-death.xhtml" id="the-dance-of-death.xhtml" media-type="application/xhtml+xml"/>
@@ -193,6 +194,7 @@
 		<itemref idref="the-messenger.xhtml"/>
 		<itemref idref="ancient-lights.xhtml"/>
 		<itemref idref="sand.xhtml"/>
+		<itemref idref="the-attic.xhtml"/>
 		<itemref idref="the-egyptian-desert-from-helouan.xhtml"/>
 		<itemref idref="the-goblins-collection.xhtml"/>
 		<itemref idref="the-man-whom-the-trees-loved.xhtml"/>
