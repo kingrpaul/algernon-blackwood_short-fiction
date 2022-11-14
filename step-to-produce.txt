@@ -83,8 +83,9 @@ Quotes: ‘ — ’  “ — ”
  == the-call
  == accessory-before-the-fact
  == carltons-drive
- 
-    the-goblins-collection
+ == the-goblins-collection
+
+ == the-attic
         
         chinese-magic
         confession
@@ -96,7 +97,6 @@ Quotes: ‘ — ’  “ — ”
         old-clothes
         running-wolf
         secret-worship
-        the-attic
         the-camp-of-the-dog
         the-decoy
         the-deferred-appointment
@@ -138,7 +138,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit carltons-drive"
+git commit -m "Initial commit the-attic"
 
 === COMMIT 2 ===
 se clean .
