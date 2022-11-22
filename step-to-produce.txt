@@ -86,12 +86,11 @@ Quotes: ‘ — ’  “ — ”
  == the-goblins-collection
  == the-attic
  == the-empty-sleeve
-
-
  == confession
+ == the-womans-ghost-story
  
+== chinese-magic
 
-        chinese-magic
         dream-trespass
         egyptian-sorcery
         entrance-and-exit
@@ -140,7 +139,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit confession"
+git commit -m "Initial commit chinese-magic"
 
 === COMMIT 2 ===
 se clean .
