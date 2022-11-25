@@ -19,6 +19,10 @@ Quotes: ‘ — ’  “ — ”
 "[Editorial] modernize for_ever→forever"
 "[Editorial] modernize laisser_aller→laissez-aller"
 
+
+**** none_the_less→nonetheless
+**** recheck the dashes
+
  == a-haunted-island
  == a-suspicious-gift
  == a-case-of-eavesdropping
@@ -88,8 +92,10 @@ Quotes: ‘ — ’  “ — ”
  == the-empty-sleeve
  == confession
  == the-womans-ghost-story
+ == chinese-magic
+ == full-circle
+
  
-== chinese-magic
 
         dream-trespass
         egyptian-sorcery
@@ -139,7 +145,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit chinese-magic"
+git commit -m "Initial commit full-circle"
 
 === COMMIT 2 ===
 se clean .
@@ -234,3 +240,6 @@ https://standardebooks.org/manual/1.7.0/single-page
 
 
 https://kingrpaul.github.io/algernon-blackwood_short-fiction//src/epub/text/a-psychical-invasion.xhtml
+
+
+ epub:type="z3998:letter"

@@ -36,4 +36,10 @@
 			<reason>abbreviation as title</reason>
 		</ignore>
 	</file>
+	<file path="full-circle.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>internal monolog mistaken for dialog</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
