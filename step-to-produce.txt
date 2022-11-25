@@ -21,7 +21,7 @@ Quotes: ‘ — ’  “ — ”
 
 
 **** none_the_less→nonetheless
-**** recheck the dashes
+**** recheck the dashes, include stock-still
 
  == a-haunted-island
  == a-suspicious-gift
@@ -97,7 +97,9 @@ Quotes: ‘ — ’  “ — ”
 
  
 
-        dream-trespass
+ == dream-trespass
+    
+
         egyptian-sorcery
         entrance-and-exit
         first-hate
@@ -145,7 +147,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit full-circle"
+git commit -m "Initial commit dream-trespass"
 
 === COMMIT 2 ===
 se clean .
