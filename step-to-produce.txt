@@ -94,16 +94,13 @@ Quotes: ‘ — ’  “ — ”
  == the-womans-ghost-story
  == chinese-magic
  == full-circle
-
- 
-
  == dream-trespass
-    
+ == entrance-and-exit
+ == first-hate
 
-        egyptian-sorcery
-        entrance-and-exit
-        first-hate
-        if-the-cap-fits
+ == if-the-cap-fits
+
+
         old-clothes
         running-wolf
         secret-worship
@@ -134,6 +131,7 @@ Quotes: ‘ — ’  “ — ”
         wireless-confusion
         a-descent-into-egypt
         the-listener
+        egyptian-sorcery
 
 
 ────────────────────────────────────── 
@@ -147,7 +145,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit dream-trespass"
+git commit -m "Initial commit first-hate"
 
 === COMMIT 2 ===
 se clean .
