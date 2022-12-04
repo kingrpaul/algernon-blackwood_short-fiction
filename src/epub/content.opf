@@ -122,6 +122,7 @@
 		<item href="text/monsieur-joseph-of-the-ski.xhtml" id="monsieur-joseph-of-the-ski.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/my-adventure-with-a-lion.xhtml" id="my-adventure-with-a-lion.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/pines.xhtml" id="pines.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/running-wolf.xhtml" id="running-wolf.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/s-o-s.xhtml" id="s-o-s.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sand.xhtml" id="sand.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/skeleton-lake-an-episode-in-camp.xhtml" id="skeleton-lake-an-episode-in-camp.xhtml" media-type="application/xhtml+xml"/>
@@ -241,6 +242,7 @@
 		<itemref idref="the-call.xhtml"/>
 		<itemref idref="chinese-magic.xhtml"/>
 		<itemref idref="first-hate.xhtml"/>
+		<itemref idref="running-wolf.xhtml"/>
 		<itemref idref="the-olive.xhtml"/>
 		<itemref idref="confession.xhtml"/>
 		<itemref idref="the-wolves-of-god.xhtml"/>
