@@ -20,6 +20,9 @@ Quotes: ‘ — ’  “ — ”
 "[Editorial] modernize laisser_aller→laissez-aller"
 
 
+
+**** s’s
+**** Æ
 **** none_the_less→nonetheless
 **** recheck the dashes, include stock-still
 
@@ -98,7 +101,6 @@ Quotes: ‘ — ’  “ — ”
  == entrance-and-exit
  == first-hate
  == if-the-cap-fits
-        
  == the-sea-fit
  
  == running-wolf
@@ -145,7 +147,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit first-hate"
+git commit -m "Initial commit the-sea-fit"
 
 === COMMIT 2 ===
 se clean .
