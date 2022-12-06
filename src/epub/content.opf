@@ -135,6 +135,7 @@
 		<item href="text/the-call.xhtml" id="the-call.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-damned.xhtml" id="the-damned.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-dance-of-death.xhtml" id="the-dance-of-death.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-decoy.xhtml" id="the-decoy.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-egyptian-desert-from-helouan.xhtml" id="the-egyptian-desert-from-helouan.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-empty-house.xhtml" id="the-empty-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-empty-sleeve.xhtml" id="the-empty-sleeve.xhtml" media-type="application/xhtml+xml"/>
@@ -242,6 +243,7 @@
 		<itemref idref="the-tryst.xhtml"/>
 		<itemref idref="s-o-s.xhtml"/>
 		<itemref idref="the-call.xhtml"/>
+		<itemref idref="the-decoy.xhtml"/>
 		<itemref idref="chinese-magic.xhtml"/>
 		<itemref idref="first-hate.xhtml"/>
 		<itemref idref="running-wolf.xhtml"/>
