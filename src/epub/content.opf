@@ -133,6 +133,7 @@
 		<item href="text/switzerland-in-wartime.xhtml" id="switzerland-in-wartime.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-attic.xhtml" id="the-attic.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-call.xhtml" id="the-call.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-camp-of-the-dog.xhtml" id="the-camp-of-the-dog.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-damned.xhtml" id="the-damned.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-dance-of-death.xhtml" id="the-dance-of-death.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-decoy.xhtml" id="the-decoy.xhtml" media-type="application/xhtml+xml"/>
@@ -200,6 +201,7 @@
 		<itemref idref="ancient-sorceries.xhtml"/>
 		<itemref idref="a-psychical-invasion.xhtml"/>
 		<itemref idref="secret-worship.xhtml"/>
+		<itemref idref="the-camp-of-the-dog.xhtml"/>
 		<itemref idref="carltons-drive.xhtml"/>
 		<itemref idref="entrance-and-exit.xhtml"/>
 		<itemref idref="you-may-telephone-from-here.xhtml"/>
