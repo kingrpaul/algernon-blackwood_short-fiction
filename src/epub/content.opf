@@ -137,6 +137,7 @@
 		<item href="text/the-damned.xhtml" id="the-damned.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-dance-of-death.xhtml" id="the-dance-of-death.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-decoy.xhtml" id="the-decoy.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-deferred-appointment.xhtml" id="the-deferred-appointment.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-egyptian-desert-from-helouan.xhtml" id="the-egyptian-desert-from-helouan.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-empty-house.xhtml" id="the-empty-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-empty-sleeve.xhtml" id="the-empty-sleeve.xhtml" media-type="application/xhtml+xml"/>
@@ -212,6 +213,7 @@
 		<itemref idref="clairvoyance.xhtml"/>
 		<itemref idref="dream-trespass.xhtml"/>
 		<itemref idref="monsieur-joseph-of-the-ski.xhtml"/>
+		<itemref idref="the-deferred-appointment.xhtml"/>
 		<itemref idref="the-empty-sleeve.xhtml"/>
 		<itemref idref="the-messenger.xhtml"/>
 		<itemref idref="ancient-lights.xhtml"/>
