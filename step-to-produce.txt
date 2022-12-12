@@ -18,6 +18,7 @@ Quotes: ‘ — ’  “ — ”
 "[Editorial] modernize peace_time→peacetime half_way→halfway"
 "[Editorial] modernize for_ever→forever"
 "[Editorial] modernize laisser_aller→laissez-aller"
+"[Editorial] modernize for_ever→forever"
 
 
 
@@ -102,13 +103,15 @@ Quotes: ‘ — ’  “ — ”
  == first-hate
  == if-the-cap-fits
  == the-sea-fit
- 
  == running-wolf
+ == secret-worship
+ == the-decoy
+ == the-camp-of-the-dog
+ == the-deferred-appointment
+ == on-wings
 
-        secret-worship
-        the-camp-of-the-dog
-        the-decoy
-        the-deferred-appointment
+    the-transfer
+
         the-eccentricity-of-simon-parnacute
         the-glamour-of-the-snow
         the-golden-fly
@@ -124,7 +127,6 @@ Quotes: ‘ — ’  “ — ”
         the-tarn-of-sacrifiice
         the-temptation-of-the-clay
         the-terror-of-the-twins
-        the-transfer
         the-valley-of-the-beasts
         the-whisperers
         two-in-one
@@ -139,7 +141,7 @@ Quotes: ‘ — ’  “ — ”
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
-wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/38310/38310-h/38310-h.htm"
+wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/49222/49222-h/49222-h.htm"
 file -bi src/epub/text/body.xhtml
 perl -pi -e 's|<h2|<!--se:split--><h2|g' src/epub/text/body.xhtml
 se split-file src/epub/text/body.xhtml
@@ -147,7 +149,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-sea-fit"
+git commit -m "Initial commit on-wings"
 
 === COMMIT 2 ===
 se clean .
@@ -207,9 +209,9 @@ git commit -am "[Editorial] Correct mismatched dashes"
 
 === COMMIT 13 ===
 * Fix title:
-	<body epub:type="bodymatter z3998:fiction">
-		<article id="the-empty-house" epub:type="se:short-story">
-			<h2 epub:type="title">The Empty House</h2>
+  <body epub:type="bodymatter z3998:fiction">
+    <article id="the-empty-house" epub:type="se:short-story">
+      <h2 epub:type="title">The Empty House</h2>
 se build-title .
 git commit -am "Add titles"
 
