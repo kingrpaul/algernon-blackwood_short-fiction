@@ -157,6 +157,7 @@
 		<item href="text/the-strange-adventures-of-a-private-secretary-in-new-york.xhtml" id="the-strange-adventures-of-a-private-secretary-in-new-york.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-touch-of-pan.xhtml" id="the-touch-of-pan.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-tradition.xhtml" id="the-tradition.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-transfer.xhtml" id="the-transfer.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-tryst.xhtml" id="the-tryst.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-wendigo.xhtml" id="the-wendigo.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-willows.xhtml" id="the-willows.xhtml" media-type="application/xhtml+xml"/>
@@ -218,6 +219,7 @@
 		<itemref idref="the-deferred-appointment.xhtml"/>
 		<itemref idref="the-empty-sleeve.xhtml"/>
 		<itemref idref="the-messenger.xhtml"/>
+		<itemref idref="the-transfer.xhtml"/>
 		<itemref idref="ancient-lights.xhtml"/>
 		<itemref idref="sand.xhtml"/>
 		<itemref idref="the-attic.xhtml"/>
