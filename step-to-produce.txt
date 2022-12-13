@@ -109,8 +109,10 @@ Quotes: ‘ — ’  “ — ”
  == the-camp-of-the-dog
  == the-deferred-appointment
  == on-wings
+ == the-transfer
 
-    the-transfer
+    the-prayer
+
 
         the-eccentricity-of-simon-parnacute
         the-glamour-of-the-snow
@@ -121,7 +123,6 @@ Quotes: ‘ — ’  “ — ”
         the-man-who-found-out
         the-man-who-played-upon-the-leaf
         the-nemesis-of-fire
-        the-prayer
         the-regeneration-of-lord-ernie
         the-sacrifice
         the-tarn-of-sacrifiice
@@ -136,7 +137,7 @@ Quotes: ‘ — ’  “ — ”
         the-listener
         egyptian-sorcery
         old-clothes
-
+        
 
 ────────────────────────────────────── 
 
@@ -149,7 +150,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit on-wings"
+git commit -m "Initial commit the-prayer"
 
 === COMMIT 2 ===
 se clean .
