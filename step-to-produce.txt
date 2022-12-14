@@ -112,8 +112,9 @@ Quotes: ‘ — ’  “ — ”
  == the-transfer
  == the-prayer
 
+    two-in-one
 
-    the-golden-fly
+        the-golden-fly
 
         the-eccentricity-of-simon-parnacute
         the-glamour-of-the-snow
@@ -130,7 +131,6 @@ Quotes: ‘ — ’  “ — ”
         the-terror-of-the-twins
         the-valley-of-the-beasts
         the-whisperers
-        two-in-one
         violence
         wireless-confusion
         a-descent-into-egypt
@@ -150,7 +150,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-prayer"
+git commit -m "Initial commit two-in-one"
 
 === COMMIT 2 ===
 se clean .
@@ -248,3 +248,7 @@ https://kingrpaul.github.io/algernon-blackwood_short-fiction//src/epub/text/a-ps
 
 
  epub:type="z3998:letter"
+
+ "The three Ransom boys were home for the holidays"
+
+National library of Australia Newpapers
