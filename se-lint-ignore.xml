@@ -42,4 +42,10 @@
 			<reason>internal monolog mistaken for dialog</reason>
 		</ignore>
 	</file>
+	<file path="the-story-mr-popkiss-told.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>dialog from the same speaker spans multiple paragraphs</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
