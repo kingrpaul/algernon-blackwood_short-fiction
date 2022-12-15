@@ -143,6 +143,7 @@
 		<item href="text/the-empty-house.xhtml" id="the-empty-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-empty-sleeve.xhtml" id="the-empty-sleeve.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-goblins-collection.xhtml" id="the-goblins-collection.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-golden-fly.xhtml" id="the-golden-fly.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-house-of-the-past.xhtml" id="the-house-of-the-past.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-impulse.xhtml" id="the-impulse.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-insanity-of-jones.xhtml" id="the-insanity-of-jones.xhtml" media-type="application/xhtml+xml"/>
@@ -222,6 +223,7 @@
 		<itemref idref="on-wings.xhtml"/>
 		<itemref idref="the-deferred-appointment.xhtml"/>
 		<itemref idref="the-empty-sleeve.xhtml"/>
+		<itemref idref="the-golden-fly.xhtml"/>
 		<itemref idref="the-messenger.xhtml"/>
 		<itemref idref="the-prayer.xhtml"/>
 		<itemref idref="the-transfer.xhtml"/>
