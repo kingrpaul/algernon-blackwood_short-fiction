@@ -113,10 +113,8 @@ Quotes: ‘ — ’  “ — ”
  == the-prayer
  == two-in-one
  == the-story-mr-popkiss-told
+ == the-golden-fly
 
-        the-golden-fly
-
-        the-eccentricity-of-simon-parnacute
         the-glamour-of-the-snow
         the-invitation
         the-kit-bag
@@ -133,6 +131,7 @@ Quotes: ‘ — ’  “ — ”
         the-whisperers
         violence
         wireless-confusion
+        the-eccentricity-of-simon-parnacute
         a-descent-into-egypt
         the-listener
         egyptian-sorcery
@@ -150,7 +149,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-story-mr-popkiss-told"
+git commit -m "Initial commit the-golden-fly"
 
 === COMMIT 2 ===
 se clean .
@@ -248,8 +247,3 @@ https://kingrpaul.github.io/algernon-blackwood_short-fiction//src/epub/text/a-ps
 
 
  epub:type="z3998:letter"
-
- 
- The Saturday Westminster Gazette, 18 December 1915
-
-
