@@ -114,9 +114,9 @@ Quotes: ‘ — ’  “ — ”
  == two-in-one
  == the-story-mr-popkiss-told
  == the-golden-fly
-
-        the-glamour-of-the-snow
+        
         the-invitation
+
         the-kit-bag
         the-lane-that-ran-east-and-west
         the-man-who-found-out
@@ -131,6 +131,7 @@ Quotes: ‘ — ’  “ — ”
         the-whisperers
         violence
         wireless-confusion
+        the-glamour-of-the-snow
         the-eccentricity-of-simon-parnacute
         a-descent-into-egypt
         the-listener
