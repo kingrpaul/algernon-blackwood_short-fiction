@@ -115,8 +115,9 @@ Quotes: ‘ — ’  “ — ”
  == the-story-mr-popkiss-told
  == the-golden-fly
  == the-invitation
+ == the-little-beggar
 
-    the-little-beggar
+    the-whisperers
 
         the-kit-bag
         the-lane-that-ran-east-and-west
@@ -129,7 +130,6 @@ Quotes: ‘ — ’  “ — ”
         the-temptation-of-the-clay
         the-terror-of-the-twins
         the-valley-of-the-beasts
-        the-whisperers
         violence
         wireless-confusion
         the-glamour-of-the-snow
