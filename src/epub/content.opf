@@ -148,6 +148,7 @@
 		<item href="text/the-impulse.xhtml" id="the-impulse.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-insanity-of-jones.xhtml" id="the-insanity-of-jones.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-invitation.xhtml" id="the-invitation.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-little-beggar.xhtml" id="the-little-beggar.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-man-whom-the-trees-loved.xhtml" id="the-man-whom-the-trees-loved.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-messenger.xhtml" id="the-messenger.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-occupant-of-the-room.xhtml" id="the-occupant-of-the-room.xhtml" media-type="application/xhtml+xml"/>
@@ -248,6 +249,7 @@
 		<itemref idref="the-damned.xhtml"/>
 		<itemref idref="the-impulse.xhtml"/>
 		<itemref idref="the-invitation.xhtml"/>
+		<itemref idref="the-little-beggar.xhtml"/>
 		<itemref idref="the-wings-of-horus.xhtml"/>
 		<itemref idref="violence.xhtml"/>
 		<itemref idref="cains-atonement.xhtml"/>
