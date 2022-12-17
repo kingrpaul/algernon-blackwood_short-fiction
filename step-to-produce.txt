@@ -116,6 +116,8 @@ Quotes: ‘ — ’  “ — ”
  == the-golden-fly
  == the-invitation
 
+    the-little-beggar
+
         the-kit-bag
         the-lane-that-ran-east-and-west
         the-man-who-found-out
@@ -149,7 +151,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-golden-fly"
+git commit -m "Initial commit the-little-beggar"
 
 === COMMIT 2 ===
 se clean .
