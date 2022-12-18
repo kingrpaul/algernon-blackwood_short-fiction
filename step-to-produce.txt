@@ -151,7 +151,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-little-beggar"
+git commit -m "Initial commit the-whisperers"
 
 === COMMIT 2 ===
 se clean .
