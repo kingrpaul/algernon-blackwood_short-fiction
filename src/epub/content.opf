@@ -165,6 +165,7 @@
 		<item href="text/the-transfer.xhtml" id="the-transfer.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-tryst.xhtml" id="the-tryst.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-wendigo.xhtml" id="the-wendigo.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-whisperers.xhtml" id="the-whisperers.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-willows.xhtml" id="the-willows.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-wings-of-horus.xhtml" id="the-wings-of-horus.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-wolves-of-god.xhtml" id="the-wolves-of-god.xhtml" media-type="application/xhtml+xml"/>
@@ -236,6 +237,7 @@
 		<itemref idref="the-egyptian-desert-from-helouan.xhtml"/>
 		<itemref idref="the-goblins-collection.xhtml"/>
 		<itemref idref="the-man-whom-the-trees-loved.xhtml"/>
+		<itemref idref="the-whisperers.xhtml"/>
 		<itemref idref="wayfarers.xhtml"/>
 		<itemref idref="h-s-h.xhtml"/>
 		<itemref idref="the-tradition.xhtml"/>
