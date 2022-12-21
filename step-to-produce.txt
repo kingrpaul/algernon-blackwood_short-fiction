@@ -117,13 +117,13 @@ Quotes: ‘ — ’  “ — ”
  == the-invitation
  == the-little-beggar
  == the-whisperers
+ == the-man-who-played-upon-the-leaf
 
-    the-man-who-played-upon-the-leaf
+    the-nemesis-of-fire
 
         the-kit-bag
         the-lane-that-ran-east-and-west
         the-man-who-found-out
-        the-nemesis-of-fire
         the-regeneration-of-lord-ernie
         the-sacrifice
         the-tarn-of-sacrifiice
@@ -151,7 +151,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-whisperers"
+git commit -m "Initial commit the-man-who-played-upon-the-leaf"
 
 === COMMIT 2 ===
 se clean .
@@ -232,6 +232,10 @@ se lint . > lint.txt
 se build --output-dir=$HOME/dist/ --kindle .
 git commit -am "Proofread"
 
+
+============
+
+se build --check-only . > build-check.txt
 
 ============
 
