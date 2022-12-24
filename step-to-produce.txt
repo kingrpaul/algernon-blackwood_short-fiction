@@ -26,6 +26,7 @@ Quotes: ‘ — ’  “ — ”
 **** Æ
 **** none_the_less→nonetheless
 **** recheck the dashes, include stock-still
+**** worth while 
 
  == a-haunted-island
  == a-suspicious-gift
@@ -151,7 +152,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-man-who-played-upon-the-leaf"
+git commit -m "Initial commit the-nemesis-of-fire"
 
 === COMMIT 2 ===
 se clean .
@@ -232,6 +233,7 @@ se lint . > lint.txt
 se build --output-dir=$HOME/dist/ --kindle .
 git commit -am "Proofread"
 
+git diff -U0 --word-diff-regex=.
 
 ============
 
