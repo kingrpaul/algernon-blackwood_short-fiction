@@ -180,6 +180,7 @@
 		<item href="text/vengeance-is-mine.xhtml" id="vengeance-is-mine.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/violence.xhtml" id="violence.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/wayfarers.xhtml" id="wayfarers.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/wireless-confusion.xhtml" id="wireless-confusion.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/with-intent-to-steal.xhtml" id="with-intent-to-steal.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/you-may-telephone-from-here.xhtml" id="you-may-telephone-from-here.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
@@ -270,6 +271,7 @@
 		<itemref idref="s-o-s.xhtml"/>
 		<itemref idref="the-call.xhtml"/>
 		<itemref idref="the-decoy.xhtml"/>
+		<itemref idref="wireless-confusion.xhtml"/>
 		<itemref idref="chinese-magic.xhtml"/>
 		<itemref idref="first-hate.xhtml"/>
 		<itemref idref="running-wolf.xhtml"/>
