@@ -121,8 +121,10 @@ Quotes: ‘ — ’  “ — ”
  == the-man-who-played-upon-the-leaf
  == the-nemesis-of-fire
  == wireless-confusion
+ == the-kit-bag
 
-        the-kit-bag
+        the-listener
+
         the-lane-that-ran-east-and-west
         the-man-who-found-out
         the-regeneration-of-lord-ernie
@@ -134,7 +136,6 @@ Quotes: ‘ — ’  “ — ”
         the-glamour-of-the-snow
         the-eccentricity-of-simon-parnacute
         a-descent-into-egypt
-        the-listener
         egyptian-sorcery
         old-clothes
         
