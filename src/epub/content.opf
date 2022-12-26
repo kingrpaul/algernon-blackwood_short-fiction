@@ -121,6 +121,7 @@
 		<item href="text/miss-slumbubble-and-claustrophobia.xhtml" id="miss-slumbubble-and-claustrophobia.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/monsieur-joseph-of-the-ski.xhtml" id="monsieur-joseph-of-the-ski.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/my-adventure-with-a-lion.xhtml" id="my-adventure-with-a-lion.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/news-v-nourishment.xhtml" id="news-v-nourishment.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-wings.xhtml" id="on-wings.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/pines.xhtml" id="pines.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/running-wolf.xhtml" id="running-wolf.xhtml" media-type="application/xhtml+xml"/>
@@ -255,6 +256,7 @@
 		<itemref idref="a-victim-of-higher-space.xhtml"/>
 		<itemref idref="by-water.xhtml"/>
 		<itemref idref="let-not-the-sun.xhtml"/>
+		<itemref idref="news-v-nourishment.xhtml"/>
 		<itemref idref="pines.xhtml"/>
 		<itemref idref="the-damned.xhtml"/>
 		<itemref idref="the-impulse.xhtml"/>
