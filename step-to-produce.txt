@@ -122,15 +122,17 @@ Quotes: ‘ — ’  “ — ”
  == the-nemesis-of-fire
  == wireless-confusion
  == the-kit-bag
+ == the-man-who-was-milligan
 
+        news-v-nourishment
+
+        the-temptation-of-the-clay
         the-listener
-
         the-lane-that-ran-east-and-west
         the-man-who-found-out
         the-regeneration-of-lord-ernie
         the-sacrifice
         the-tarn-of-sacrifiice
-        the-temptation-of-the-clay
         the-terror-of-the-twins
         the-valley-of-the-beasts
         the-glamour-of-the-snow
@@ -151,7 +153,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit wireless-confusion"
+git commit -m "Initial commit news-v-nourishment"
 
 === COMMIT 2 ===
 se clean .
