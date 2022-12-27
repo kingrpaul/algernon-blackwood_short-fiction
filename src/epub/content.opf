@@ -165,6 +165,7 @@
 		<item href="text/the-story-mr-popkiss-told.xhtml" id="the-story-mr-popkiss-told.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-story-of-karl-ott.xhtml" id="the-story-of-karl-ott.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-strange-adventures-of-a-private-secretary-in-new-york.xhtml" id="the-strange-adventures-of-a-private-secretary-in-new-york.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-temptation-of-the-clay.xhtml" id="the-temptation-of-the-clay.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-touch-of-pan.xhtml" id="the-touch-of-pan.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-tradition.xhtml" id="the-tradition.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-transfer.xhtml" id="the-transfer.xhtml" media-type="application/xhtml+xml"/>
@@ -246,6 +247,7 @@
 		<itemref idref="the-egyptian-desert-from-helouan.xhtml"/>
 		<itemref idref="the-goblins-collection.xhtml"/>
 		<itemref idref="the-man-whom-the-trees-loved.xhtml"/>
+		<itemref idref="the-temptation-of-the-clay.xhtml"/>
 		<itemref idref="the-whisperers.xhtml"/>
 		<itemref idref="wayfarers.xhtml"/>
 		<itemref idref="h-s-h.xhtml"/>
