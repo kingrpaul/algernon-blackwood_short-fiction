@@ -26,7 +26,7 @@ Quotes: ‘ — ’  “ — ”
 **** Æ
 **** none_the_less→nonetheless
 **** recheck the dashes, include stock-still
-**** worth while 
+**** worth while ; for ever  ; none the less  ; in so far
 
  == a-haunted-island
  == a-suspicious-gift
@@ -123,10 +123,9 @@ Quotes: ‘ — ’  “ — ”
  == wireless-confusion
  == the-kit-bag
  == the-man-who-was-milligan
-
-        news-v-nourishment
-
-        the-temptation-of-the-clay
+ == news-v-nourishment
+ == the-temptation-of-the-clay
+        
         the-listener
         the-lane-that-ran-east-and-west
         the-man-who-found-out
@@ -153,7 +152,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit news-v-nourishment"
+git commit -m "Initial commit the-temptation-of-the-clay"
 
 === COMMIT 2 ===
 se clean .
