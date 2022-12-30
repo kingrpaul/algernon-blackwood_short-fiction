@@ -127,6 +127,8 @@ Quotes: ‘ — ’  “ — ”
  == the-temptation-of-the-clay
  == picking-fir-cones
         
+        egyptian-sorcery
+
         the-listener
         the-lane-that-ran-east-and-west
         the-man-who-found-out
@@ -138,14 +140,13 @@ Quotes: ‘ — ’  “ — ”
         the-glamour-of-the-snow
         the-eccentricity-of-simon-parnacute
         a-descent-into-egypt
-        egyptian-sorcery
         old-clothes
         
 
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
-wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/38310/38310-h/38310-h.htm#Page_230https://www.gutenberg.org/files/38310/38310-h/38310-h.htm"
+wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/38310/38310-h/38310-h.htm#Page_151"
 file -bi src/epub/text/body.xhtml
 perl -pi -e 's|<h2|<!--se:split--><h2|g' src/epub/text/body.xhtml
 se split-file src/epub/text/body.xhtml
@@ -153,7 +154,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit picking-fir-cones"
+git commit -m "Initial commit egyptian-sorcery"
 
 === COMMIT 2 ===
 se clean .
