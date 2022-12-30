@@ -105,6 +105,7 @@
 		<item href="text/confession.xhtml" id="confession.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/down-the-danube-in-a-canadian-canoe.xhtml" id="down-the-danube-in-a-canadian-canoe.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dream-trespass.xhtml" id="dream-trespass.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/egyptian-sorcery.xhtml" id="egyptian-sorcery.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/engine.xhtml" id="engine.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/entrance-and-exit.xhtml" id="entrance-and-exit.xhtml" media-type="application/xhtml+xml"/>
@@ -286,6 +287,7 @@
 		<itemref idref="running-wolf.xhtml"/>
 		<itemref idref="the-olive.xhtml"/>
 		<itemref idref="confession.xhtml"/>
+		<itemref idref="egyptian-sorcery.xhtml"/>
 		<itemref idref="the-wolves-of-god.xhtml"/>
 		<itemref idref="vengeance-is-mine.xhtml"/>
 		<itemref idref="picking-fir-cones.xhtml"/>
