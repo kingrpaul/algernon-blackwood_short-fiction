@@ -13,9 +13,6 @@ Quotes: ‘ — ’  “ — ”
 ⸺  2em dash (partially obscured words)
 ⸻ 3em dash (completely obscured words)
 
-Retypogrify G-d and H-ll
-
-
 
 "[Editorial] Correct mismatched dashes re-crossed→recrossed, smith-an-episode-in-a-lodging-house"
 "[Editorial] Correct mismatched dashes spring-tide→springtide, the-man-whom-the-trees-loved"
@@ -137,6 +134,7 @@ Retypogrify G-d and H-ll
  == the-temptation-of-the-clay
  == picking-fir-cones
  == egyptian-sorcery
+ == special-delivery
 
         the-listener
         the-lane-that-ran-east-and-west
@@ -163,7 +161,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit egyptian-sorcery"
+git commit -m "Initial commit special-delivery"
 
 === COMMIT 2 ===
 se clean .
