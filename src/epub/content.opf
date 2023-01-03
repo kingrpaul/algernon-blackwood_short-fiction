@@ -169,6 +169,7 @@
 		<item href="text/the-story-of-karl-ott.xhtml" id="the-story-of-karl-ott.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-strange-adventures-of-a-private-secretary-in-new-york.xhtml" id="the-strange-adventures-of-a-private-secretary-in-new-york.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-strange-experience-of-the-rev-phillip-ambleside.xhtml" id="the-strange-experience-of-the-rev-phillip-ambleside.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tarn-of-sacrifiice.xhtml" id="the-tarn-of-sacrifiice.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-temptation-of-the-clay.xhtml" id="the-temptation-of-the-clay.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-touch-of-pan.xhtml" id="the-touch-of-pan.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-tradition.xhtml" id="the-tradition.xhtml" media-type="application/xhtml+xml"/>
@@ -292,6 +293,7 @@
 		<itemref idref="the-olive.xhtml"/>
 		<itemref idref="confession.xhtml"/>
 		<itemref idref="egyptian-sorcery.xhtml"/>
+		<itemref idref="the-tarn-of-sacrifiice.xhtml"/>
 		<itemref idref="the-wolves-of-god.xhtml"/>
 		<itemref idref="vengeance-is-mine.xhtml"/>
 		<itemref idref="picking-fir-cones.xhtml"/>
