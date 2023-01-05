@@ -48,4 +48,10 @@
 			<reason>dialog from the same speaker spans multiple paragraphs</reason>
 		</ignore>
 	</file>
+	<file path="the-tarn-of-sacrifice.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>manually reviewed, "Christian", intent of quote to mark out the word as a word</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>

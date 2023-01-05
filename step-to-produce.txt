@@ -135,15 +135,15 @@ Quotes: ‘ — ’  “ — ”
  == picking-fir-cones
  == egyptian-sorcery
  == special-delivery
+ == the-strange-experience-of-the-rev-phillip-ambleside
 
-        the-strange-experience-of-the-rev-phillip-ambleside
+    the-tarn-of-sacrifice
 
         the-listener
         the-lane-that-ran-east-and-west
         the-man-who-found-out
         the-regeneration-of-lord-ernie
         the-sacrifice
-        the-tarn-of-sacrifiice
         the-terror-of-the-twins
         the-valley-of-the-beasts
         the-glamour-of-the-snow
@@ -155,7 +155,7 @@ Quotes: ‘ — ’  “ — ”
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
-wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/38310/38310-h/38310-h.htm#Page_151"
+wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/38310/38310-h/38310-h.htm"
 file -bi src/epub/text/body.xhtml
 perl -pi -e 's|<h2|<!--se:split--><h2|g' src/epub/text/body.xhtml
 se split-file src/epub/text/body.xhtml
@@ -163,7 +163,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-strange-experience-of-the-rev-phillip-ambleside"
+git commit -m "Initial commit the-tarn-of-sacrifice"
 
 === COMMIT 2 ===
 se clean .
