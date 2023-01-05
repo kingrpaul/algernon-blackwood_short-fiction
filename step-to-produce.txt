@@ -136,8 +136,10 @@ Quotes: ‘ — ’  “ — ”
  == egyptian-sorcery
  == special-delivery
  == the-strange-experience-of-the-rev-phillip-ambleside
+ == the-tarn-of-sacrifice
+ == a-mysterious-house
 
-    the-tarn-of-sacrifice
+ the-lost-valley
 
         the-listener
         the-lane-that-ran-east-and-west
@@ -163,7 +165,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-tarn-of-sacrifice"
+git commit -m "Initial commit a-mysterious-house"
 
 === COMMIT 2 ===
 se clean .
