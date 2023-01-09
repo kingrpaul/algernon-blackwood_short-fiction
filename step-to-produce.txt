@@ -138,8 +138,7 @@ Quotes: ‘ — ’  “ … ”
  == the-strange-experience-of-the-rev-phillip-ambleside
  == the-tarn-of-sacrifice
  == a-mysterious-house
-
- the-lost-valley  [jura,  "RECHECK SOME, ONE ANY ONE"]
+ == the-lost-valley
 
         the-listener
         the-lane-that-ran-east-and-west
