@@ -5,7 +5,7 @@ https://archive.org/details/sim_bookman-a-review-of-books-and-life_1914-04_39_2/
 
 se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10897
 * Exclude Files: toc.*, colo*, impr*, uncopy*,*.opf,title*,*.md,*.svg,*.css,*.xml
-Quotes: ‘ — ’  “ — ”
+Quotes: ‘ — ’  “ … ”
 
 -     hyphen  (partially-obscured years where only the last number is obscured) 
 ‑     non-breaking hyphen (UNTYPOGRIFY, single letter obscured in a word)
@@ -33,7 +33,7 @@ Quotes: ‘ — ’  “ — ”
 **** Æ
 **** none_the_less→nonetheless
 **** recheck the dashes, include stock-still
-**** worth while ; for ever  ; none the less  ; in so far
+**** worth while ; for ever  ; none the less  ; in so far  ; any one
 
  == a-haunted-island
  == a-suspicious-gift
@@ -139,7 +139,7 @@ Quotes: ‘ — ’  “ — ”
  == the-tarn-of-sacrifice
  == a-mysterious-house
 
- the-lost-valley
+ the-lost-valley  [jura,  "RECHECK SOME, ONE ANY ONE"]
 
         the-listener
         the-lane-that-ran-east-and-west
@@ -165,7 +165,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit a-mysterious-house"
+git commit -m "Initial commit the-lost-valley"
 
 === COMMIT 2 ===
 se clean .
