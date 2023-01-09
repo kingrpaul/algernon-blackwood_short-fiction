@@ -44,7 +44,6 @@ footer{
 	font-variant: small-caps;
 }
 
-
 p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
@@ -69,6 +68,7 @@ p span.i5{
 	padding-left: 4em;
 	text-indent: -1em;
 }
+
 p span.i6{
 	padding-left: 4.5em;
 	text-indent: -1em;
@@ -104,10 +104,10 @@ p span.i12{
 	text-indent: -1em;
 }
 
-p.i1 {
+p.i1{
 	padding-left: 9em;
 }
 
-p.i2 {
+p.i2{
 	padding-left: 2em;
 }
