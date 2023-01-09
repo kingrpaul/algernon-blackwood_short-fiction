@@ -43,3 +43,71 @@ footer{
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
+
+
+p span.i1{
+	padding-left: 2em;
+	text-indent: -1em;
+}
+
+p span.i2{
+	padding-left: 2.15em;
+	text-indent: -1em;
+}
+
+p span.i3{
+	padding-left: 3em;
+	text-indent: -1em;
+}
+
+p span.i4{
+	padding-left: 3.5em;
+	text-indent: -1em;
+}
+
+p span.i5{
+	padding-left: 4em;
+	text-indent: -1em;
+}
+p span.i6{
+	padding-left: 4.5em;
+	text-indent: -1em;
+}
+
+p span.i7{
+	padding-left: 5em;
+	text-indent: -1em;
+}
+
+p span.i8{
+	padding-left: 5.5em;
+	text-indent: -1em;
+}
+
+p span.i9{
+	padding-left: 6em;
+	text-indent: -1em;
+}
+
+p span.i10{
+	padding-left: 6.5em;
+	text-indent: -1em;
+}
+
+p span.i11{
+	padding-left: 7em;
+	text-indent: -1em;
+}
+
+p span.i12{
+	padding-left: 7.5em;
+	text-indent: -1em;
+}
+
+p.i1 {
+	padding-left: 9em;
+}
+
+p.i2 {
+	padding-left: 2em;
+}
