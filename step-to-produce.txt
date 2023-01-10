@@ -143,7 +143,9 @@ Quotes: ‘ — ’  “ … ”
  == questions-and-answers
  == if-i-were-you
  == the-lane-that-ran-east-and-west
+ == the-soul-of-galahad
 
+        
         the-listener
         the-man-who-found-out
         the-regeneration-of-lord-ernie
@@ -167,7 +169,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-lane-that-ran-east-and-west"
+git commit -m "Initial commit the-soul-of-galahad"
 
 === COMMIT 2 ===
 se clean .
