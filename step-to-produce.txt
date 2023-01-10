@@ -142,8 +142,7 @@ Quotes: ‘ — ’  “ … ”
  == the-star
  == questions-and-answers
  == if-i-were-you
-
-        the-lane-that-ran-east-and-west
+ == the-lane-that-ran-east-and-west
 
         the-listener
         the-man-who-found-out
@@ -168,7 +167,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit if-i-were-you"
+git commit -m "Initial commit the-lane-that-ran-east-and-west"
 
 === COMMIT 2 ===
 se clean .
