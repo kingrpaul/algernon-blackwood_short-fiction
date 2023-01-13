@@ -144,9 +144,7 @@ Quotes: ‘ — ’  “ … ”
  == if-i-were-you
  == the-lane-that-ran-east-and-west
  == the-soul-of-galahad
-
-        
-        a-descent-into-egypt
+ == a-descent-into-egypt
 
         the-listener
         the-man-who-found-out
