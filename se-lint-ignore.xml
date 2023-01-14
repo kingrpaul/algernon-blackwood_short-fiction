@@ -54,4 +54,10 @@
 			<reason>manually reviewed, "Christian", intent of quote to mark out the word as a word</reason>
 		</ignore>
 	</file>
+	<file path="faith-cure-on-the-channel.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>inline signature</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
