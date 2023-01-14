@@ -31,7 +31,6 @@ Quotes: ‘ — ’  “ … ”
 **** from the-invitation, remove "<span epub:type="z3998:roman">""
 **** s’s
 **** Æ
-**** none_the_less→nonetheless
 **** recheck the dashes, include stock-still
 **** worth while ; for ever  ; none the less  ; in so far  ; any one; on to
 
@@ -145,6 +144,7 @@ Quotes: ‘ — ’  “ … ”
  == the-lane-that-ran-east-and-west
  == the-soul-of-galahad
  == a-descent-into-egypt
+ == faith-cure-on-the-channel
 
         the-listener
         the-man-who-found-out
@@ -168,7 +168,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags:<span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit a-descent-into-egypt"
+git commit -m "Initial commit faith-cure-on-the-channel"
 
 === COMMIT 2 ===
 se clean .
