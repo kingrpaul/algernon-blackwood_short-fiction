@@ -145,6 +145,9 @@ Quotes: ‘ — ’  “ … ”
  == the-soul-of-galahad
  == a-descent-into-egypt
  == faith-cure-on-the-channel
+ == in-the-jura-neuchatel
+
+    memories-of-the-black-forest
 
         the-listener
         the-man-who-found-out
@@ -168,7 +171,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags:<span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit faith-cure-on-the-channel"
+git commit -m "Initial commit memories-of-the-black-forest"
 
 === COMMIT 2 ===
 se clean .
