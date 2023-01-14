@@ -94,6 +94,7 @@
 		<item href="text/a-psychical-invasion.xhtml" id="a-psychical-invasion.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-suspicious-gift.xhtml" id="a-suspicious-gift.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-victim-of-higher-space.xhtml" id="a-victim-of-higher-space.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/about-the-moravians.xhtml" id="about-the-moravians.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/accessory-before-the-fact.xhtml" id="accessory-before-the-fact.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/an-egyptian-hornet.xhtml" id="an-egyptian-hornet.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/ancient-lights.xhtml" id="ancient-lights.xhtml" media-type="application/xhtml+xml"/>
@@ -209,6 +210,7 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="a-mysterious-house.xhtml"/>
+		<itemref idref="about-the-moravians.xhtml"/>
 		<itemref idref="memories-of-the-black-forest.xhtml"/>
 		<itemref idref="in-the-jura-neuchatel.xhtml"/>
 		<itemref idref="the-story-of-karl-ott.xhtml"/>
