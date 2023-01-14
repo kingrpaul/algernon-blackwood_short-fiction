@@ -124,6 +124,7 @@
 		<item href="text/let-not-the-sun.xhtml" id="let-not-the-sun.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/max-hensig.xhtml" id="max-hensig.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/may-day-eve.xhtml" id="may-day-eve.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/memories-of-the-black-forest.xhtml" id="memories-of-the-black-forest.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/miss-slumbubble-and-claustrophobia.xhtml" id="miss-slumbubble-and-claustrophobia.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/monsieur-joseph-of-the-ski.xhtml" id="monsieur-joseph-of-the-ski.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/my-adventure-with-a-lion.xhtml" id="my-adventure-with-a-lion.xhtml" media-type="application/xhtml+xml"/>
@@ -208,6 +209,7 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="a-mysterious-house.xhtml"/>
+		<itemref idref="memories-of-the-black-forest.xhtml"/>
 		<itemref idref="in-the-jura-neuchatel.xhtml"/>
 		<itemref idref="the-story-of-karl-ott.xhtml"/>
 		<itemref idref="a-haunted-island.xhtml"/>
