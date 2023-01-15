@@ -162,6 +162,7 @@
 		<item href="text/the-invitation.xhtml" id="the-invitation.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-kit-bag.xhtml" id="the-kit-bag.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-lane-that-ran-east-and-west.xhtml" id="the-lane-that-ran-east-and-west.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-laying-of-a-red-haired-ghost.xhtml" id="the-laying-of-a-red-haired-ghost.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-little-beggar.xhtml" id="the-little-beggar.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-lost-valley.xhtml" id="the-lost-valley.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-man-who-played-upon-the-leaf.xhtml" id="the-man-who-played-upon-the-leaf.xhtml" media-type="application/xhtml+xml"/>
@@ -246,6 +247,7 @@
 		<itemref idref="the-nemesis-of-fire.xhtml"/>
 		<itemref idref="carltons-drive.xhtml"/>
 		<itemref idref="entrance-and-exit.xhtml"/>
+		<itemref idref="the-laying-of-a-red-haired-ghost.xhtml"/>
 		<itemref idref="you-may-telephone-from-here.xhtml"/>
 		<itemref idref="the-lost-valley.xhtml"/>
 		<itemref idref="special-delivery.xhtml"/>
