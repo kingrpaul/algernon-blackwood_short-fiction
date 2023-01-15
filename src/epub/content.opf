@@ -165,6 +165,7 @@
 		<item href="text/the-laying-of-a-red-haired-ghost.xhtml" id="the-laying-of-a-red-haired-ghost.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-little-beggar.xhtml" id="the-little-beggar.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-lost-valley.xhtml" id="the-lost-valley.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-man-who-found-out.xhtml" id="the-man-who-found-out.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-man-who-played-upon-the-leaf.xhtml" id="the-man-who-played-upon-the-leaf.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-man-who-was-milligan.xhtml" id="the-man-who-was-milligan.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-man-whom-the-trees-loved.xhtml" id="the-man-whom-the-trees-loved.xhtml" media-type="application/xhtml+xml"/>
@@ -272,6 +273,7 @@
 		<itemref idref="the-attic.xhtml"/>
 		<itemref idref="the-egyptian-desert-from-helouan.xhtml"/>
 		<itemref idref="the-goblins-collection.xhtml"/>
+		<itemref idref="the-man-who-found-out.xhtml"/>
 		<itemref idref="the-man-whom-the-trees-loved.xhtml"/>
 		<itemref idref="the-temptation-of-the-clay.xhtml"/>
 		<itemref idref="the-whisperers.xhtml"/>
