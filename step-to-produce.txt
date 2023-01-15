@@ -146,11 +146,13 @@ Quotes: ‘ — ’  “ … ”
  == a-descent-into-egypt
  == faith-cure-on-the-channel
  == in-the-jura-neuchatel
+ == memories-of-the-black-forest
+ == about-the-moravians
+ == the-laying-of-a-red-haired-ghost
 
-    memories-of-the-black-forest
+        the-man-who-found-out
 
         the-listener
-        the-man-who-found-out
         the-regeneration-of-lord-ernie
         the-sacrifice
         the-terror-of-the-twins
@@ -163,7 +165,7 @@ Quotes: ‘ — ’  “ … ”
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
-wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/43816/43816-h/43816-h.htm"
+wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/38310/38310-h/38310-h.htm"
 file -bi src/epub/text/body.xhtml
 perl -pi -e 's|<h2|<!--se:split--><h2|g' src/epub/text/body.xhtml
 se split-file src/epub/text/body.xhtml
@@ -171,7 +173,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags:<span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit memories-of-the-black-forest"
+git commit -m "Initial commit the-laying-of-a-red-haired-ghost"
 
 === COMMIT 2 ===
 se clean .
