@@ -142,6 +142,7 @@
 		<item href="text/sleep-and-how-to-do-without-it.xhtml" id="sleep-and-how-to-do-without-it.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/smith-an-episode-in-a-lodging-house.xhtml" id="smith-an-episode-in-a-lodging-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/special-delivery.xhtml" id="special-delivery.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spring-in-switzerland.xhtml" id="spring-in-switzerland.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/summering-in-canadian-backwoods.xhtml" id="summering-in-canadian-backwoods.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/switzerland-in-wartime.xhtml" id="switzerland-in-wartime.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-attic.xhtml" id="the-attic.xhtml" media-type="application/xhtml+xml"/>
@@ -327,6 +328,7 @@
 		<itemref idref="the-star.xhtml"/>
 		<itemref idref="questions-and-answers.xhtml"/>
 		<itemref idref="if-i-were-you.xhtml"/>
+		<itemref idref="spring-in-switzerland.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
