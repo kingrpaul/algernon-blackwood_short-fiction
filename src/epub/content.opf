@@ -170,6 +170,7 @@
 		<item href="text/the-man-who-played-upon-the-leaf.xhtml" id="the-man-who-played-upon-the-leaf.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-man-who-was-milligan.xhtml" id="the-man-who-was-milligan.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-man-whom-the-trees-loved.xhtml" id="the-man-whom-the-trees-loved.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-memory-of-beauty.xhtml" id="the-memory-of-beauty.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-messenger.xhtml" id="the-messenger.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-nemesis-of-fire.xhtml" id="the-nemesis-of-fire.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-occupant-of-the-room.xhtml" id="the-occupant-of-the-room.xhtml" media-type="application/xhtml+xml"/>
@@ -309,6 +310,7 @@
 		<itemref idref="the-touch-of-pan.xhtml"/>
 		<itemref idref="the-tryst.xhtml"/>
 		<itemref idref="s-o-s.xhtml"/>
+		<itemref idref="the-memory-of-beauty.xhtml"/>
 		<itemref idref="the-call.xhtml"/>
 		<itemref idref="the-decoy.xhtml"/>
 		<itemref idref="wireless-confusion.xhtml"/>
