@@ -164,6 +164,7 @@
 		<item href="text/the-kit-bag.xhtml" id="the-kit-bag.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-lane-that-ran-east-and-west.xhtml" id="the-lane-that-ran-east-and-west.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-laying-of-a-red-haired-ghost.xhtml" id="the-laying-of-a-red-haired-ghost.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-listener.xhtml" id="the-listener.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-little-beggar.xhtml" id="the-little-beggar.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-lost-valley.xhtml" id="the-lost-valley.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-man-who-found-out.xhtml" id="the-man-who-found-out.xhtml" media-type="application/xhtml+xml"/>
@@ -233,6 +234,7 @@
 		<itemref idref="the-wood-of-the-dead.xhtml"/>
 		<itemref idref="the-dance-of-death.xhtml"/>
 		<itemref idref="the-insanity-of-jones.xhtml"/>
+		<itemref idref="the-listener.xhtml"/>
 		<itemref idref="the-man-who-played-upon-the-leaf.xhtml"/>
 		<itemref idref="with-intent-to-steal.xhtml"/>
 		<itemref idref="max-hensig.xhtml"/>
