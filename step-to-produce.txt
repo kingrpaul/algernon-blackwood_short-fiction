@@ -149,10 +149,11 @@ Quotes: ‘ — ’  “ … ”
  == memories-of-the-black-forest
  == about-the-moravians
  == the-laying-of-a-red-haired-ghost
+ == the-man-who-found-out
+ == spring-in-switzerland
+ == the-memory-of-beauty
+ == the-listener
 
-        the-man-who-found-out
-
-        the-listener
         the-regeneration-of-lord-ernie
         the-sacrifice
         the-terror-of-the-twins
@@ -173,7 +174,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags:<span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-laying-of-a-red-haired-ghost"
+git commit -m "Initial commit the-listener"
 
 === COMMIT 2 ===
 se clean .
