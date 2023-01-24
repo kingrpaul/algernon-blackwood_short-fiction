@@ -116,6 +116,7 @@
 		<item href="text/first-hate.xhtml" id="first-hate.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/full-circle.xhtml" id="full-circle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/h-s-h.xhtml" id="h-s-h.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/how-garnier-broke-the-log-jam.xhtml" id="how-garnier-broke-the-log-jam.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/if-i-were-you.xhtml" id="if-i-were-you.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/if-the-cap-fits.xhtml" id="if-the-cap-fits.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -226,6 +227,7 @@
 		<itemref idref="a-case-of-eavesdropping.xhtml"/>
 		<itemref idref="summering-in-canadian-backwoods.xhtml"/>
 		<itemref idref="down-the-danube-in-a-canadian-canoe.xhtml"/>
+		<itemref idref="how-garnier-broke-the-log-jam.xhtml"/>
 		<itemref idref="the-house-of-the-past.xhtml"/>
 		<itemref idref="a-suspicious-gift.xhtml"/>
 		<itemref idref="keeping-his-promise.xhtml"/>
