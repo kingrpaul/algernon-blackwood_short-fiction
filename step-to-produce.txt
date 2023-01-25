@@ -32,7 +32,8 @@ Quotes: ‘ — ’  “ … ”
 **** s’s
 **** Æ
 **** recheck the dashes, include stock-still
-**** worth while ; for ever  ; none the less  ; in so far  ; any one; on to
+**** worth while ; for ever  ; none the less  ; in so far  ; any one; on to; who ever
+**** Marquess's
 
  == a-haunted-island
  == a-suspicious-gift
@@ -154,22 +155,24 @@ Quotes: ‘ — ’  “ … ”
  == the-memory-of-beauty
  == the-listener
  == railway-traveling-in-the-caucasus
+ == lost-in-the-alps
+ == the-regeneration-of-lord-ernie
 
- lost-in-the-alps
+    how-garnier-broke-the-log-jam
 
-        the-regeneration-of-lord-ernie
-        the-sacrifice
+        old-clothes
         the-terror-of-the-twins
+        the-sacrifice
         the-valley-of-the-beasts
         the-glamour-of-the-snow
         the-eccentricity-of-simon-parnacute
-        old-clothes
+        
         
 
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
-wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/38310/38310-h/38310-h.htm"
+wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/43816/43816-h/43816-h.htm"
 file -bi src/epub/text/body.xhtml
 perl -pi -e 's|<h2|<!--se:split--><h2|g' src/epub/text/body.xhtml
 se split-file src/epub/text/body.xhtml
@@ -177,7 +180,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags:<span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit lost-in-the-alps"
+git commit -m "Initial commit how-garnier-broke-the-log-jam"
 
 === COMMIT 2 ===
 se clean .
@@ -281,5 +284,7 @@ https://kingrpaul.github.io/algernon-blackwood_short-fiction//src/epub/text/a-ps
 
  epub:type="z3998:letter"
 
+ }
 
 
+{{ext scan link|https://archive.org/details/extraday00blacrich}}
