@@ -9,7 +9,7 @@ Quotes: ‘ — ’  “ … ”
 
 -     hyphen  (partially-obscured years where only the last number is obscured) 
 ‑     non-breaking hyphen (UNTYPOGRIFY, single letter obscured in a word)
-—     em dash (parenthetical phrases, partially-obscured words, totally-obscured days of the month)
+⁠—     em dash (parenthetical phrases, partially-obscured words, totally-obscured days of the month)
 ⸺  2em dash (partially obscured words)
 ⸻ 3em dash (completely obscured words)
 
@@ -157,11 +157,11 @@ Quotes: ‘ — ’  “ … ”
  == railway-traveling-in-the-caucasus
  == lost-in-the-alps
  == the-regeneration-of-lord-ernie
+ == how-garnier-broke-the-log-jam
 
-    how-garnier-broke-the-log-jam
+        the-terror-of-the-twins
 
         old-clothes
-        the-terror-of-the-twins
         the-sacrifice
         the-valley-of-the-beasts
         the-glamour-of-the-snow
@@ -287,4 +287,13 @@ https://kingrpaul.github.io/algernon-blackwood_short-fiction//src/epub/text/a-ps
  }
 
 
-{{ext scan link|https://archive.org/details/extraday00blacrich}}
+{{ext scan link|https://babel.hathitrust.org/cgi/pt?id=uc1.c2723996&view=1up&seq=263}}
+{{smaller|A Volume of Nature Stories}}
+
+
+{{smaller|Vol.27 Annual xx/xx/1904}}
+{{ext 🖻 link|https://babel.hathitrust.org/cgi/pt?id=uc1.c2723996&view=1up&seq=263}}
+
+{{smaller|Vol.27 Annual xx/xx/1904}}
+
+[https://babel.hathitrust.org/cgi/pt?id=uc1.c2723996&view=1up&seq=263 🖻]
