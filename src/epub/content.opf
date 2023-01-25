@@ -112,6 +112,7 @@
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/engine.xhtml" id="engine.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/entrance-and-exit.xhtml" id="entrance-and-exit.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/explorers-ghost-stories.xhtml" id="explorers-ghost-stories.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/faith-cure-on-the-channel.xhtml" id="faith-cure-on-the-channel.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/first-hate.xhtml" id="first-hate.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/full-circle.xhtml" id="full-circle.xhtml" media-type="application/xhtml+xml"/>
@@ -335,6 +336,7 @@
 		<itemref idref="vengeance-is-mine.xhtml"/>
 		<itemref idref="lost-in-the-alps.xhtml"/>
 		<itemref idref="picking-fir-cones.xhtml"/>
+		<itemref idref="explorers-ghost-stories.xhtml"/>
 		<itemref idref="full-circle.xhtml"/>
 		<itemref idref="engine.xhtml"/>
 		<itemref idref="the-star.xhtml"/>
