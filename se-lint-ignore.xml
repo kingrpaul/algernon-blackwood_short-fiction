@@ -60,7 +60,6 @@
 			<reason>inline signature</reason>
 		</ignore>
 	</file>
-
 	<file path="explorers-ghost-stories.xhtml">
 		<ignore>
 			<code>t-064</code>
