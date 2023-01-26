@@ -60,4 +60,11 @@
 			<reason>inline signature</reason>
 		</ignore>
 	</file>
+
+	<file path="explorers-ghost-stories.xhtml">
+		<ignore>
+			<code>t-064</code>
+			<reason>manually reviewed, name not comprised of words, name origin unclear</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>

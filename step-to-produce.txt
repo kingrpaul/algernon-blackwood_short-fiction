@@ -5,7 +5,7 @@ https://archive.org/details/sim_bookman-a-review-of-books-and-life_1914-04_39_2/
 
 se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10897
 * Exclude Files: toc.*, colo*, impr*, uncopy*,*.opf,title*,*.md,*.svg,*.css,*.xml
-Quotes: ‘ — ’  “ … ”
+Quotes: ‘ … ’  “ — ”
 
 -     hyphen  (partially-obscured years where only the last number is obscured) 
 ‑     non-breaking hyphen (UNTYPOGRIFY, single letter obscured in a word)
@@ -33,7 +33,6 @@ Quotes: ‘ — ’  “ … ”
 **** Æ
 **** recheck the dashes, include stock-still
 **** worth while ; for ever  ; none the less  ; in so far  ; any one; on to; who ever
-**** Marquess's
 
  == a-haunted-island
  == a-suspicious-gift
@@ -158,6 +157,9 @@ Quotes: ‘ — ’  “ … ”
  == lost-in-the-alps
  == the-regeneration-of-lord-ernie
  == how-garnier-broke-the-log-jam
+ == explorers-ghost-stories
+
+        the-trod
 
         the-terror-of-the-twins
 
@@ -167,7 +169,7 @@ Quotes: ‘ — ’  “ … ”
         the-glamour-of-the-snow
         the-eccentricity-of-simon-parnacute
         
-        
+*** https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes       ****
 
 ────────────────────────────────────── 
 
@@ -180,7 +182,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags:<span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit how-garnier-broke-the-log-jam"
+git commit -m "Initial the-trod"
 
 === COMMIT 2 ===
 se clean .
