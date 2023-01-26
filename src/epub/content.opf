@@ -196,6 +196,7 @@
 		<item href="text/the-touch-of-pan.xhtml" id="the-touch-of-pan.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-tradition.xhtml" id="the-tradition.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-transfer.xhtml" id="the-transfer.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-trod.xhtml" id="the-trod.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-tryst.xhtml" id="the-tryst.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-wendigo.xhtml" id="the-wendigo.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-whisperers.xhtml" id="the-whisperers.xhtml" media-type="application/xhtml+xml"/>
@@ -308,6 +309,7 @@
 		<itemref idref="the-man-who-was-milligan.xhtml"/>
 		<itemref idref="the-regeneration-of-lord-ernie.xhtml"/>
 		<itemref idref="the-wings-of-horus.xhtml"/>
+		<itemref idref="the-trod.xhtml"/>
 		<itemref idref="violence.xhtml"/>
 		<itemref idref="cains-atonement.xhtml"/>
 		<itemref idref="the-other-wing.xhtml"/>
