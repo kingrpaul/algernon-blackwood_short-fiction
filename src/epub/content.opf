@@ -133,6 +133,7 @@
 		<item href="text/monsieur-joseph-of-the-ski.xhtml" id="monsieur-joseph-of-the-ski.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/my-adventure-with-a-lion.xhtml" id="my-adventure-with-a-lion.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/news-v-nourishment.xhtml" id="news-v-nourishment.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/old-clothes.xhtml" id="old-clothes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-wings.xhtml" id="on-wings.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/picking-fir-cones.xhtml" id="picking-fir-cones.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/pines.xhtml" id="pines.xhtml" media-type="application/xhtml+xml"/>
@@ -266,6 +267,7 @@
 		<itemref idref="railway-travelling-in-the-caucasus.xhtml"/>
 		<itemref idref="special-delivery.xhtml"/>
 		<itemref idref="if-the-cap-fits.xhtml"/>
+		<itemref idref="old-clothes.xhtml"/>
 		<itemref idref="the-sea-fit.xhtml"/>
 		<itemref idref="the-strange-experience-of-the-rev-phillip-ambleside.xhtml"/>
 		<itemref idref="the-wendigo.xhtml"/>
