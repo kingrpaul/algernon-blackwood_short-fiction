@@ -32,7 +32,7 @@ Quotes: ‘ … ’  “ — ”
 **** s’s
 **** Æ
 **** recheck the dashes, include stock-still
-**** worth while ; for ever  ; none the less  ; in so far  ; any one; on to; who ever
+**** worth while ; for ever  ; none the less  ; in so far  ; any one; on to; who ever ; country side
 
  == a-haunted-island
  == a-suspicious-gift
@@ -168,8 +168,6 @@ Quotes: ‘ … ’  “ — ”
         the-valley-of-the-beasts
         the-glamour-of-the-snow
         the-eccentricity-of-simon-parnacute
-        
-*** https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes       ****
 
 ────────────────────────────────────── 
 
