@@ -158,10 +158,8 @@ Quotes: ‘ … ’  “ — ”
  == the-regeneration-of-lord-ernie
  == how-garnier-broke-the-log-jam
  == explorers-ghost-stories
-
-        the-trod
-
-        the-terror-of-the-twins
+ == the-trod
+ == the-terror-of-the-twins
 
         old-clothes
         the-sacrifice
@@ -180,7 +178,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags:<span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial the-trod"
+git commit -m "Initial commit the-terror-of-the-twins"
 
 === COMMIT 2 ===
 se clean .
