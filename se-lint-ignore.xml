@@ -66,4 +66,10 @@
 			<reason>manually reviewed, name not comprised of words, name origin unclear</reason>
 		</ignore>
 	</file>
+	<file path="old-clothes.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>“Philip” not intended to represent dialog</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
