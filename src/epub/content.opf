@@ -135,6 +135,7 @@
 		<item href="text/news-v-nourishment.xhtml" id="news-v-nourishment.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/old-clothes.xhtml" id="old-clothes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-wings.xhtml" id="on-wings.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/onanonanon.xhtml" id="onanonanon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/picking-fir-cones.xhtml" id="picking-fir-cones.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/pines.xhtml" id="pines.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/questions-and-answers.xhtml" id="questions-and-answers.xhtml" media-type="application/xhtml+xml"/>
@@ -336,6 +337,7 @@
 		<itemref idref="the-olive.xhtml"/>
 		<itemref idref="confession.xhtml"/>
 		<itemref idref="egyptian-sorcery.xhtml"/>
+		<itemref idref="onanonanon.xhtml"/>
 		<itemref idref="the-lane-that-ran-east-and-west.xhtml"/>
 		<itemref idref="the-tarn-of-sacrifice.xhtml"/>
 		<itemref idref="the-wolves-of-god.xhtml"/>
