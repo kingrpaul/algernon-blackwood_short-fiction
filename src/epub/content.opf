@@ -151,6 +151,7 @@
 		<item href="text/spring-in-switzerland.xhtml" id="spring-in-switzerland.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/summering-in-canadian-backwoods.xhtml" id="summering-in-canadian-backwoods.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/switzerland-in-wartime.xhtml" id="switzerland-in-wartime.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/testing-his-courage.xhtml" id="testing-his-courage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-attic.xhtml" id="the-attic.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-call.xhtml" id="the-call.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-camp-of-the-dog.xhtml" id="the-camp-of-the-dog.xhtml" media-type="application/xhtml+xml"/>
@@ -235,6 +236,7 @@
 		<itemref idref="down-the-danube-in-a-canadian-canoe.xhtml"/>
 		<itemref idref="how-garnier-broke-the-log-jam.xhtml"/>
 		<itemref idref="the-house-of-the-past.xhtml"/>
+		<itemref idref="testing-his-courage.xhtml"/>
 		<itemref idref="a-suspicious-gift.xhtml"/>
 		<itemref idref="keeping-his-promise.xhtml"/>
 		<itemref idref="my-adventure-with-a-lion.xhtml"/>
