@@ -160,8 +160,12 @@ Quotes: ‘ … ’  “ — ”
  == explorers-ghost-stories
  == the-trod
  == the-terror-of-the-twins
+ == old-clothes
+ == onanonanon
+ == the-price-of-wigginss-orgy
 
-        old-clothes
+    testing-his-courage
+
         the-sacrifice
         the-valley-of-the-beasts
         the-glamour-of-the-snow
@@ -178,7 +182,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags:<span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-terror-of-the-twins"
+git commit -m "Initial commit the-price-of-wigginss-orgy"
 
 === COMMIT 2 ===
 se clean .
