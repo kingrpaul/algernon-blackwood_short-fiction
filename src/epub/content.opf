@@ -163,6 +163,7 @@
 		<item href="text/the-egyptian-desert-from-helouan.xhtml" id="the-egyptian-desert-from-helouan.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-empty-house.xhtml" id="the-empty-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-empty-sleeve.xhtml" id="the-empty-sleeve.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-glamour-of-the-snow.xhtml" id="the-glamour-of-the-snow.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-goblins-collection.xhtml" id="the-goblins-collection.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-golden-fly.xhtml" id="the-golden-fly.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-house-of-the-past.xhtml" id="the-house-of-the-past.xhtml" media-type="application/xhtml+xml"/>
@@ -294,6 +295,7 @@
 		<itemref idref="sand.xhtml"/>
 		<itemref idref="the-attic.xhtml"/>
 		<itemref idref="the-egyptian-desert-from-helouan.xhtml"/>
+		<itemref idref="the-glamour-of-the-snow.xhtml"/>
 		<itemref idref="the-goblins-collection.xhtml"/>
 		<itemref idref="the-man-who-found-out.xhtml"/>
 		<itemref idref="the-man-whom-the-trees-loved.xhtml"/>
