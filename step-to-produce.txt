@@ -169,8 +169,11 @@ Quotes: ‘ … ’  “ — ”
  == christmas-in-england
  == the-glamour-of-the-snow
  == jack-of-the-inkpot
+ == the-south-wind
 
-        the-south-wind
+
+
+        "He comforteth the earth with the south wind."
 
         the-sacrifice
         the-valley-of-the-beasts
