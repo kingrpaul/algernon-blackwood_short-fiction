@@ -26,6 +26,8 @@ Quotes: ‘ … ’  “ — ”
 "[Editorial] modernize for_ever→forever"
 "[Editorial] modernize laisser_aller→laissez-aller"
 "[Editorial] modernize for_ever→forever"
+"[Editorial] modernize ski-d→skied"
+
 
 
 **** from the-invitation, remove "<span epub:type="z3998:roman">""
@@ -165,8 +167,8 @@ Quotes: ‘ … ’  “ — ”
  == the-price-of-wigginss-orgy
  == testing-his-courage
  == christmas-in-england
+ == the-glamour-of-the-snow
 
-        the-glamour-of-the-snow
 
         the-sacrifice
         the-valley-of-the-beasts
