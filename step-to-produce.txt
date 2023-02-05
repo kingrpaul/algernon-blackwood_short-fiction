@@ -168,7 +168,9 @@ Quotes: ‘ … ’  “ — ”
  == testing-his-courage
  == christmas-in-england
  == the-glamour-of-the-snow
+ == jack-of-the-inkpot
 
+        the-south-wind
 
         the-sacrifice
         the-valley-of-the-beasts
@@ -187,7 +189,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-glamour-of-the-snow"
+git commit -m "Initial commit jack-of-the-inkpot"
 
 === COMMIT 2 ===
 se clean .
