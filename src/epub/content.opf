@@ -193,6 +193,7 @@
 		<item href="text/the-regeneration-of-lord-ernie.xhtml" id="the-regeneration-of-lord-ernie.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-sea-fit.xhtml" id="the-sea-fit.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-soul-of-galahad.xhtml" id="the-soul-of-galahad.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-south-wind.xhtml" id="the-south-wind.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-star.xhtml" id="the-star.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-story-mr-popkiss-told.xhtml" id="the-story-mr-popkiss-told.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-story-of-karl-ott.xhtml" id="the-story-of-karl-ott.xhtml" media-type="application/xhtml+xml"/>
@@ -273,6 +274,7 @@
 		<itemref idref="you-may-telephone-from-here.xhtml"/>
 		<itemref idref="the-lost-valley.xhtml"/>
 		<itemref idref="the-price-of-wigginss-orgy.xhtml"/>
+		<itemref idref="the-south-wind.xhtml"/>
 		<itemref idref="railway-travelling-in-the-caucasus.xhtml"/>
 		<itemref idref="special-delivery.xhtml"/>
 		<itemref idref="if-the-cap-fits.xhtml"/>
