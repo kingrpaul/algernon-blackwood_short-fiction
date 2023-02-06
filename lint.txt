@@ -41,8 +41,6 @@
 ├───────┼───────────────┼───────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────┤
 │       │               │                         → │ PRODUCER_URL                                                                                    │
 ├───────┼───────────────┼───────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ m-042 │ Error         │ content.opf               │ <manifest> element does not match expected structure.                                           │
-├───────┼───────────────┼───────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────┤
 │ m-033 │ Manual Review │ endnotes.xhtml            │ endnotes semantic inflection found, but no MARC relator ann (Annotator).                        │
 ├───────┼───────────────┼───────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────┤
 │ t-016 │ Error         │ explorers-ghost-stories.… │ Initials in <abbr epub:type="z3998:*-name"> not separated by spaces.                            │
@@ -96,6 +94,14 @@
 │       │               │                         → │ smcap                                                                                           │
 ├───────┼───────────────┼───────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────┤
 │ f-001 │ Error         │ step-to-produce.txt       │ Illegal file or directory.                                                                      │
+├───────┼───────────────┼───────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ t-042 │ Manual Review │ strange-disappearance-of… │ Possible typo: consecutive periods (..).                                                        │
+├───────┼───────────────┼───────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────┤
+│       │               │                         → │ <p>“Of course I’m going mad⁠—that’s what it all means,” he exclaimed. “I’m no longer of any      │
+│       │               │                           │ account in the world. I could never go into my Club, for instance, <em>like this</em>!”⁠—and he  │
+│       │               │                           │ surveyed the small outline that made a little lump beneath the surface of the bedclothes⁠—“or    │
+│       │               │                           │ read the lessons having to stand upon a chair to reach the lectern.” And tears of bleeding      │
+│       │               │                           │ vanity and futile wrath mingled upon his pillow..⁠ ⁠… The humiliation was agonising.</p>          │
 ├───────┼───────────────┼───────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────┤
 │ t-016 │ Error         │ the-trod.xhtml            │ Initials in <abbr epub:type="z3998:*-name"> not separated by spaces.                            │
 ├───────┼───────────────┼───────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────┤

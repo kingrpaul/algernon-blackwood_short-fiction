@@ -171,9 +171,9 @@ Quotes: ‘ … ’  “ — ”
  == jack-of-the-inkpot
  == the-south-wind
  == strange-disappearance-of-a-baronet
+ == the-second-generation
 
-
-        the-second-generation      
+        the-destruction-of-smith
 
         the-sacrifice
         the-valley-of-the-beasts
@@ -192,7 +192,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-strange-disappearance-of-a-baronet"
+git commit -m "Initial the-second-generation"
 
 === COMMIT 2 ===
 se clean .
