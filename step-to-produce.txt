@@ -170,10 +170,10 @@ Quotes: ‘ … ’  “ — ”
  == the-glamour-of-the-snow
  == jack-of-the-inkpot
  == the-south-wind
+ == strange-disappearance-of-a-baronet
 
 
-
-        "He comforteth the earth with the south wind."
+        the-second-generation      
 
         the-sacrifice
         the-valley-of-the-beasts
@@ -192,7 +192,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit jack-of-the-inkpot"
+git commit -m "Initial commit the-strange-disappearance-of-a-baronet"
 
 === COMMIT 2 ===
 se clean .
@@ -285,7 +285,6 @@ to reinitialize
 ---------------
 rm ****** -rf .git 
 git init
-
 
 
 https://standardebooks.org/manual/1.7.0/single-page
