@@ -151,6 +151,7 @@
 		<item href="text/smith-an-episode-in-a-lodging-house.xhtml" id="smith-an-episode-in-a-lodging-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/special-delivery.xhtml" id="special-delivery.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/spring-in-switzerland.xhtml" id="spring-in-switzerland.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/strange-disappearance-of-a-baronet.xhtml" id="strange-disappearance-of-a-baronet.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/summering-in-canadian-backwoods.xhtml" id="summering-in-canadian-backwoods.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/switzerland-in-wartime.xhtml" id="switzerland-in-wartime.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/testing-his-courage.xhtml" id="testing-his-courage.xhtml" media-type="application/xhtml+xml"/>
@@ -192,13 +193,13 @@
 		<item href="text/the-price-of-wigginss-orgy.xhtml" id="the-price-of-wigginss-orgy.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-regeneration-of-lord-ernie.xhtml" id="the-regeneration-of-lord-ernie.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-sea-fit.xhtml" id="the-sea-fit.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-second-generation.xhtml" id="the-second-generation.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-soul-of-galahad.xhtml" id="the-soul-of-galahad.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-south-wind.xhtml" id="the-south-wind.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-star.xhtml" id="the-star.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-story-mr-popkiss-told.xhtml" id="the-story-mr-popkiss-told.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-story-of-karl-ott.xhtml" id="the-story-of-karl-ott.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-strange-adventures-of-a-private-secretary-in-new-york.xhtml" id="the-strange-adventures-of-a-private-secretary-in-new-york.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/strange-disappearance-of-a-baronet.xhtml" id="strange-disappearance-of-a-baronet.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-strange-experience-of-the-rev-phillip-ambleside.xhtml" id="the-strange-experience-of-the-rev-phillip-ambleside.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-tarn-of-sacrifice.xhtml" id="the-tarn-of-sacrifice.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-temptation-of-the-clay.xhtml" id="the-temptation-of-the-clay.xhtml" media-type="application/xhtml+xml"/>
@@ -304,6 +305,7 @@
 		<itemref idref="the-goblins-collection.xhtml"/>
 		<itemref idref="the-man-who-found-out.xhtml"/>
 		<itemref idref="the-man-whom-the-trees-loved.xhtml"/>
+		<itemref idref="the-second-generation.xhtml"/>
 		<itemref idref="the-temptation-of-the-clay.xhtml"/>
 		<itemref idref="the-terror-of-the-twins.xhtml"/>
 		<itemref idref="the-whisperers.xhtml"/>
