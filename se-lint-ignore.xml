@@ -72,4 +72,10 @@
 			<reason>“Philip” not intended to represent dialog</reason>
 		</ignore>
 	</file>
+	<file path="the-barmecide-feast.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>continued dialog begins with "and"</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
