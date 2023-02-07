@@ -172,8 +172,8 @@ Quotes: ‘ … ’  “ — ”
  == the-south-wind
  == strange-disappearance-of-a-baronet
  == the-second-generation
-
-        the-destruction-of-smith
+ == the-destruction-of-smith
+ == her-birthday
 
         the-sacrifice
         the-valley-of-the-beasts
@@ -192,7 +192,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial the-second-generation"
+git commit -m "Initial commit her-birthday"
 
 === COMMIT 2 ===
 se clean .
