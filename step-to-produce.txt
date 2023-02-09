@@ -27,7 +27,7 @@ Quotes: ‘ … ’  “ — ”
 "[Editorial] modernize laisser_aller→laissez-aller"
 "[Editorial] modernize for_ever→forever"
 "[Editorial] modernize ski-d→skied"
-
+"The_Barmecide_Feast→A_Barmecide_Feast"
 
 
 **** from the-invitation, remove "<span epub:type="z3998:roman">""
@@ -174,17 +174,20 @@ Quotes: ‘ … ’  “ — ”
  == the-second-generation
  == the-destruction-of-smith
  == her-birthday
+ == a-barmecide-feast
+ == the-valley-of-the-beasts
 
         the-sacrifice
-        the-valley-of-the-beasts
         the-eccentricity-of-simon-parnacute
 
         Karma (1918) A Play
 
+
+
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
-wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/16726/16726-h/16726-h.htm"
+wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/38310/38310-h/38310-h.htm"
 file -bi src/epub/text/body.xhtml
 perl -pi -e 's|<h2|<!--se:split--><h2|g' src/epub/text/body.xhtml
 se split-file src/epub/text/body.xhtml
@@ -192,7 +195,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit her-birthday"
+git commit -m "Initial commit the-valley-of-the-beasts"
 
 === COMMIT 2 ===
 se clean .
