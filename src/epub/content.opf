@@ -95,6 +95,7 @@
 		<item href="text/a-psychical-invasion.xhtml" id="a-psychical-invasion.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-suspicious-gift.xhtml" id="a-suspicious-gift.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-victim-of-higher-space.xhtml" id="a-victim-of-higher-space.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/about-moose-and-moose-hunting.xhtml" id="about-moose-and-moose-hunting.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/about-the-moravians.xhtml" id="about-the-moravians.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/accessory-before-the-fact.xhtml" id="accessory-before-the-fact.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/an-egyptian-hornet.xhtml" id="an-egyptian-hornet.xhtml" media-type="application/xhtml+xml"/>
@@ -248,6 +249,7 @@
 		<itemref idref="how-garnier-broke-the-log-jam.xhtml"/>
 		<itemref idref="the-house-of-the-past.xhtml"/>
 		<itemref idref="testing-his-courage.xhtml"/>
+		<itemref idref="about-moose-and-moose-hunting.xhtml"/>
 		<itemref idref="a-suspicious-gift.xhtml"/>
 		<itemref idref="keeping-his-promise.xhtml"/>
 		<itemref idref="my-adventure-with-a-lion.xhtml"/>
