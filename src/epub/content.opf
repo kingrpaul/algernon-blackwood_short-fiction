@@ -172,6 +172,7 @@
 		<item href="text/the-glamour-of-the-snow.xhtml" id="the-glamour-of-the-snow.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-goblins-collection.xhtml" id="the-goblins-collection.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-golden-fly.xhtml" id="the-golden-fly.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-heath-fire.xhtml" id="the-heath-fire.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-house-of-the-past.xhtml" id="the-house-of-the-past.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-impulse.xhtml" id="the-impulse.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-insanity-of-jones.xhtml" id="the-insanity-of-jones.xhtml" media-type="application/xhtml+xml"/>
@@ -310,6 +311,7 @@
 		<itemref idref="the-egyptian-desert-from-helouan.xhtml"/>
 		<itemref idref="the-glamour-of-the-snow.xhtml"/>
 		<itemref idref="the-goblins-collection.xhtml"/>
+		<itemref idref="the-heath-fire.xhtml"/>
 		<itemref idref="the-man-who-found-out.xhtml"/>
 		<itemref idref="the-man-whom-the-trees-loved.xhtml"/>
 		<itemref idref="the-second-generation.xhtml"/>
