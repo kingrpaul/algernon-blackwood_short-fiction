@@ -176,6 +176,9 @@ Quotes: ‘ … ’  “ — ”
  == her-birthday
  == a-barmecide-feast
  == the-valley-of-the-beasts
+ == about-moose-and-moose-hunting
+ == the-heath-fire
+
 
         the-sacrifice
         the-eccentricity-of-simon-parnacute
@@ -195,7 +198,7 @@ se split-file src/epub/text/body.xhtml
 * Remove <a> tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-valley-of-the-beasts"
+git commit -m "Initial commit the-heath-fire"
 
 === COMMIT 2 ===
 se clean .
