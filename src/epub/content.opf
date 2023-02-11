@@ -197,6 +197,7 @@
 		<item href="text/the-prayer.xhtml" id="the-prayer.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-price-of-wigginss-orgy.xhtml" id="the-price-of-wigginss-orgy.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-regeneration-of-lord-ernie.xhtml" id="the-regeneration-of-lord-ernie.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sacrifice.xhtml" id="the-sacrifice.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-sea-fit.xhtml" id="the-sea-fit.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-second-generation.xhtml" id="the-second-generation.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-soul-of-galahad.xhtml" id="the-soul-of-galahad.xhtml" media-type="application/xhtml+xml"/>
@@ -339,6 +340,7 @@
 		<itemref idref="the-little-beggar.xhtml"/>
 		<itemref idref="the-man-who-was-milligan.xhtml"/>
 		<itemref idref="the-regeneration-of-lord-ernie.xhtml"/>
+		<itemref idref="the-sacrifice.xhtml"/>
 		<itemref idref="the-wings-of-horus.xhtml"/>
 		<itemref idref="the-trod.xhtml"/>
 		<itemref idref="violence.xhtml"/>
