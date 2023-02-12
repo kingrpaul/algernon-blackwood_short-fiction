@@ -178,9 +178,12 @@ Quotes: ‘ … ’  “ — ”
  == the-valley-of-the-beasts
  == about-moose-and-moose-hunting
  == the-heath-fire
+ == the-sacrifice
+
+       "CORRECT poke1"
+       the-kiss-of-a-psychologist
 
 
-        the-sacrifice
         the-eccentricity-of-simon-parnacute
 
         Karma (1918) A Play
@@ -190,15 +193,15 @@ Quotes: ‘ … ’  “ — ”
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
-wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/38310/38310-h/38310-h.htm"
+wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/43816/43816-h/43816-h.htm"
 file -bi src/epub/text/body.xhtml
 perl -pi -e 's|<h2|<!--se:split--><h2|g' src/epub/text/body.xhtml
 se split-file src/epub/text/body.xhtml
 * Rename file
-* Remove <a> tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
+* Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-heath-fire"
+git commit -m "Initial the-kiss-of-a-psychologist"
 
 === COMMIT 2 ===
 se clean .
