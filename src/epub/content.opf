@@ -177,6 +177,7 @@
 		<item href="text/the-impulse.xhtml" id="the-impulse.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-insanity-of-jones.xhtml" id="the-insanity-of-jones.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-invitation.xhtml" id="the-invitation.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-kiss-of-a-psychologist.xhtml" id="the-kiss-of-a-psychologist.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-kit-bag.xhtml" id="the-kit-bag.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-lane-that-ran-east-and-west.xhtml" id="the-lane-that-ran-east-and-west.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-laying-of-a-red-haired-ghost.xhtml" id="the-laying-of-a-red-haired-ghost.xhtml" media-type="application/xhtml+xml"/>
@@ -322,6 +323,7 @@
 		<itemref idref="wayfarers.xhtml"/>
 		<itemref idref="a-barmecide-feast.xhtml"/>
 		<itemref idref="h-s-h.xhtml"/>
+		<itemref idref="the-kiss-of-a-psychologist.xhtml"/>
 		<itemref idref="the-tradition.xhtml"/>
 		<itemref idref="transition.xhtml"/>
 		<itemref idref="a-bit-of-wood.xhtml"/>
