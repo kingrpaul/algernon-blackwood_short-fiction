@@ -78,4 +78,10 @@
 			<reason>continued dialog begins with "and"</reason>
 		</ignore>
 	</file>
+	<file path="the-kiss-of-a-psychologist.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>continued dialog begins with "or"</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
