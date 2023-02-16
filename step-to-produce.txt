@@ -179,14 +179,23 @@ Quotes: ‘ … ’  “ — ”
  == about-moose-and-moose-hunting
  == the-heath-fire
  == the-sacrifice
+ == the-kiss-of-a-psychologist
+ == the-eccentricity-of-simon-parnacute
 
-       "CORRECT poke1"
-       the-kiss-of-a-psychologist
 
+https://www.ebooks-library.com/author.cfm/AuthorID/614
+https://infogalactic.com/info/Algernon_Blackwood
 
-        the-eccentricity-of-simon-parnacute
 
         Karma (1918) A Play
+
+OLD CLOTHES:
+    It was after ten o’clock, and I was still sitting in the big hail before the fire of logs,
+=> Probably "hall" rather than "hail".
+    and she point ed to the side of the room on my right.
+=> "pointed" rather than "point ed"
+    And when we got back her mother had again moved her household gods to the original family mansion
+=> Probably "goods" rather than "gods"
 
 
 
@@ -201,7 +210,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial the-kiss-of-a-psychologist"
+git commit -m "Initial commit the-eccentricity-of-simon-parnacute"
 
 === COMMIT 2 ===
 se clean .
