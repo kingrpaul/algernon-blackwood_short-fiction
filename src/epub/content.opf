@@ -199,6 +199,7 @@
 		<item href="text/the-prayer.xhtml" id="the-prayer.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-price-of-wigginss-orgy.xhtml" id="the-price-of-wigginss-orgy.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-regeneration-of-lord-ernie.xhtml" id="the-regeneration-of-lord-ernie.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-return.xhtml" id="the-return.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-sacrifice.xhtml" id="the-sacrifice.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-sea-fit.xhtml" id="the-sea-fit.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-second-generation.xhtml" id="the-second-generation.xhtml" media-type="application/xhtml+xml"/>
@@ -318,6 +319,7 @@
 		<itemref idref="the-heath-fire.xhtml"/>
 		<itemref idref="the-man-who-found-out.xhtml"/>
 		<itemref idref="the-man-whom-the-trees-loved.xhtml"/>
+		<itemref idref="the-return.xhtml"/>
 		<itemref idref="the-second-generation.xhtml"/>
 		<itemref idref="the-temptation-of-the-clay.xhtml"/>
 		<itemref idref="the-terror-of-the-twins.xhtml"/>
