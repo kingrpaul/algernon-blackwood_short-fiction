@@ -35,6 +35,8 @@ Quotes: ‘ … ’  “ — ”
 **** Æ
 **** recheck the dashes, include stock-still
 **** worth while ; for ever  ; none the less  ; in so far  ; any one; on to; who ever ; country side
+**** everywhere: <i epub:type="se:name.publication.newspaper"> applies to 'the Times'
+
 
  == a-haunted-island
  == a-suspicious-gift
@@ -181,7 +183,13 @@ Quotes: ‘ … ’  “ — ”
  == the-sacrifice
  == the-kiss-of-a-psychologist
  == the-eccentricity-of-simon-parnacute
+ == the-return
 
+    the-garden-of-survival
+
+    imagination
+    the-soldiers-visitor
+    the-secret
 
 https://www.ebooks-library.com/author.cfm/AuthorID/614
 https://infogalactic.com/info/Algernon_Blackwood
@@ -210,7 +218,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-eccentricity-of-simon-parnacute"
+git commit -m "Initial commit the-garden-of-survival"
 
 === COMMIT 2 ===
 se clean .
