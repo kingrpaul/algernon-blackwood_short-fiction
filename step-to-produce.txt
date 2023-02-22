@@ -184,10 +184,11 @@ Quotes: ‘ … ’  “ — ”
  == the-kiss-of-a-psychologist
  == the-eccentricity-of-simon-parnacute
  == the-return
-
-    the-garden-of-survival
+ == the-garden-of-survival
 
     imagination
+
+    
     the-soldiers-visitor
     the-secret
 
