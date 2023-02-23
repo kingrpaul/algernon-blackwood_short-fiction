@@ -185,12 +185,13 @@ Quotes: ‘ … ’  “ — ”
  == the-eccentricity-of-simon-parnacute
  == the-return
  == the-garden-of-survival
+ == imagination
 
-    imagination
+    the-secret
 
     
     the-soldiers-visitor
-    the-secret
+    
 
 https://www.ebooks-library.com/author.cfm/AuthorID/614
 https://infogalactic.com/info/Algernon_Blackwood
@@ -219,7 +220,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-garden-of-survival"
+git commit -m "Initial commit the-secret"
 
 === COMMIT 2 ===
 se clean .
