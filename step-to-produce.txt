@@ -12,6 +12,12 @@ Quotes: ‘ … ’  “ — ”
 ⁠—     em dash (parenthetical phrases, partially-obscured words, totally-obscured days of the month)
 ⸺  2em dash (partially obscured words)
 ⸻ 3em dash (completely obscured words)
+Punctuation: [!?,;:\.]
+Quoted Statement: “[^”]+”
+Unclosed Quote: “[^”]+</p>
+Unopened Quote: <p>[^“]+”
+Unopened Quote: ”[^“]+”
+Gapped Close Quote: ( ”).+
 
 
 "[Editorial] Correct mismatched dashes re-crossed→recrossed, smith-an-episode-in-a-lodging-house"
@@ -186,8 +192,7 @@ Quotes: ‘ … ’  “ — ”
  == the-return
  == the-garden-of-survival
  == imagination
-
-    the-secret
+ == the-secret
 
     
     the-soldiers-visitor
@@ -207,7 +212,7 @@ OLD CLOTHES:
     And when we got back her mother had again moved her household gods to the original family mansion
 => Probably "goods" rather than "gods"
 
-
+FIX:  Under <span epub:type="z3998:roman">X</span>⁠—Hotel,
 
 ────────────────────────────────────── 
 
