@@ -171,6 +171,7 @@
 		<item href="text/the-egyptian-desert-from-helouan.xhtml" id="the-egyptian-desert-from-helouan.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-empty-house.xhtml" id="the-empty-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-empty-sleeve.xhtml" id="the-empty-sleeve.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-exiled-gods.xhtml" id="the-exiled-gods.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-garden-of-survival.xhtml" id="the-garden-of-survival.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-glamour-of-the-snow.xhtml" id="the-glamour-of-the-snow.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-goblins-collection.xhtml" id="the-goblins-collection.xhtml" media-type="application/xhtml+xml"/>
@@ -363,6 +364,7 @@
 		<itemref idref="the-other-wing.xhtml"/>
 		<itemref idref="the-soul-of-galahad.xhtml"/>
 		<itemref idref="sleep-and-how-to-do-without-it.xhtml"/>
+		<itemref idref="the-exiled-gods.xhtml"/>
 		<itemref idref="initiation.xhtml"/>
 		<itemref idref="the-occupant-of-the-room.xhtml"/>
 		<itemref idref="switzerland-in-wartime.xhtml"/>
