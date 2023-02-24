@@ -12,13 +12,12 @@ Quotes: ‘ … ’  “ — ”
 ⁠—     em dash (parenthetical phrases, partially-obscured words, totally-obscured days of the month)
 ⸺  2em dash (partially obscured words)
 ⸻ 3em dash (completely obscured words)
-Punctuation: [!?,;:\.]
-Quoted Statement: “[^”]+”
+Space Before Punctuation:  [!?,;:\.].+
 Unclosed Quote: “[^”]+</p>
 Unopened Quote: <p>[^“]+”
 Unopened Quote: ”[^“]+”
 Gapped Close Quote: ( ”).+
-
+Quoted Statement: “[^”]+”
 
 "[Editorial] Correct mismatched dashes re-crossed→recrossed, smith-an-episode-in-a-lodging-house"
 "[Editorial] Correct mismatched dashes spring-tide→springtide, the-man-whom-the-trees-loved"
@@ -193,9 +192,9 @@ Gapped Close Quote: ( ”).+
  == the-garden-of-survival
  == imagination
  == the-secret
+ == the-soldiers-visitor
 
-    
-    the-soldiers-visitor
+    the-exiled-gods
     
 
 https://www.ebooks-library.com/author.cfm/AuthorID/614
@@ -225,7 +224,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-secret"
+git commit -m "Initial commit the-soldiers-visitor"
 
 === COMMIT 2 ===
 se clean .
