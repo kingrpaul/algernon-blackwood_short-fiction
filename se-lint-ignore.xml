@@ -18,12 +18,6 @@
 			<reason>intent of single quote to mark out the word as a word</reason>
 		</ignore>
 	</file>
-	<file path="initiation.xhtml">
-		<ignore>
-			<code>t-005</code>
-			<reason>single word matching scan</reason>
-		</ignore>
-	</file>
 	<file path="switzerland-in-wartime.xhtml">
 		<ignore>
 			<code>t-010</code>
