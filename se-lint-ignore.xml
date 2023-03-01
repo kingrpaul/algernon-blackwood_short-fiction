@@ -84,4 +84,10 @@
 			<reason>continued dialog begins with "or"</reason>
 		</ignore>
 	</file>
+	<file path="the-exiled-gods.xhtml">
+		<ignore>
+			<code>t-005</code>
+			<reason>was “we” he said (not dialog)</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>

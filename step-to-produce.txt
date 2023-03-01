@@ -12,6 +12,7 @@ Quotes: ‘ … ’  “ — ”
 ⁠—     em dash (parenthetical phrases, partially-obscured words, totally-obscured days of the month)
 ⸺  2em dash (partially obscured words)
 ⸻ 3em dash (completely obscured words)
+
 Space Before Punctuation:  [!?,;:\.].+
 Unclosed Quote: “[^”]+</p>
 Unopened Quote: <p>[^“]+”
@@ -41,7 +42,7 @@ Quoted Statement: “[^”]+”
 **** recheck the dashes, include stock-still
 **** worth while ; for ever  ; none the less  ; in so far  ; any one; on to; who ever ; country side
 **** everywhere: <i epub:type="se:name.publication.newspaper"> applies to 'the Times'
-
+**** Note "Ambleside is also titled 'Perspective'"
 
  == a-haunted-island
  == a-suspicious-gift
@@ -194,7 +195,7 @@ Quoted Statement: “[^”]+”
  == the-secret
  == the-soldiers-visitor
 
-    the-exiled-gods
+    the-exiled-gods [republished (edited) as 'Initiation']
     
 
 https://www.ebooks-library.com/author.cfm/AuthorID/614
@@ -224,7 +225,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-soldiers-visitor"
+git commit -m "Initial commit the-exiled-gods"
 
 === COMMIT 2 ===
 se clean .
