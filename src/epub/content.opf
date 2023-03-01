@@ -127,7 +127,6 @@
 		<item href="text/imagination.xhtml" id="imagination.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/in-the-jura-neuchatel.xhtml" id="in-the-jura-neuchatel.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/initiation.xhtml" id="initiation.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/jack-of-the-inkpot.xhtml" id="jack-of-the-inkpot.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/keeping-his-promise.xhtml" id="keeping-his-promise.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/let-not-the-sun.xhtml" id="let-not-the-sun.xhtml" media-type="application/xhtml+xml"/>
@@ -228,6 +227,7 @@
 		<item href="text/the-whisperers.xhtml" id="the-whisperers.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-willows.xhtml" id="the-willows.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-wings-of-horus.xhtml" id="the-wings-of-horus.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-winter-alps.xhtml" id="the-winter-alps.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-wolves-of-god.xhtml" id="the-wolves-of-god.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-womans-ghost-story.xhtml" id="the-womans-ghost-story.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-wood-of-the-dead.xhtml" id="the-wood-of-the-dead.xhtml" media-type="application/xhtml+xml"/>
@@ -359,6 +359,7 @@
 		<itemref idref="the-secret.xhtml"/>
 		<itemref idref="the-wings-of-horus.xhtml"/>
 		<itemref idref="the-trod.xhtml"/>
+		<itemref idref="the-winter-alps.xhtml"/>
 		<itemref idref="violence.xhtml"/>
 		<itemref idref="cains-atonement.xhtml"/>
 		<itemref idref="the-other-wing.xhtml"/>
