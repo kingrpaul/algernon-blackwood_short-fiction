@@ -34,15 +34,13 @@ Quoted Statement: “[^”]+”
 "[Editorial] modernize for_ever→forever"
 "[Editorial] modernize ski-d→skied"
 "The_Barmecide_Feast→A_Barmecide_Feast"
+"ligature → ae, everywhere"
+"gods → goods, apparent error in original document"
 
-
-**** from the-invitation, remove "<span epub:type="z3998:roman">""
 **** s’s
-**** Æ
 **** recheck the dashes, include stock-still
 **** worth while ; for ever  ; none the less  ; in so far  ; any one; on to; who ever ; country side
-**** everywhere: <i epub:type="se:name.publication.newspaper"> applies to 'the Times'
-**** Note "Ambleside is also titled 'Perspective'"
+**** everywhere: <span epub:type="z3998:roman">X</span> where it is not Latin
 
  == a-haunted-island
  == a-suspicious-gift
@@ -71,7 +69,7 @@ Quoted Statement: “[^”]+”
  == a-victim-of-higher-space
  == by-water
  == the-house-of-the-past
- == initiation
+[[== initiation]]
  == the-occupant-of-the-room
  == summering-in-canadian-backwoods
  == the-olive
@@ -144,7 +142,7 @@ Quoted Statement: “[^”]+”
  == picking-fir-cones
  == egyptian-sorcery
  == special-delivery
- == the-strange-experience-of-the-rev-phillip-ambleside
+ == the-strange-experience-of-the-rev-phillip-ambleside ** REPUBLISHED AS 'PERSPECTIVE'
  == the-tarn-of-sacrifice
  == a-mysterious-house
  == the-lost-valley
@@ -194,25 +192,13 @@ Quoted Statement: “[^”]+”
  == imagination
  == the-secret
  == the-soldiers-visitor
+ == the-exiled-gods [republished (edited) as 'Initiation']
 
-    the-exiled-gods [republished (edited) as 'Initiation']
+    the-winter-alps
     
+    [[REMOVE ACCUMULATED LINT]]
 
-https://www.ebooks-library.com/author.cfm/AuthorID/614
-https://infogalactic.com/info/Algernon_Blackwood
-
-
-        Karma (1918) A Play
-
-OLD CLOTHES:
-    It was after ten o’clock, and I was still sitting in the big hail before the fire of logs,
-=> Probably "hall" rather than "hail".
-    and she point ed to the side of the room on my right.
-=> "pointed" rather than "point ed"
-    And when we got back her mother had again moved her household gods to the original family mansion
-=> Probably "goods" rather than "gods"
-
-FIX:  Under <span epub:type="z3998:roman">X</span>⁠—Hotel,
+    Karma (1918) A Play
 
 ────────────────────────────────────── 
 
@@ -225,7 +211,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-exiled-gods"
+git commit -m "Initial commit the-winter-alps"
 
 === COMMIT 2 ===
 se clean .
@@ -318,26 +304,3 @@ to reinitialize
 ---------------
 rm ****** -rf .git 
 git init
-
-
-https://standardebooks.org/manual/1.7.0/single-page
-
-
-https://kingrpaul.github.io/algernon-blackwood_short-fiction//src/epub/text/a-psychical-invasion.xhtml
-
-
- epub:type="z3998:letter"
-
- }
-
-
-{{ext scan link|https://babel.hathitrust.org/cgi/pt?id=uc1.c2723996&view=1up&seq=263}}
-{{smaller|A Volume of Nature Stories}}
-
-
-{{smaller|Vol.27 Annual xx/xx/1904}}
-{{ext 🖻 link|https://babel.hathitrust.org/cgi/pt?id=uc1.c2723996&view=1up&seq=263}}
-
-{{smaller|Vol.27 Annual xx/xx/1904}}
-
-[https://babel.hathitrust.org/cgi/pt?id=uc1.c2723996&view=1up&seq=263 🖻]
