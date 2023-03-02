@@ -72,12 +72,6 @@
 			<reason>continued dialog begins with "and"</reason>
 		</ignore>
 	</file>
-	<file path="the-kiss-of-a-psychologist.xhtml">
-		<ignore>
-			<code>t-042</code>
-			<reason>continued dialog begins with "or"</reason>
-		</ignore>
-	</file>
 	<file path="the-exiled-gods.xhtml">
 		<ignore>
 			<code>t-005</code>

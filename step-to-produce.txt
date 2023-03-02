@@ -193,8 +193,7 @@ Quoted Statement: “[^”]+”
  == the-secret
  == the-soldiers-visitor
  == the-exiled-gods [republished (edited) as 'Initiation']
-
-    the-winter-alps
+ == the-winter-alps
     
     [[REMOVE ACCUMULATED LINT]]
 
