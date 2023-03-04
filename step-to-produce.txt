@@ -41,6 +41,9 @@ Quoted Statement: “[^”]+”
 **** recheck the dashes, include stock-still
 **** worth while ; for ever  ; none the less  ; in so far  ; any one; on to; who ever ; country side
 **** everywhere: <span epub:type="z3998:roman">X</span> where it is not Latin
+**** verify the spine sequence
+**** editorial apostrophe in jimbo <p>“And is getting ready,” I added, “for its coming.”</p>
+
 
  == a-haunted-island
  == a-suspicious-gift
@@ -194,8 +197,9 @@ Quoted Statement: “[^”]+”
  == the-soldiers-visitor
  == the-exiled-gods [republished (edited) as 'Initiation']
  == the-winter-alps
-    
-    [[REMOVE ACCUMULATED LINT]]
+ == jimbos-longest-day
+
+    wind
 
     Karma (1918) A Play
 
@@ -210,7 +214,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-winter-alps"
+git commit -m "Initial commit jimbos-longest-day"
 
 === COMMIT 2 ===
 se clean .
