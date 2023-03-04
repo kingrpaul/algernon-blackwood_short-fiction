@@ -239,6 +239,7 @@
 		<item href="text/vengeance-is-mine.xhtml" id="vengeance-is-mine.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/violence.xhtml" id="violence.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/wayfarers.xhtml" id="wayfarers.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/wind.xhtml" id="wind.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/wireless-confusion.xhtml" id="wireless-confusion.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/with-intent-to-steal.xhtml" id="with-intent-to-steal.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/you-may-telephone-from-here.xhtml" id="you-may-telephone-from-here.xhtml" media-type="application/xhtml+xml"/>
@@ -333,6 +334,7 @@
 		<itemref idref="the-terror-of-the-twins.xhtml"/>
 		<itemref idref="the-whisperers.xhtml"/>
 		<itemref idref="wayfarers.xhtml"/>
+		<itemref idref="wind.xhtml"/>
 		<itemref idref="a-barmecide-feast.xhtml"/>
 		<itemref idref="h-s-h.xhtml"/>
 		<itemref idref="the-kiss-of-a-psychologist.xhtml"/>
