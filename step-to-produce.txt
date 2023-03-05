@@ -13,13 +13,6 @@ Quotes: ‘ … ’  “ — ”
 ⸺  2em dash (partially obscured words)
 ⸻ 3em dash (completely obscured words)
 
-Space Before Punctuation:  [!?,;:\.].+
-Unclosed Quote: “[^”]+</p>
-Unopened Quote: <p>[^“]+”
-Unopened Quote: ”[^“]+”
-Gapped Close Quote: ( ”).+
-Quoted Statement: “[^”]+”
-
 "[Editorial] Correct mismatched dashes re-crossed→recrossed, smith-an-episode-in-a-lodging-house"
 "[Editorial] Correct mismatched dashes spring-tide→springtide, the-man-whom-the-trees-loved"
 "[Editorial] mass→Mass, Government→government canoeers→canoers Obermarchsthal→Obermarchtal Wiener_Wald→Wienerwald gipsy→gypsy to_morrow→tomorrow half_way→halfway well_nigh→well-nigh; down-the-danube-in-a-canadian-canoe"
@@ -205,6 +198,8 @@ Quoted Statement: “[^”]+”
 
     Karma (1918) A Play
 
+
+
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
@@ -216,7 +211,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit wind"
+git commit -m "Initial commit the-miracle"
 
 === COMMIT 2 ===
 se clean .
@@ -293,6 +288,14 @@ git commit -am "Add ToC"
 
 === COMMIT 16 ===
 se clean .
+---
+Space Before Punctuation:  [!?,;:\.].+
+Unclosed Quote: “[^”]+</p>
+Unopened Quote: <p>[^“]+”
+Unopened Quote: ”[^“]+”
+Gapped Close Quote: ( ”).+
+Quoted Statement: “[^”]+”
+---
 se lint . > lint.txt
 se build --output-dir=$HOME/dist/ --kindle .
 git commit -am "Proofread"
