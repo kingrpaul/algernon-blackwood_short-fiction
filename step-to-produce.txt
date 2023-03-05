@@ -43,6 +43,7 @@ Quoted Statement: “[^”]+”
 **** everywhere: <span epub:type="z3998:roman">X</span> where it is not Latin
 **** verify the spine sequence
 **** editorial apostrophe in jimbo <p>“And is getting ready,” I added, “for its coming.”</p>
+**** djin -> djinn
 
 
  == a-haunted-island
@@ -198,8 +199,9 @@ Quoted Statement: “[^”]+”
  == the-exiled-gods [republished (edited) as 'Initiation']
  == the-winter-alps
  == jimbos-longest-day
+ == wind
 
-    wind
+    the-miracle
 
     Karma (1918) A Play
 
@@ -214,7 +216,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit jimbos-longest-day"
+git commit -m "Initial commit wind"
 
 === COMMIT 2 ===
 se clean .
