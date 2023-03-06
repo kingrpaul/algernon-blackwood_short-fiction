@@ -5,13 +5,6 @@ https://archive.org/details/sim_bookman-a-review-of-books-and-life_1914-04_39_2/
 
 se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10897
 * Exclude Files: toc.*, colo*, impr*, uncopy*,*.opf,title*,*.md,*.svg,*.css,*.xml
-Quotes: ‘ … ’  “ — ”
-
--     hyphen  (partially-obscured years where only the last number is obscured) 
-‑     non-breaking hyphen (UNTYPOGRIFY, single letter obscured in a word)
-⁠—     em dash (parenthetical phrases, partially-obscured words, totally-obscured days of the month)
-⸺  2em dash (partially obscured words)
-⸻ 3em dash (completely obscured words)
 
 "[Editorial] Correct mismatched dashes re-crossed→recrossed, smith-an-episode-in-a-lodging-house"
 "[Editorial] Correct mismatched dashes spring-tide→springtide, the-man-whom-the-trees-loved"
@@ -193,10 +186,13 @@ Quotes: ‘ … ’  “ — ”
  == the-winter-alps
  == jimbos-longest-day
  == wind
+ == the-miracle
 
-    the-miracle
 
-    Karma (1918) A Play
+     the-lease
+
+
+     Karma (1918) A Play?
 
 
 
@@ -289,12 +285,21 @@ git commit -am "Add ToC"
 === COMMIT 16 ===
 se clean .
 ---
-Space Before Punctuation:  [!?,;:\.].+
+Space Before Punctuation:  [!\?,;:\.].+
 Unclosed Quote: “[^”]+</p>
 Unopened Quote: <p>[^“]+”
 Unopened Quote: ”[^“]+”
 Gapped Close Quote: ( ”).+
+Spurious period: [a-z]\.\s[a-z]
+Dubious hyphens: (-.+)
 Quoted Statement: “[^”]+”
+---
+Quotes: ‘ … ’  “ — ”
+-     hyphen  (partially-obscured years where only the last number is obscured) 
+‑     non-breaking hyphen (UNTYPOGRIFY, single letter obscured in a word)
+⁠—     em dash (parenthetical phrases, partially-obscured words, totally-obscured days of the month)
+⸺  2em dash (partially obscured words)
+⸻ 3em dash (completely obscured words)
 ---
 se lint . > lint.txt
 se build --output-dir=$HOME/dist/ --kindle .
@@ -312,3 +317,6 @@ to reinitialize
 ---------------
 rm ****** -rf .git 
 git init
+
+
+https://catalog.hathitrust.org/Record/100584338
