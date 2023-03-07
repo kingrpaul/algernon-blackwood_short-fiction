@@ -238,6 +238,7 @@
 		<item href="text/transition.xhtml" id="transition.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/two-in-one.xhtml" id="two-in-one.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/up-and-down.xhtml" id="up-and-down.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/vengeance-is-mine.xhtml" id="vengeance-is-mine.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/violence.xhtml" id="violence.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/wayfarers.xhtml" id="wayfarers.xhtml" media-type="application/xhtml+xml"/>
@@ -367,6 +368,7 @@
 		<itemref idref="the-wings-of-horus.xhtml"/>
 		<itemref idref="the-trod.xhtml"/>
 		<itemref idref="the-winter-alps.xhtml"/>
+		<itemref idref="up-and-down.xhtml"/>
 		<itemref idref="violence.xhtml"/>
 		<itemref idref="cains-atonement.xhtml"/>
 		<itemref idref="the-other-wing.xhtml"/>
