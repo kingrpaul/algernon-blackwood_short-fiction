@@ -187,8 +187,10 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == jimbos-longest-day
  == wind
  == the-miracle
- ==    the-lease
+ == the-lease
+ == up-and-down
 
+    tongues-of-fire
 
      Karma (1918) A Play?
 
@@ -205,7 +207,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-lease"
+git commit -m "Initial commit tongues-of-fire"
 
 === COMMIT 2 ===
 se clean .
@@ -289,7 +291,7 @@ Unopened Quote: <p>[^“]+”
 Unopened Quote: ”[^“]+”
 Gapped Close Quote: ( ”).+
 Spurious period: [a-z]\.\s[a-z]
-Dubious hyphens: (-.+)
+Dubious hyphens: (-[^-]+)
 Quoted Statement: “[^”]+”
 ---
 Quotes: ‘ … ’  “ — ”
@@ -321,3 +323,5 @@ https://catalog.hathitrust.org/Record/100584338
 fg #304145
 bg #bac7ce
 ac #bd3147
+
+vague friend grouping
