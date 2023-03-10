@@ -189,8 +189,9 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == the-miracle
  == the-lease
  == up-and-down
+ == tongues-of-fire
 
-    tongues-of-fire
+    the-pikestaffe-case
 
      Karma (1918) A Play?
 
@@ -207,7 +208,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit tongues-of-fire"
+git commit -m "Initial commit the-pikestaffe-case"
 
 === COMMIT 2 ===
 se clean .
@@ -320,8 +321,5 @@ git init
 
 
 https://catalog.hathitrust.org/Record/100584338
-fg #304145
-bg #bac7ce
-ac #bd3147
 
-vague friend grouping
+ 
