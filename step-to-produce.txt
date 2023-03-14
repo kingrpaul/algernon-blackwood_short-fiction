@@ -22,6 +22,10 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
 "The_Barmecide_Feast→A_Barmecide_Feast"
 "ligature → ae, everywhere"
 "gods → goods, apparent error in original document"
+"[Editorial] lunchen→luncheon, the-pikestaffe-case"
+"[Editorial] freshness in the air a sharpness→freshness in the air⁠—a sharpness, the-pikestaffe-case"
+
+
 
 **** s’s
 **** recheck the dashes, include stock-still
@@ -190,11 +194,11 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == the-lease
  == up-and-down
  == tongues-of-fire
+ == the-pikestaffe-case
 
-    the-pikestaffe-case
+    the-doll
 
      Karma (1918) A Play?
-
 
 
 ────────────────────────────────────── 
@@ -208,7 +212,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-pikestaffe-case"
+git commit -m "Initial commit the-doll"
 
 === COMMIT 2 ===
 se clean .
@@ -293,7 +297,10 @@ Unopened Quote: ”[^“]+”
 Gapped Close Quote: ( ”).+
 Spurious period: [a-z]\.\s[a-z]
 Dubious hyphens: (-[^-]+)
+Scan Errors [a-z]U|( 1 )|\^.+
 Quoted Statement: “[^”]+”
+
+
 ---
 Quotes: ‘ … ’  “ — ”
 -     hyphen  (partially-obscured years where only the last number is obscured) 
@@ -321,5 +328,3 @@ git init
 
 
 https://catalog.hathitrust.org/Record/100584338
-
- 
