@@ -98,6 +98,7 @@
 		<item href="text/about-moose-and-moose-hunting.xhtml" id="about-moose-and-moose-hunting.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/about-the-moravians.xhtml" id="about-the-moravians.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/accessory-before-the-fact.xhtml" id="accessory-before-the-fact.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/an-arab-pilgrimage.xhtml" id="an-arab-pilgrimage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/an-egyptian-hornet.xhtml" id="an-egyptian-hornet.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/ancient-lights.xhtml" id="ancient-lights.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/ancient-sorceries.xhtml" id="ancient-sorceries.xhtml" media-type="application/xhtml+xml"/>
@@ -324,6 +325,7 @@
 		<itemref idref="the-prayer.xhtml"/>
 		<itemref idref="the-transfer.xhtml"/>
 		<itemref idref="two-in-one.xhtml"/>
+		<itemref idref="an-arab-pilgrimage.xhtml"/>
 		<itemref idref="ancient-lights.xhtml"/>
 		<itemref idref="animal-life-in-the-egyptian-desert.xhtml"/>
 		<itemref idref="sand.xhtml"/>
