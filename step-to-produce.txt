@@ -25,7 +25,7 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
 "[Editorial] lunchen→luncheon, the-pikestaffe-case"
 "[Editorial] freshness in the air a sharpness→freshness in the air⁠—a sharpness, the-pikestaffe-case"
 
-
+"[Editorial] capitalize negro, hindu, arab; the-doll"
 
 **** s’s
 **** recheck the dashes, include stock-still
@@ -195,8 +195,10 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == up-and-down
  == tongues-of-fire
  == the-pikestaffe-case
+ == the-doll
+ == animal-life-in-the-egyptian-desert
 
-    the-doll
+    an-arab-pilgrimage
 
      Karma (1918) A Play?
 
@@ -212,7 +214,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-doll"
+git commit -m "Initial commit an-arab-pilgrimage"
 
 === COMMIT 2 ===
 se clean .
@@ -305,7 +307,8 @@ Quoted Statement: “[^”]+”
 Quotes: ‘ … ’  “ — ”
 -     hyphen  (partially-obscured years where only the last number is obscured) 
 ‑     non-breaking hyphen (UNTYPOGRIFY, single letter obscured in a word)
-⁠—     em dash (parenthetical phrases, partially-obscured words, totally-obscured days of the month)
+
+⁠— em dash (parenthetical phrases, partially-obscured words, totally-obscured days of the month)
 ⸺  2em dash (partially obscured words)
 ⸻ 3em dash (completely obscured words)
 ---
