@@ -157,6 +157,7 @@
 		<item href="text/sleep-and-how-to-do-without-it.xhtml" id="sleep-and-how-to-do-without-it.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/smith-an-episode-in-a-lodging-house.xhtml" id="smith-an-episode-in-a-lodging-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/special-delivery.xhtml" id="special-delivery.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spring-and-the-mountaineer.xhtml" id="spring-and-the-mountaineer.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/spring-in-switzerland.xhtml" id="spring-in-switzerland.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/strange-disappearance-of-a-baronet.xhtml" id="strange-disappearance-of-a-baronet.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/summering-in-canadian-backwoods.xhtml" id="summering-in-canadian-backwoods.xhtml" media-type="application/xhtml+xml"/>
@@ -320,6 +321,7 @@
 		<itemref idref="dream-trespass.xhtml"/>
 		<itemref idref="monsieur-joseph-of-the-ski.xhtml"/>
 		<itemref idref="on-wings.xhtml"/>
+		<itemref idref="spring-and-the-mountaineer.xhtml"/>
 		<itemref idref="the-deferred-appointment.xhtml"/>
 		<itemref idref="the-empty-sleeve.xhtml"/>
 		<itemref idref="the-golden-fly.xhtml"/>
