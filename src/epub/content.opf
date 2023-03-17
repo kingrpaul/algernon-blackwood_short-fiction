@@ -111,6 +111,7 @@
 		<item href="text/clairvoyance.xhtml" id="clairvoyance.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/confession.xhtml" id="confession.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/discovering-russia-on-foot.xhtml" id="discovering-russia-on-foot.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/down-the-danube-in-a-canadian-canoe.xhtml" id="down-the-danube-in-a-canadian-canoe.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dream-trespass.xhtml" id="dream-trespass.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/egyptian-sorcery.xhtml" id="egyptian-sorcery.xhtml" media-type="application/xhtml+xml"/>
@@ -315,6 +316,7 @@
 		<itemref idref="the-wendigo.xhtml"/>
 		<itemref idref="accessory-before-the-fact.xhtml"/>
 		<itemref idref="clairvoyance.xhtml"/>
+		<itemref idref="discovering-russia-on-foot.xhtml"/>
 		<itemref idref="dream-trespass.xhtml"/>
 		<itemref idref="monsieur-joseph-of-the-ski.xhtml"/>
 		<itemref idref="on-wings.xhtml"/>
