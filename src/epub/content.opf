@@ -194,6 +194,7 @@
 		<item href="text/the-listener.xhtml" id="the-listener.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-little-beggar.xhtml" id="the-little-beggar.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-lost-valley.xhtml" id="the-lost-valley.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-man-from-the-gods.xhtml" id="the-man-from-the-gods.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-man-who-found-out.xhtml" id="the-man-who-found-out.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-man-who-played-upon-the-leaf.xhtml" id="the-man-who-played-upon-the-leaf.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-man-who-was-milligan.xhtml" id="the-man-who-was-milligan.xhtml" media-type="application/xhtml+xml"/>
@@ -304,6 +305,7 @@
 		<itemref idref="the-laying-of-a-red-haired-ghost.xhtml"/>
 		<itemref idref="you-may-telephone-from-here.xhtml"/>
 		<itemref idref="the-lost-valley.xhtml"/>
+		<itemref idref="the-man-from-the-gods.xhtml"/>
 		<itemref idref="the-price-of-wigginss-orgy.xhtml"/>
 		<itemref idref="the-south-wind.xhtml"/>
 		<itemref idref="strange-disappearance-of-a-baronet.xhtml"/>
