@@ -197,8 +197,12 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == the-pikestaffe-case
  == the-doll
  == animal-life-in-the-egyptian-desert
+ == an-arab-pilgrimage
+ == discovering-russia-on-foot
+ == spring-and-the-mountaineer
+ == the-man-from-the-gods
 
-    an-arab-pilgrimage
+ the-last-egg-in-the-nest
 
      Karma (1918) A Play?
 
@@ -214,7 +218,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit an-arab-pilgrimage"
+git commit -m "Initial commit the-last-egg-in-the-nest"
 
 === COMMIT 2 ===
 se clean .
@@ -331,3 +335,9 @@ git init
 
 
 https://catalog.hathitrust.org/Record/100584338
+
+INTERLIBRARY?
+Chemical, The Ghost Book (ed. Cynthia Asquith) xx/xx/1926
+** Tobys Birthday Presents, The Treasure Ship (ed. Cynthia Asquith) xx/xx/1926
+Mr. Cupboard, or The Furniture’s Holiday, Number Five Joy Street xx/09/1927
+The Water Performance, Sails of Gold (ed. Cynthia Asquith) xx/xx/1927
