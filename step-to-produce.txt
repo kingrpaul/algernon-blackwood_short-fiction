@@ -205,6 +205,11 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == mrs-gurneys-poems
  == the-israelites-track-from-red-sea-to-mount-sinai
 
+
+a-voice-in-the-wilderness
+at-school-in-the-black-forest
+the-farmhouse-on-the-hill
+
      Karma (1918) A Play?
 
 
