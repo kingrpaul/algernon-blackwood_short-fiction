@@ -201,8 +201,9 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == discovering-russia-on-foot
  == spring-and-the-mountaineer
  == the-man-from-the-gods
-
- the-last-egg-in-the-nest
+ == the-last-egg-in-the-nest
+ == mrs-gurneys-poems
+ == the-israelites-track-from-red-sea-to-mount-sinai
 
      Karma (1918) A Play?
 
@@ -218,7 +219,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-last-egg-in-the-nest"
+git commit -m "Initial commit the-israelites-track-from-red-sea-to-mount-sinai"
 
 === COMMIT 2 ===
 se clean .
@@ -304,6 +305,7 @@ Gapped Close Quote: ( ”).+
 Spurious period: [a-z]\.\s[a-z]
 Dubious hyphens: (-[^-]+)
 Scan Errors [a-z]U|( 1 )|\^.+
+Missing punctuation [a-z]</p>
 Quoted Statement: “[^”]+”
 
 
@@ -341,3 +343,10 @@ Chemical, The Ghost Book (ed. Cynthia Asquith) xx/xx/1926
 ** Tobys Birthday Presents, The Treasure Ship (ed. Cynthia Asquith) xx/xx/1926
 Mr. Cupboard, or The Furniture’s Holiday, Number Five Joy Street xx/09/1927
 The Water Performance, Sails of Gold (ed. Cynthia Asquith) xx/xx/1927
+
+‘’“”
+
+
+
+
+
