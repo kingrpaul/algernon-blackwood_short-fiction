@@ -204,15 +204,22 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == the-last-egg-in-the-nest
  == mrs-gurneys-poems
  == the-israelites-track-from-red-sea-to-mount-sinai
+ == a-voice-in-the-wilderness
+ == the-farmhouse-on-the-hill
 
-
-a-voice-in-the-wilderness
-at-school-in-the-black-forest
-the-farmhouse-on-the-hill
+    at-school-in-the-black-forest
 
      Karma (1918) A Play?
 
-
+*********************************
+I've read through "The Man from the Gods".  
+I found only one missing comma (or dash):
+like the silence in a mine, 
+I remember thinking and 
+I instinctively clenched my fists,
+=> thinking, and I
+OR: thinking -- and I
+*********************************
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
@@ -224,7 +231,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-israelites-track-from-red-sea-to-mount-sinai"
+git commit -m "Initial commit at-school-in-the-black-forest"
 
 === COMMIT 2 ===
 se clean .
