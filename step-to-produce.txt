@@ -24,7 +24,6 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
 "gods → goods, apparent error in original document"
 "[Editorial] lunchen→luncheon, the-pikestaffe-case"
 "[Editorial] freshness in the air a sharpness→freshness in the air⁠—a sharpness, the-pikestaffe-case"
-
 "[Editorial] capitalize negro, hindu, arab; the-doll"
 
 **** s’s
@@ -209,8 +208,7 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == at-school-in-the-black-forest
  == in-hungary-with-tent-and-canoe
  == the-other-woman
-
-    the-kingdom-of-the-heavens
+ == the-kingdom-of-the-heavens
 
      Karma (1918) A Play?
 
@@ -323,6 +321,7 @@ Scan Errors [a-z]U|( 1 )|\^.+
 Missing punctuation [a-z]</p>
 Quoted Statement: “[^”]+”
 
+FOOTNOTE- KINGDOM OF HEAVEN
 
 ---
 Quotes: ‘ … ’  “ — ”
