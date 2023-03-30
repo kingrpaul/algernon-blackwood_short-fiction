@@ -206,8 +206,11 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == the-israelites-track-from-red-sea-to-mount-sinai
  == a-voice-in-the-wilderness
  == the-farmhouse-on-the-hill
+ == at-school-in-the-black-forest
+ == in-hungary-with-tent-and-canoe
+ == the-other-woman
 
-    at-school-in-the-black-forest
+    the-kingdom-of-the-heavens
 
      Karma (1918) A Play?
 
@@ -231,7 +234,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit at-school-in-the-black-forest"
+git commit -m "Initial commit the-kingdom-of-the-heavens"
 
 === COMMIT 2 ===
 se clean .
