@@ -181,6 +181,7 @@
 		<item href="text/the-empty-house.xhtml" id="the-empty-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-empty-sleeve.xhtml" id="the-empty-sleeve.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-exiled-gods.xhtml" id="the-exiled-gods.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-falling-glass.xhtml" id="the-falling-glass.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-farmhouse-on-the-hill.xhtml" id="the-farmhouse-on-the-hill.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-garden-of-survival.xhtml" id="the-garden-of-survival.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-glamour-of-the-snow.xhtml" id="the-glamour-of-the-snow.xhtml" media-type="application/xhtml+xml"/>
@@ -385,6 +386,7 @@
 		<itemref idref="pines.xhtml"/>
 		<itemref idref="the-damned.xhtml"/>
 		<itemref idref="the-doll.xhtml"/>
+		<itemref idref="the-falling-glass.xhtml"/>
 		<itemref idref="the-impulse.xhtml"/>
 		<itemref idref="the-invitation.xhtml"/>
 		<itemref idref="the-lease.xhtml"/>
