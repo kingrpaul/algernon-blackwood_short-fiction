@@ -210,17 +210,10 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == the-other-woman
  == the-kingdom-of-the-heavens
 
+    the-falling-glass
+
      Karma (1918) A Play?
 
-*********************************
-I've read through "The Man from the Gods".  
-I found only one missing comma (or dash):
-like the silence in a mine, 
-I remember thinking and 
-I instinctively clenched my fists,
-=> thinking, and I
-OR: thinking -- and I
-*********************************
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
@@ -232,7 +225,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-kingdom-of-the-heavens"
+git commit -m "Initial commit the-falling-glass"
 
 === COMMIT 2 ===
 se clean .
