@@ -91,6 +91,7 @@
 		<item href="text/a-descent-into-egypt.xhtml" id="a-descent-into-egypt.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-desert-episode.xhtml" id="a-desert-episode.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-haunted-island.xhtml" id="a-haunted-island.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-holiday-down-the-danube-with-punt-and-tent.xhtml" id="a-holiday-down-the-danube-with-punt-and-tent.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-mysterious-house.xhtml" id="a-mysterious-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-psychical-invasion.xhtml" id="a-psychical-invasion.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-suspicious-gift.xhtml" id="a-suspicious-gift.xhtml" media-type="application/xhtml+xml"/>
@@ -286,6 +287,7 @@
 		<itemref idref="the-house-of-the-past.xhtml"/>
 		<itemref idref="testing-his-courage.xhtml"/>
 		<itemref idref="about-moose-and-moose-hunting.xhtml"/>
+		<itemref idref="a-holiday-down-the-danube-with-punt-and-tent.xhtml"/>
 		<itemref idref="a-suspicious-gift.xhtml"/>
 		<itemref idref="keeping-his-promise.xhtml"/>
 		<itemref idref="my-adventure-with-a-lion.xhtml"/>
