@@ -209,8 +209,9 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == in-hungary-with-tent-and-canoe
  == the-other-woman
  == the-kingdom-of-the-heavens
+ == the-falling-glass
 
-    the-falling-glass
+    a-holiday-down-the-danube-with-punt-and-tent
 
      Karma (1918) A Play?
 
@@ -225,7 +226,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-falling-glass"
+git commit -m "Initial commit a-holiday-down-the-danube-with-punt-and-tent"
 
 === COMMIT 2 ===
 se clean .
@@ -313,8 +314,6 @@ Dubious hyphens: (-[^-]+)
 Scan Errors [a-z]U|( 1 )|\^.+
 Missing punctuation [a-z]</p>
 Quoted Statement: “[^”]+”
-
-I admit there was this childish pride and pleasure in the disappointment, and to be right even in prophesying disaster holds a faint satisfaction.
 
 ---
 Quotes: ‘ … ’  “ — ”
