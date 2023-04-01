@@ -314,7 +314,7 @@ Scan Errors [a-z]U|( 1 )|\^.+
 Missing punctuation [a-z]</p>
 Quoted Statement: “[^”]+”
 
-FOOTNOTE- KINGDOM OF HEAVEN
+I admit there was this childish pride and pleasure in the disappointment, and to be right even in prophesying disaster holds a faint satisfaction.
 
 ---
 Quotes: ‘ … ’  “ — ”
