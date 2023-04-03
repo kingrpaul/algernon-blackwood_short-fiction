@@ -210,8 +210,12 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == the-other-woman
  == the-kingdom-of-the-heavens
  == the-falling-glass
+ == a-holiday-down-the-danube-with-punt-and-tent
+ == from-the-swiss-lakes
 
-    a-holiday-down-the-danube-with-punt-and-tent
+    the-world-dream-of-mccallister
+    the-country-life-anthology-of-verse
+
 
      Karma (1918) A Play?
 
@@ -226,7 +230,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit a-holiday-down-the-danube-with-punt-and-tent"
+git commit -m "Initial commit the-world-dream-of-mccallister"
 
 === COMMIT 2 ===
 se clean .
@@ -311,7 +315,7 @@ Unopened Quote: ”[^“]+”
 Gapped Close Quote: ( ”).+
 Spurious period: [a-z]\.\s[a-z]
 Dubious hyphens: (-[^-]+)
-Scan Errors [a-z]U|( 1 )|\^.+
+Scan Errors [a-z]U|( 1 )|\^.+|\|
 Missing punctuation [a-z]</p>
 Quoted Statement: “[^”]+”
 
@@ -346,13 +350,10 @@ https://catalog.hathitrust.org/Record/100584338
 
 INTERLIBRARY?
 Chemical, The Ghost Book (ed. Cynthia Asquith) xx/xx/1926
-** Tobys Birthday Presents, The Treasure Ship (ed. Cynthia Asquith) xx/xx/1926
 Mr. Cupboard, or The Furniture’s Holiday, Number Five Joy Street xx/09/1927
 The Water Performance, Sails of Gold (ed. Cynthia Asquith) xx/xx/1927
 
+DONE
+Tongues of Fire & Other Sketches
+Tobys Birthday Presents, The Treasure Ship (ed. Cynthia Asquith) xx/xx/1926
 ‘’“”
-
-
-
-
-
