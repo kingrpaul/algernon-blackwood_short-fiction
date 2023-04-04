@@ -171,6 +171,7 @@
 		<item href="text/the-attic.xhtml" id="the-attic.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-call.xhtml" id="the-call.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-camp-of-the-dog.xhtml" id="the-camp-of-the-dog.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-country-life-anthology-of-verse.xhtml" id="the-country-life-anthology-of-verse.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-damned.xhtml" id="the-damned.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-dance-of-death.xhtml" id="the-dance-of-death.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-decoy.xhtml" id="the-decoy.xhtml" media-type="application/xhtml+xml"/>
@@ -407,6 +408,7 @@
 		<itemref idref="up-and-down.xhtml"/>
 		<itemref idref="violence.xhtml"/>
 		<itemref idref="cains-atonement.xhtml"/>
+		<itemref idref="the-country-life-anthology-of-verse.xhtml"/>
 		<itemref idref="the-other-wing.xhtml"/>
 		<itemref idref="the-soul-of-galahad.xhtml"/>
 		<itemref idref="sleep-and-how-to-do-without-it.xhtml"/>
