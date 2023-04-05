@@ -122,6 +122,7 @@
 		<item href="text/engine.xhtml" id="engine.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/entrance-and-exit.xhtml" id="entrance-and-exit.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/explorers-ghost-stories.xhtml" id="explorers-ghost-stories.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/failure-of-the-swiss-winter-season.xhtml" id="failure-of-the-swiss-winter-season.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/faith-cure-on-the-channel.xhtml" id="faith-cure-on-the-channel.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/first-hate.xhtml" id="first-hate.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/full-circle.xhtml" id="full-circle.xhtml" media-type="application/xhtml+xml"/>
@@ -353,6 +354,7 @@
 		<itemref idref="a-voice-in-the-wilderness.xhtml"/>
 		<itemref idref="ancient-lights.xhtml"/>
 		<itemref idref="animal-life-in-the-egyptian-desert.xhtml"/>
+		<itemref idref="failure-of-the-swiss-winter-season.xhtml"/>
 		<itemref idref="sand.xhtml"/>
 		<itemref idref="the-attic.xhtml"/>
 		<itemref idref="the-destruction-of-smith.xhtml"/>
