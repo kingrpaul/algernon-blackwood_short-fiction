@@ -215,8 +215,7 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == the-world-dream-of-mccallister
  == the-country-life-anthology-of-verse
  == failure-of-the-swiss-winter-season
-
-    clouds-and-mountains
+ == clouds-and-mountains
 
     tobys-birthday-presents
 
