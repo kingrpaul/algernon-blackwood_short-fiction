@@ -212,10 +212,16 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == the-falling-glass
  == a-holiday-down-the-danube-with-punt-and-tent
  == from-the-swiss-lakes
+ == the-world-dream-of-mccallister
+ == the-country-life-anthology-of-verse
 
-    the-world-dream-of-mccallister
-    the-country-life-anthology-of-verse
+    failure-of-the-swiss-winter-season
 
+    ERROR: Animal-Life 1n the Egyptian Desert
+
+    clouds-and-mountains
+    failure-of-the-swiss-winter-season
+    tobys-birthday-presents
 
      Karma (1918) A Play?
 
@@ -230,7 +236,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-world-dream-of-mccallister"
+git commit -m "Initial commit failure-of-the-swiss-winter-season"
 
 === COMMIT 2 ===
 se clean .
@@ -356,4 +362,3 @@ The Water Performance, Sails of Gold (ed. Cynthia Asquith) xx/xx/1927
 DONE
 Tongues of Fire & Other Sketches
 Tobys Birthday Presents, The Treasure Ship (ed. Cynthia Asquith) xx/xx/1926
-‘’“”
