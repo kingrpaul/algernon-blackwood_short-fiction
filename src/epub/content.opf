@@ -148,6 +148,7 @@
 		<item href="text/monsieur-joseph-of-the-ski.xhtml" id="monsieur-joseph-of-the-ski.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/mrs-gurneys-poems.xhtml" id="mrs-gurneys-poems.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/my-adventure-with-a-lion.xhtml" id="my-adventure-with-a-lion.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/my-old-tunes.xhtml" id="my-old-tunes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/news-v-nourishment.xhtml" id="news-v-nourishment.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/old-clothes.xhtml" id="old-clothes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-wings.xhtml" id="on-wings.xhtml" media-type="application/xhtml+xml"/>
@@ -232,6 +233,9 @@
 		<item href="text/the-secret.xhtml" id="the-secret.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-soldiers-visitor.xhtml" id="the-soldiers-visitor.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-soul-of-galahad.xhtml" id="the-soul-of-galahad.xhtml" media-type="application/xhtml+xml"/>
+
+
+
 		<item href="text/the-south-wind.xhtml" id="the-south-wind.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-star.xhtml" id="the-star.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-story-mr-popkiss-told.xhtml" id="the-story-mr-popkiss-told.xhtml" media-type="application/xhtml+xml"/>
@@ -416,6 +420,7 @@
 		<itemref idref="the-country-life-anthology-of-verse.xhtml"/>
 		<itemref idref="the-other-wing.xhtml"/>
 		<itemref idref="the-soul-of-galahad.xhtml"/>
+		<itemref idref="my-old-tunes.xhtml"/>
 		<itemref idref="sleep-and-how-to-do-without-it.xhtml"/>
 		<itemref idref="the-exiled-gods.xhtml"/>
 		<itemref idref="the-occupant-of-the-room.xhtml"/>
