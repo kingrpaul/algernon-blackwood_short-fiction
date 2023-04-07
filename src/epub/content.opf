@@ -261,6 +261,7 @@
 		<item href="text/tobys-birthday-presents.xhtml" id="tobys-birthday-presents.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/tongues-of-fire.xhtml" id="tongues-of-fire.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/transition.xhtml" id="transition.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/traveling-light.xhtml" id="traveling-light.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/two-in-one.xhtml" id="two-in-one.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/up-and-down.xhtml" id="up-and-down.xhtml" media-type="application/xhtml+xml"/>
@@ -457,6 +458,7 @@
 		<itemref idref="the-kingdom-of-the-heavens.xhtml"/>
 		<itemref idref="jack-of-the-inkpot.xhtml"/>
 		<itemref idref="spring-in-switzerland.xhtml"/>
+		<itemref idref="traveling-light.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
