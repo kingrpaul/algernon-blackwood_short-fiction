@@ -216,8 +216,7 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == the-country-life-anthology-of-verse
  == failure-of-the-swiss-winter-season
  == clouds-and-mountains
-
-    tobys-birthday-presents
+ == tobys-birthday-presents
 
      Karma (1918) A Play?
 
@@ -232,7 +231,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit clouds-and-mountains"
+git commit -m "Initial commit tobys-birthday-presents"
 
 === COMMIT 2 ===
 se clean .
@@ -359,3 +358,33 @@ DONE
 Tongues of Fire & Other Sketches
 Tobys Birthday Presents, The Treasure Ship (ed. Cynthia Asquith) xx/xx/1926
 
+
+
+
+
+<br/>
+{| class=wikitable cellpadding=5
+|- 
+!  !! Vol !! Iss !! Pg !! Date
+|-
+| [[In Hungary with Tent and Canoe]]               || 24 || 1193 || 118 || 23/11/1901
+|-
+| [[The Last Egg in the Nest]]                     || 24 || 1232 || 743 || 23/08/1902
+|-
+| [[At School in the Black Forest]]                || 27 || 1356 || I:231<br/>II:246<br/>III:271 || xx/xx/1904
+|-
+| [[How Garnier Broke the Log-Jam]]                || 27 ||    ||         || xx/xx/1904
+|-
+| [[About Moose and Moose-Hunting]]                || 28 ||          || 714-715 || xx/xx/1905
+|-
+| [[A Holiday Down the Danube with Punt and Tent]] || 28 ||          || 764-766 || xx/09/1906
+|-
+| [[My Adventure with a Lion]]                     || 28 ||          || 550-551 || 02/06/1906
+|-
+| [[The Vanishing Redskins]]                       || 29 ||          || I:715<br/> II:750<br/> III:762 || xx/xx/1906
+|-
+| [[Our Adventure with the Danube River-Police]]   || 31 ||          || 232 || xx/xx/1908
+|}
+
+{{smaller|A Volume of Nature Stories}}
+[https://www.google.com/books/edition/etc 🖻]
