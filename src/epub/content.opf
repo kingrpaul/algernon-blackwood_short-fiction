@@ -170,6 +170,7 @@
 		<item href="text/strange-disappearance-of-a-baronet.xhtml" id="strange-disappearance-of-a-baronet.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/summering-in-canadian-backwoods.xhtml" id="summering-in-canadian-backwoods.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/switzerland-in-wartime.xhtml" id="switzerland-in-wartime.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/switzerland.xhtml" id="switzerland.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/testing-his-courage.xhtml" id="testing-his-courage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-attic.xhtml" id="the-attic.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-call.xhtml" id="the-call.xhtml" media-type="application/xhtml+xml"/>
@@ -428,6 +429,7 @@
 		<itemref idref="the-tryst.xhtml"/>
 		<itemref idref="s-o-s.xhtml"/>
 		<itemref idref="the-memory-of-beauty.xhtml"/>
+		<itemref idref="switzerland.xhtml"/>
 		<itemref idref="the-call.xhtml"/>
 		<itemref idref="the-decoy.xhtml"/>
 		<itemref idref="the-other-woman.xhtml"/>
