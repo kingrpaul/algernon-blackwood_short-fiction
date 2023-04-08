@@ -219,6 +219,10 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == clouds-and-mountains
  == tobys-birthday-presents
  == my-old-tunes
+ == traveling-light
+
+ FIRST MODERNIZE THE OTHER POEM!
+ switzerland
 
      Karma (1918) A Play?
 
@@ -235,7 +239,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit my-old-tunes"
+git commit -m "Initial commit traveling-light"
 
 === COMMIT 2 ===
 se clean .
