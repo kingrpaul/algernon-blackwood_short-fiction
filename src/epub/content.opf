@@ -88,6 +88,7 @@
 		<item href="text/a-barmecide-feast.xhtml" id="a-barmecide-feast.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-bit-of-wood.xhtml" id="a-bit-of-wood.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-case-of-eavesdropping.xhtml" id="a-case-of-eavesdropping.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-continuous-performance.xhtml" id="a-continuous-performance.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-descent-into-egypt.xhtml" id="a-descent-into-egypt.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-desert-episode.xhtml" id="a-desert-episode.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-haunted-island.xhtml" id="a-haunted-island.xhtml" media-type="application/xhtml+xml"/>
@@ -449,6 +450,7 @@
 		<itemref idref="vengeance-is-mine.xhtml"/>
 		<itemref idref="lost-in-the-alps.xhtml"/>
 		<itemref idref="tongues-of-fire.xhtml"/>
+		<itemref idref="a-continuous-performance.xhtml"/>
 		<itemref idref="picking-fir-cones.xhtml"/>
 		<itemref idref="explorers-ghost-stories.xhtml"/>
 		<itemref idref="full-circle.xhtml"/>
