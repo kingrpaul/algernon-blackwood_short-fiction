@@ -35,6 +35,7 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
 **** djin -> djinn
 **** "MY OLD TUNES" IS LIKELY TO LOSE ITS FORMATTING
 **** "INITIATION" APPEARS TO MISSINS FROM THE MANIFEST
+**** SORT OUT ARTICLES VS SECTIONS
 
  == a-haunted-island
  == a-suspicious-gift
@@ -220,9 +221,7 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == tobys-birthday-presents
  == my-old-tunes
  == traveling-light
-
- FIRST MODERNIZE THE OTHER POEM!
- switzerland
+ == switzerland
 
      Karma (1918) A Play?
 
@@ -239,7 +238,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit traveling-light"
+git commit -m "Initial commit switzerland"
 
 === COMMIT 2 ===
 se clean .
