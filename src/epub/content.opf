@@ -249,6 +249,7 @@
 		<item href="text/the-transfer.xhtml" id="the-transfer.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-trod.xhtml" id="the-trod.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-tryst.xhtml" id="the-tryst.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-unconquerable-charm-of-sussex.xhtml" id="the-unconquerable-charm-of-sussex.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-valley-of-the-beasts.xhtml" id="the-valley-of-the-beasts.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-wendigo.xhtml" id="the-wendigo.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-whisperers.xhtml" id="the-whisperers.xhtml" media-type="application/xhtml+xml"/>
@@ -377,6 +378,7 @@
 		<itemref idref="the-second-generation.xhtml"/>
 		<itemref idref="the-temptation-of-the-clay.xhtml"/>
 		<itemref idref="the-terror-of-the-twins.xhtml"/>
+		<itemref idref="the-unconquerable-charm-of-sussex.xhtml"/>
 		<itemref idref="the-whisperers.xhtml"/>
 		<itemref idref="wayfarers.xhtml"/>
 		<itemref idref="wind.xhtml"/>
