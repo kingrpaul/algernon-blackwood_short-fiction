@@ -222,8 +222,22 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == my-old-tunes
  == traveling-light
  == switzerland
+ == a-continuous-performance
 
-     Karma (1918) A Play?
+ to-the-children
+ the-unconquerable-charm-of-sussex
+ our-adventure-with-the-danube-river-police
+ algonquin-songs-and-legends
+ malahide-and-forden
+ the-boy-messenger
+ the-daisy-world
+ the-face-of-the-earth
+ the-night-wind
+ the-vanishing-redskins
+ value
+ in-a-strange-land
+ karma
+ 
 
 
 
@@ -238,7 +252,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit switzerland"
+git commit -m "Initial commit a-continuous-performance"
 
 === COMMIT 2 ===
 se clean .
