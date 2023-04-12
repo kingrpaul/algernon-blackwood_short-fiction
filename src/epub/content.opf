@@ -161,6 +161,7 @@
 		<item href="text/railway-travelling-in-the-caucasus.xhtml" id="railway-travelling-in-the-caucasus.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/running-wolf.xhtml" id="running-wolf.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/s-o-s.xhtml" id="s-o-s.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/sambo-and-snitch.xhtml" id="sambo-and-snitch.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sand.xhtml" id="sand.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/secret-worship.xhtml" id="secret-worship.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/skeleton-lake-an-episode-in-camp.xhtml" id="skeleton-lake-an-episode-in-camp.xhtml" media-type="application/xhtml+xml"/>
@@ -467,6 +468,7 @@
 		<itemref idref="tobys-birthday-presents.xhtml"/>
 		<itemref idref="the-kingdom-of-the-heavens.xhtml"/>
 		<itemref idref="jack-of-the-inkpot.xhtml"/>
+		<itemref idref="sambo-and-snitch.xhtml"/>
 		<itemref idref="spring-in-switzerland.xhtml"/>
 		<itemref idref="traveling-light.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
