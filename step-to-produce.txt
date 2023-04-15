@@ -36,6 +36,7 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
 **** "MY OLD TUNES" IS LIKELY TO LOSE ITS FORMATTING
 **** "INITIATION" APPEARS TO MISSINS FROM THE MANIFEST
 **** SORT OUT ARTICLES VS SECTIONS
+**** traveling-light? US Enlish?
 
  == a-haunted-island
  == a-suspicious-gift
@@ -223,10 +224,12 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == traveling-light
  == switzerland
  == a-continuous-performance
+ == to-the-children
+ == the-unconquerable-charm-of-sussex
+ == our-adventure-with-the-danube-river-police
 
- to-the-children
- the-unconquerable-charm-of-sussex
- our-adventure-with-the-danube-river-police
+ == sambo-and-snitch
+
  algonquin-songs-and-legends
  malahide-and-forden
  the-boy-messenger
@@ -237,9 +240,10 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  value
  in-a-strange-land
  karma
- 
 
 
+
+FIGURES + FIGURES IN RUSSIAN PILGRIMS
 
 ────────────────────────────────────── 
 
@@ -252,7 +256,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit a-continuous-performance"
+git commit -m "Initial commit sambo-and-snitch"
 
 === COMMIT 2 ===
 se clean .
@@ -339,7 +343,9 @@ Spurious period: [a-z]\.\s[a-z]
 Dubious hyphens: (-[^-]+)
 Scan Errors [a-z]U|( 1 )|\^.+|\|
 Missing punctuation [a-z]</p>
+Misplace single quot: [^“]+‘
 Quoted Statement: “[^”]+”
+
 
 ---
 Quotes: ‘ … ’  “ — ”
@@ -399,3 +405,4 @@ Tobys Birthday Presents, The Treasure Ship (ed. Cynthia Asquith) xx/xx/1926
 [epub|type~="z3998:hymn"] [epub|type~="bridgehead"]{
   text-align: justify;
 }
+
