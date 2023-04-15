@@ -141,6 +141,7 @@
 		<item href="text/jack-of-the-inkpot.xhtml" id="jack-of-the-inkpot.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/jimbos-longest-day.xhtml" id="jimbos-longest-day.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/keeping-his-promise.xhtml" id="keeping-his-promise.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/learning-to-ski.xhtml" id="learning-to-ski.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/let-not-the-sun.xhtml" id="let-not-the-sun.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/lost-in-the-alps.xhtml" id="lost-in-the-alps.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/max-hensig.xhtml" id="max-hensig.xhtml" media-type="application/xhtml+xml"/>
@@ -387,6 +388,7 @@
 		<itemref idref="wayfarers.xhtml"/>
 		<itemref idref="wind.xhtml"/>
 		<itemref idref="a-barmecide-feast.xhtml"/>
+		<itemref idref="learning-to-ski.xhtml"/>
 		<itemref idref="before-the-season.xhtml"/>
 		<itemref idref="h-s-h.xhtml"/>
 		<itemref idref="mrs-gurneys-poems.xhtml"/>
