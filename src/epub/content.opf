@@ -107,6 +107,7 @@
 		<item href="text/ancient-sorceries.xhtml" id="ancient-sorceries.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/animal-life-in-the-egyptian-desert.xhtml" id="animal-life-in-the-egyptian-desert.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/at-school-in-the-black-forest.xhtml" id="at-school-in-the-black-forest.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/before-the-season.xhtml" id="before-the-season.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/by-water.xhtml" id="by-water.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/cains-atonement.xhtml" id="cains-atonement.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/carltons-drive.xhtml" id="carltons-drive.xhtml" media-type="application/xhtml+xml"/>
@@ -386,6 +387,7 @@
 		<itemref idref="wayfarers.xhtml"/>
 		<itemref idref="wind.xhtml"/>
 		<itemref idref="a-barmecide-feast.xhtml"/>
+		<itemref idref="before-the-season.xhtml"/>
 		<itemref idref="h-s-h.xhtml"/>
 		<itemref idref="mrs-gurneys-poems.xhtml"/>
 		<itemref idref="the-israelites-track-from-red-sea-to-mount-sinai.xhtml"/>
