@@ -37,6 +37,9 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
 **** "INITIATION" APPEARS TO MISSINS FROM THE MANIFEST
 **** SORT OUT ARTICLES VS SECTIONS
 **** traveling-light? US Enlish?
+**** Many of the quotes have gotten jumbled up by UK->US? search for “ ‘
+
+
 
  == a-haunted-island
  == a-suspicious-gift
@@ -227,23 +230,28 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == to-the-children
  == the-unconquerable-charm-of-sussex
  == our-adventure-with-the-danube-river-police
-
  == sambo-and-snitch
 
- algonquin-songs-and-legends
- malahide-and-forden
- the-boy-messenger
- the-daisy-world
- the-face-of-the-earth
- the-night-wind
- the-vanishing-redskins
- value
- in-a-strange-land
- karma
+
+before-the-season
+
+learning-to-ski
+the-night-wind
+value
+algonquin-songs-and-legends
+
+
+malahide-and-forden
+the-boy-messenger
+the-daisy-world
+the-face-of-the-earth
+the-vanishing-redskins
+in-a-strange-land
+karma
 
 
 
-FIGURES + FIGURES IN RUSSIAN PILGRIMS
+
 
 ────────────────────────────────────── 
 
@@ -256,7 +264,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit sambo-and-snitch"
+git commit -m "Initial commit before-the-season"
 
 === COMMIT 2 ===
 se clean .
