@@ -279,6 +279,7 @@
 		<item href="text/wind.xhtml" id="wind.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/wireless-confusion.xhtml" id="wireless-confusion.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/with-intent-to-steal.xhtml" id="with-intent-to-steal.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/with-the-russian-pilgrims-to-jerusalem.xhtml" id="with-the-russian-pilgrims-to-jerusalem.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/you-may-telephone-from-here.xhtml" id="you-may-telephone-from-here.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
@@ -396,6 +397,7 @@
 		<itemref idref="the-kiss-of-a-psychologist.xhtml"/>
 		<itemref idref="the-tradition.xhtml"/>
 		<itemref idref="transition.xhtml"/>
+		<itemref idref="with-the-russian-pilgrims-to-jerusalem.xhtml"/>
 		<itemref idref="a-bit-of-wood.xhtml"/>
 		<itemref idref="a-descent-into-egypt.xhtml"/>
 		<itemref idref="a-desert-episode.xhtml"/>
