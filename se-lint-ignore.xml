@@ -42,12 +42,6 @@
 			<reason>dialog from the same speaker spans multiple paragraphs</reason>
 		</ignore>
 	</file>
-	<file path="the-tarn-of-sacrifice.xhtml">
-		<ignore>
-			<code>t-042</code>
-			<reason>manually reviewed, "Christian", intent of quote to mark out the word as a word</reason>
-		</ignore>
-	</file>
 	<file path="faith-cure-on-the-channel.xhtml">
 		<ignore>
 			<code>t-042</code>
@@ -58,12 +52,6 @@
 		<ignore>
 			<code>t-064</code>
 			<reason>manually reviewed, name not comprised of words, name origin unclear</reason>
-		</ignore>
-	</file>
-	<file path="old-clothes.xhtml">
-		<ignore>
-			<code>t-042</code>
-			<reason>“Philip” not intended to represent dialog</reason>
 		</ignore>
 	</file>
 	<file path="a-barmecide-feast.xhtml">
