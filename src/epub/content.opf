@@ -274,6 +274,7 @@
 		<item href="text/two-in-one.xhtml" id="two-in-one.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/up-and-down.xhtml" id="up-and-down.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/value.xhtml" id="value.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/vengeance-is-mine.xhtml" id="vengeance-is-mine.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/violence.xhtml" id="violence.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/wayfarers.xhtml" id="wayfarers.xhtml" media-type="application/xhtml+xml"/>
@@ -398,6 +399,7 @@
 		<itemref idref="the-kiss-of-a-psychologist.xhtml"/>
 		<itemref idref="the-tradition.xhtml"/>
 		<itemref idref="transition.xhtml"/>
+		<itemref idref="value.xhtml"/>
 		<itemref idref="with-the-russian-pilgrims-to-jerusalem.xhtml"/>
 		<itemref idref="a-bit-of-wood.xhtml"/>
 		<itemref idref="a-descent-into-egypt.xhtml"/>
