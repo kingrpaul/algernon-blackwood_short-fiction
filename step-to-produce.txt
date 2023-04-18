@@ -231,15 +231,16 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == the-unconquerable-charm-of-sussex
  == our-adventure-with-the-danube-river-police
  == sambo-and-snitch
+ == before-the-season
+ == learning-to-ski
+ == with-the-russian-pilgrims-to-jerusalem
+ == the-night-wind
+ == value
+
+    egypt
 
 
-before-the-season
-
-learning-to-ski
-the-night-wind
-value
 algonquin-songs-and-legends
-
 
 malahide-and-forden
 the-boy-messenger
@@ -250,7 +251,7 @@ in-a-strange-land
 karma
 
 
-
+ src/epub/text/egypt.xhtml
 
 
 ────────────────────────────────────── 
@@ -264,7 +265,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit before-the-season"
+git commit -m "Initial commit egypt"
 
 === COMMIT 2 ===
 se clean .
@@ -354,7 +355,6 @@ Missing punctuation [a-z]</p>
 Misplace single quot: [^“]+‘
 Quoted Statement: “[^”]+”
 
-
 ---
 Quotes: ‘ … ’  “ — ”
 -     hyphen  (partially-obscured years where only the last number is obscured) 
@@ -380,7 +380,6 @@ to reinitialize
 ---------------
 rm ****** -rf .git 
 git init
-
 
 https://catalog.hathitrust.org/Record/100584338
 
