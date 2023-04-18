@@ -120,6 +120,7 @@
 		<item href="text/discovering-russia-on-foot.xhtml" id="discovering-russia-on-foot.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/down-the-danube-in-a-canadian-canoe.xhtml" id="down-the-danube-in-a-canadian-canoe.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dream-trespass.xhtml" id="dream-trespass.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/egypt.xhtml" id="egypt.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/egyptian-sorcery.xhtml" id="egyptian-sorcery.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/engine.xhtml" id="engine.xhtml" media-type="application/xhtml+xml"/>
@@ -391,6 +392,7 @@
 		<itemref idref="wayfarers.xhtml"/>
 		<itemref idref="wind.xhtml"/>
 		<itemref idref="a-barmecide-feast.xhtml"/>
+		<itemref idref="egypt.xhtml"/>
 		<itemref idref="learning-to-ski.xhtml"/>
 		<itemref idref="before-the-season.xhtml"/>
 		<itemref idref="h-s-h.xhtml"/>
