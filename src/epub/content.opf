@@ -146,6 +146,7 @@
 		<item href="text/learning-to-ski.xhtml" id="learning-to-ski.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/let-not-the-sun.xhtml" id="let-not-the-sun.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/lost-in-the-alps.xhtml" id="lost-in-the-alps.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/malahide-and-forden.xhtml" id="malahide-and-forden.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/max-hensig.xhtml" id="max-hensig.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/may-day-eve.xhtml" id="may-day-eve.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/memories-of-the-black-forest.xhtml" id="memories-of-the-black-forest.xhtml" media-type="application/xhtml+xml"/>
@@ -472,6 +473,7 @@
 		<itemref idref="lost-in-the-alps.xhtml"/>
 		<itemref idref="tongues-of-fire.xhtml"/>
 		<itemref idref="a-continuous-performance.xhtml"/>
+		<itemref idref="malahide-and-forden.xhtml"/>
 		<itemref idref="picking-fir-cones.xhtml"/>
 		<itemref idref="explorers-ghost-stories.xhtml"/>
 		<itemref idref="full-circle.xhtml"/>
