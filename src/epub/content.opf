@@ -245,6 +245,7 @@
 		<item href="text/the-soldiers-visitor.xhtml" id="the-soldiers-visitor.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-soul-of-galahad.xhtml" id="the-soul-of-galahad.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-south-wind.xhtml" id="the-south-wind.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-spell-of-egypt.xhtml" id="the-spell-of-egypt.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-star.xhtml" id="the-star.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-story-mr-popkiss-told.xhtml" id="the-story-mr-popkiss-told.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-story-of-karl-ott.xhtml" id="the-story-of-karl-ott.xhtml" media-type="application/xhtml+xml"/>
@@ -477,6 +478,7 @@
 		<itemref idref="a-continuous-performance.xhtml"/>
 		<itemref idref="malahide-and-forden.xhtml"/>
 		<itemref idref="picking-fir-cones.xhtml"/>
+		<itemref idref="the-spell-of-egypt.xhtml"/>
 		<itemref idref="explorers-ghost-stories.xhtml"/>
 		<itemref idref="full-circle.xhtml"/>
 		<itemref idref="engine.xhtml"/>
