@@ -236,13 +236,11 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == with-the-russian-pilgrims-to-jerusalem
  == the-night-wind
  == value
-
-    egypt
-
-
-algonquin-songs-and-legends
+ == egypt
+ == algonquin-songs-and-legends
 
 malahide-and-forden
+
 the-boy-messenger
 the-daisy-world
 the-face-of-the-earth
@@ -251,8 +249,7 @@ in-a-strange-land
 karma
 
 
- src/epub/text/egypt.xhtml
-
+ src/epub/text/malahide-and-forden.xhtml
 
 ────────────────────────────────────── 
 
@@ -265,7 +262,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit egypt"
+git commit -m "Initial commit malahide-and-forden"
 
 === COMMIT 2 ===
 se clean .
@@ -386,7 +383,7 @@ https://catalog.hathitrust.org/Record/100584338
 INTERLIBRARY?
 Chemical, The Ghost Book (ed. Cynthia Asquith) xx/xx/1926
 Mr. Cupboard, or The Furniture’s Holiday, Number Five Joy Street xx/09/1927
-The Water Performance, Sails of Gold (ed. Cynthia Asquith) xx/xx/1927
+**** The Water Performance, Sails of Gold (ed. Cynthia Asquith) xx/xx/1927
 
 DONE
 Tongues of Fire & Other Sketches
@@ -413,3 +410,13 @@ Tobys Birthday Presents, The Treasure Ship (ed. Cynthia Asquith) xx/xx/1926
   text-align: justify;
 }
 
+
+
+
+ 
+
+
+
+ 
+ 
+ 
