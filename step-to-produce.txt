@@ -238,18 +238,18 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == value
  == egypt
  == algonquin-songs-and-legends
+ == malahide-and-forden
 
-malahide-and-forden
+in-a-strange-land
 
 the-boy-messenger
 the-daisy-world
 the-face-of-the-earth
 the-vanishing-redskins
-in-a-strange-land
+
 karma
 
-
- src/epub/text/malahide-and-forden.xhtml
+ src/epub/text/in-a-strange-land.xhtml
 
 ────────────────────────────────────── 
 
@@ -262,7 +262,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit malahide-and-forden"
+git commit -m "Initial commit in-a-strange-land"
 
 === COMMIT 2 ===
 se clean .
@@ -409,14 +409,3 @@ Tobys Birthday Presents, The Treasure Ship (ed. Cynthia Asquith) xx/xx/1926
 [epub|type~="z3998:hymn"] [epub|type~="bridgehead"]{
   text-align: justify;
 }
-
-
-
-
- 
-
-
-
- 
- 
- 
