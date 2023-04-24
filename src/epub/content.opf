@@ -107,6 +107,7 @@
 		<item href="text/ancient-lights.xhtml" id="ancient-lights.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/ancient-sorceries.xhtml" id="ancient-sorceries.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/animal-life-in-the-egyptian-desert.xhtml" id="animal-life-in-the-egyptian-desert.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/arolla-and-its-climbs.xhtml" id="arolla-and-its-climbs.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/at-school-in-the-black-forest.xhtml" id="at-school-in-the-black-forest.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/before-the-season.xhtml" id="before-the-season.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/by-water.xhtml" id="by-water.xhtml" media-type="application/xhtml+xml"/>
@@ -401,6 +402,7 @@
 		<itemref idref="wayfarers.xhtml"/>
 		<itemref idref="wind.xhtml"/>
 		<itemref idref="a-barmecide-feast.xhtml"/>
+		<itemref idref="arolla-and-its-climbs.xhtml"/>
 		<itemref idref="egypt.xhtml"/>
 		<itemref idref="learning-to-ski.xhtml"/>
 		<itemref idref="before-the-season.xhtml"/>
