@@ -66,4 +66,10 @@
 			<reason>was “we” he said (not dialog)</reason>
 		</ignore>
 	</file>
+	<file path="the-daisy-world.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>close quote in verse not followed by space</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
