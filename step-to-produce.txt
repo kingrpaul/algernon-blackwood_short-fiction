@@ -243,15 +243,17 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == the-spell-of-egypt [NOTE POSSIBLE DUPLICATION, EGYPT: AN IMPRESSION]
  == the-boy-messenger
  == the-daisy-world
+ == arolla-and-its-climbs
+ == the-blue-eyes-fairy
 
-    arolla-and-its-climbs
-
+    alexander-alexander
+    
 the-face-of-the-earth
 the-vanishing-redskins
 
 karma
 
- src/epub/text/the-daisy-world.xhtml
+ src/epub/text/the-blue-eyes-fairy.xhtml
 
 ────────────────────────────────────── 
 
@@ -264,7 +266,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-daisy-world"
+git commit -m "Initial commit the-blue-eyes-fairy"
 
 === COMMIT 2 ===
 se clean .
