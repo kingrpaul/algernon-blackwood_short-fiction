@@ -183,6 +183,7 @@
 		<item href="text/switzerland.xhtml" id="switzerland.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/testing-his-courage.xhtml" id="testing-his-courage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-attic.xhtml" id="the-attic.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-blue-eyes-fairy.xhtml" id="the-blue-eyes-fairy.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-boy-messenger.xhtml" id="the-boy-messenger.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-call.xhtml" id="the-call.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-camp-of-the-dog.xhtml" id="the-camp-of-the-dog.xhtml" media-type="application/xhtml+xml"/>
@@ -452,6 +453,7 @@
 		<itemref idref="the-soul-of-galahad.xhtml"/>
 		<itemref idref="my-old-tunes.xhtml"/>
 		<itemref idref="sleep-and-how-to-do-without-it.xhtml"/>
+		<itemref idref="the-blue-eyes-fairy.xhtml"/>
 		<itemref idref="the-exiled-gods.xhtml"/>
 		<itemref idref="the-occupant-of-the-room.xhtml"/>
 		<itemref idref="to-the-children.xhtml"/>
