@@ -93,6 +93,7 @@
 		<item href="text/a-desert-episode.xhtml" id="a-desert-episode.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-haunted-island.xhtml" id="a-haunted-island.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-holiday-down-the-danube-with-punt-and-tent.xhtml" id="a-holiday-down-the-danube-with-punt-and-tent.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-man-of-earth.xhtml" id="a-man-of-earth.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-mysterious-house.xhtml" id="a-mysterious-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-psychical-invasion.xhtml" id="a-psychical-invasion.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-suspicious-gift.xhtml" id="a-suspicious-gift.xhtml" media-type="application/xhtml+xml"/>
@@ -487,6 +488,7 @@
 		<itemref idref="lost-in-the-alps.xhtml"/>
 		<itemref idref="tongues-of-fire.xhtml"/>
 		<itemref idref="a-continuous-performance.xhtml"/>
+		<itemref idref="a-man-of-earth.xhtml"/>
 		<itemref idref="malahide-and-forden.xhtml"/>
 		<itemref idref="picking-fir-cones.xhtml"/>
 		<itemref idref="the-spell-of-egypt.xhtml"/>
