@@ -266,6 +266,7 @@
 		<item href="text/the-tryst.xhtml" id="the-tryst.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-unconquerable-charm-of-sussex.xhtml" id="the-unconquerable-charm-of-sussex.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-valley-of-the-beasts.xhtml" id="the-valley-of-the-beasts.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-water-performance.xhtml" id="the-water-performance.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-wendigo.xhtml" id="the-wendigo.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-whisperers.xhtml" id="the-whisperers.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-willows.xhtml" id="the-willows.xhtml" media-type="application/xhtml+xml"/>
@@ -500,6 +501,7 @@
 		<itemref idref="jack-of-the-inkpot.xhtml"/>
 		<itemref idref="sambo-and-snitch.xhtml"/>
 		<itemref idref="spring-in-switzerland.xhtml"/>
+		<itemref idref="the-water-performance.xhtml"/>
 		<itemref idref="traveling-light.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
