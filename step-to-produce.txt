@@ -245,15 +245,17 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == the-daisy-world
  == arolla-and-its-climbs
  == the-blue-eyes-fairy
+ == alexander-alexander
+    
 
-    alexander-alexander
+    the-water-performance
     
 the-face-of-the-earth
 the-vanishing-redskins
 
 karma
 
- src/epub/text/the-blue-eyes-fairy.xhtml
+ src/epub/text/the-water-performance.xhtml
 
 ────────────────────────────────────── 
 
@@ -266,7 +268,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-blue-eyes-fairy"
+git commit -m "Initial commit the-water-performance"
 
 === COMMIT 2 ===
 se clean .
@@ -351,9 +353,10 @@ Unopened Quote: ”[^“]+”
 Gapped Close Quote: ( ”).+
 Spurious period: [a-z]\.\s[a-z]
 Dubious hyphens: (-[^-]+)
-Scan Errors [a-z]U|( 1 )|\^.+|\|
+Scan Errors [a-z]U|( 1 )|\^.+|\||([^a-z]T[^a-z])
 Missing punctuation [a-z]</p>
 Misplace single quot: [^“]+‘
+Sequential quote marks: [‘’“”'"][‘’“”'"]
 Quoted Statement: “[^”]+”
 
 ---
@@ -413,3 +416,8 @@ Tobys Birthday Presents, The Treasure Ship (ed. Cynthia Asquith) xx/xx/1926
 [epub|type~="z3998:hymn"] [epub|type~="bridgehead"]{
   text-align: justify;
 }
+
+
+
+SHERLOCK HOLMES OF GHOSTLAND-----
+https://books.google.com/books?id=xZTPAAAAMAAJ&pg=PA380&lpg=PA380#v=onepage&q&f=false
