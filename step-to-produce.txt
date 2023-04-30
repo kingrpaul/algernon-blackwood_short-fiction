@@ -40,6 +40,8 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
 **** Many of the quotes have gotten jumbled up by UK->US? search for “ ‘
 **** "Railway Travelling in the Caucasus" seems to be included in "In a Strange Land"
 
+ADD FRONT-MATTER AND BACK-MATTER?
+
 
  == a-haunted-island
  == a-suspicious-gift
@@ -246,16 +248,15 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == arolla-and-its-climbs
  == the-blue-eyes-fairy
  == alexander-alexander
-    
-
-    the-water-performance
+ == the-water-performance
+ == a-man-of-earth
     
 the-face-of-the-earth
 the-vanishing-redskins
 
 karma
 
- src/epub/text/the-water-performance.xhtml
+ src/epub/text/a-man-of-earth.xhtml
 
 ────────────────────────────────────── 
 
@@ -268,7 +269,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-water-performance"
+git commit -m "Initial commit a-man-of-earth"
 
 === COMMIT 2 ===
 se clean .
@@ -421,3 +422,4 @@ Tobys Birthday Presents, The Treasure Ship (ed. Cynthia Asquith) xx/xx/1926
 
 SHERLOCK HOLMES OF GHOSTLAND-----
 https://books.google.com/books?id=xZTPAAAAMAAJ&pg=PA380&lpg=PA380#v=onepage&q&f=false
+https://archive.org/details/sim_current-opinion_1914-05_56_5/page/380/mode/2up
