@@ -72,4 +72,10 @@
 			<reason>close quote in verse not followed by space</reason>
 		</ignore>
 	</file>
+	<file path="a-man-of-earth.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>omit closing ” until the last paragraph of dialog</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
