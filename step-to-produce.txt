@@ -251,12 +251,15 @@ ADD FRONT-MATTER AND BACK-MATTER?
  == the-water-performance
  == a-man-of-earth
     
-the-face-of-the-earth
+    the-face-of-the-earth
+
+    REMOVE THE THE (SOURCE ERROR) ALSO patchs
+
 the-vanishing-redskins
 
 karma
 
- src/epub/text/a-man-of-earth.xhtml
+ src/epub/text/the-face-of-the-earth.xhtml
 
 ────────────────────────────────────── 
 
@@ -269,7 +272,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit a-man-of-earth"
+git commit -m "Initial commit the-face-of-the-earth"
 
 === COMMIT 2 ===
 se clean .
@@ -417,9 +420,3 @@ Tobys Birthday Presents, The Treasure Ship (ed. Cynthia Asquith) xx/xx/1926
 [epub|type~="z3998:hymn"] [epub|type~="bridgehead"]{
   text-align: justify;
 }
-
-
-
-SHERLOCK HOLMES OF GHOSTLAND-----
-https://books.google.com/books?id=xZTPAAAAMAAJ&pg=PA380&lpg=PA380#v=onepage&q&f=false
-https://archive.org/details/sim_current-opinion_1914-05_56_5/page/380/mode/2up
