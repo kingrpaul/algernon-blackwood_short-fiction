@@ -25,6 +25,9 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
 "[Editorial] lunchen→luncheon, the-pikestaffe-case"
 "[Editorial] freshness in the air a sharpness→freshness in the air⁠—a sharpness, the-pikestaffe-case"
 "[Editorial] capitalize negro, hindu, arab; the-doll"
+"patchs→patches"
+
+
 
 **** s’s
 **** recheck the dashes, include stock-still
@@ -39,6 +42,7 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
 **** traveling-light? US Enlish?
 **** Many of the quotes have gotten jumbled up by UK->US? search for “ ‘
 **** "Railway Travelling in the Caucasus" seems to be included in "In a Strange Land"
+**** Innocent Spinrobin a queer sense -> innocent Spinrobin a queer sense
 
 ADD FRONT-MATTER AND BACK-MATTER?
 
@@ -250,10 +254,9 @@ ADD FRONT-MATTER AND BACK-MATTER?
  == alexander-alexander
  == the-water-performance
  == a-man-of-earth
-    
-    the-face-of-the-earth
+ == the-face-of-the-earth
 
-    REMOVE THE THE (SOURCE ERROR) ALSO patchs
+
 
 the-vanishing-redskins
 
