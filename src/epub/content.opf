@@ -220,6 +220,7 @@
 		<item href="text/the-kit-bag.xhtml" id="the-kit-bag.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-lane-that-ran-east-and-west.xhtml" id="the-lane-that-ran-east-and-west.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-last-egg-in-the-nest.xhtml" id="the-last-egg-in-the-nest.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-laughter-of-courage.xhtml" id="the-laughter-of-courage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-laying-of-a-red-haired-ghost.xhtml" id="the-laying-of-a-red-haired-ghost.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-lease.xhtml" id="the-lease.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-listener.xhtml" id="the-listener.xhtml" media-type="application/xhtml+xml"/>
@@ -493,6 +494,7 @@
 		<itemref idref="tongues-of-fire.xhtml"/>
 		<itemref idref="a-continuous-performance.xhtml"/>
 		<itemref idref="a-man-of-earth.xhtml"/>
+		<itemref idref="the-laughter-of-courage.xhtml"/>
 		<itemref idref="malahide-and-forden.xhtml"/>
 		<itemref idref="picking-fir-cones.xhtml"/>
 		<itemref idref="the-spell-of-egypt.xhtml"/>
