@@ -255,14 +255,14 @@ ADD FRONT-MATTER AND BACK-MATTER?
  == the-water-performance
  == a-man-of-earth
  == the-face-of-the-earth
+ == the-vanishing-redskins
 
 
-
-the-vanishing-redskins
-
+the-laughter-of-courage
+the-open-window
 karma
 
- src/epub/text/the-face-of-the-earth.xhtml
+ src/epub/text/the-vanishing-redskins.xhtml
 
 ────────────────────────────────────── 
 
@@ -275,7 +275,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-face-of-the-earth"
+git commit -m "Initial commit the-vanishing-redskins"
 
 === COMMIT 2 ===
 se clean .
@@ -360,7 +360,7 @@ Unopened Quote: ”[^“]+”
 Gapped Close Quote: ( ”).+
 Spurious period: [a-z]\.\s[a-z]
 Dubious hyphens: (-[^-]+)
-Scan Errors [a-z]U|( 1 )|\^.+|\||([^a-z]T[^a-z])
+Scan Errors [a-z]U|( 1 )|\^.+|\||([^a-z]T[^a-z])|(66)
 Missing punctuation [a-z]</p>
 Misplace single quot: [^“]+‘
 Sequential quote marks: [‘’“”'"][‘’“”'"]
@@ -395,14 +395,13 @@ git init
 https://catalog.hathitrust.org/Record/100584338
 
 INTERLIBRARY?
-Chemical, The Ghost Book (ed. Cynthia Asquith) xx/xx/1926
+***  Chemical, The Ghost Book (ed. Cynthia Asquith) xx/xx/1926
 Mr. Cupboard, or The Furniture’s Holiday, Number Five Joy Street xx/09/1927
-**** The Water Performance, Sails of Gold (ed. Cynthia Asquith) xx/xx/1927
 
 DONE
 Tongues of Fire & Other Sketches
 Tobys Birthday Presents, The Treasure Ship (ed. Cynthia Asquith) xx/xx/1926
-
+The Water Performance, Sails of Gold (ed. Cynthia Asquith) xx/xx/1927
 
 
 [epub|type~="bridgehead"]{
@@ -423,3 +422,34 @@ Tobys Birthday Presents, The Treasure Ship (ed. Cynthia Asquith) xx/xx/1926
 [epub|type~="z3998:hymn"] [epub|type~="bridgehead"]{
   text-align: justify;
 }
+
+
+++++++++++++++++++++++++++++++++++++
+
+
+EPIGRAPH
+" Here is a find worth of enthusiasm. keeping," I
+said; "depend upon it, this new author, whoever he
+may be, is a genius, and if I possessed a fortune I
+would cheerfully wager every penny of it that he will
+go far, and make an unassailable position for himself
+in Literature I know that here is the real thing. For
+Heaven's sake, don't miss the book, because it will be
+a long time before you will ever meet with another
+Algernon Blackwood."
+
+MAUDE M. C. FFOULKES
+
+
+FOREWORD
+Sherlock Holmes of Ghost town!
+
+*******
+CONTENT
+*******
+
+
+AFTERWORD
+"On Fiction Writing"
+
+
