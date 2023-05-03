@@ -259,10 +259,11 @@ ADD FRONT-MATTER AND BACK-MATTER?
 
 
 the-laughter-of-courage
+
 the-open-window
 karma
 
- src/epub/text/the-vanishing-redskins.xhtml
+ src/epub/text/the-laughter-of-courage.xhtml
 
 ────────────────────────────────────── 
 
@@ -275,7 +276,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-vanishing-redskins"
+git commit -m "Initial commit the-laughter-of-courage"
 
 === COMMIT 2 ===
 se clean .
@@ -428,17 +429,10 @@ The Water Performance, Sails of Gold (ed. Cynthia Asquith) xx/xx/1927
 
 
 EPIGRAPH
-" Here is a find worth of enthusiasm. keeping," I
-said; "depend upon it, this new author, whoever he
-may be, is a genius, and if I possessed a fortune I
-would cheerfully wager every penny of it that he will
-go far, and make an unassailable position for himself
-in Literature I know that here is the real thing. For
-Heaven's sake, don't miss the book, because it will be
-a long time before you will ever meet with another
-Algernon Blackwood."
-
-MAUDE M. C. FFOULKES
+"…Algernon Blackwood was also one of the fortunate beings who,
+'on the other side of custom's thick-set hedge, are
+able to see the gleaming eyes of wild spirits.'"
+MAUDE M. C. FFOULKES, 1915
 
 
 FOREWORD
