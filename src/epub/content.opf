@@ -239,6 +239,7 @@
 		<item href="text/the-occupant-of-the-room.xhtml" id="the-occupant-of-the-room.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-old-man-of-visions.xhtml" id="the-old-man-of-visions.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-olive.xhtml" id="the-olive.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-open-window.xhtml" id="the-open-window.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-other-wing.xhtml" id="the-other-wing.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-other-woman.xhtml" id="the-other-woman.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-pikestaffe-case.xhtml" id="the-pikestaffe-case.xhtml" media-type="application/xhtml+xml"/>
@@ -497,6 +498,7 @@
 		<itemref idref="the-laughter-of-courage.xhtml"/>
 		<itemref idref="malahide-and-forden.xhtml"/>
 		<itemref idref="picking-fir-cones.xhtml"/>
+		<itemref idref="the-open-window.xhtml"/>
 		<itemref idref="the-spell-of-egypt.xhtml"/>
 		<itemref idref="explorers-ghost-stories.xhtml"/>
 		<itemref idref="full-circle.xhtml"/>
