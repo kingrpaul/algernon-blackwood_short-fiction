@@ -166,6 +166,7 @@
 		<item href="text/our-adventure-with-the-danube-river-police.xhtml" id="our-adventure-with-the-danube-river-police.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/picking-fir-cones.xhtml" id="picking-fir-cones.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/pines.xhtml" id="pines.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/playing-catch.xhtml" id="playing-catch.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/questions-and-answers.xhtml" id="questions-and-answers.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/railway-travelling-in-the-caucasus.xhtml" id="railway-travelling-in-the-caucasus.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/running-wolf.xhtml" id="running-wolf.xhtml" media-type="application/xhtml+xml"/>
@@ -498,6 +499,7 @@
 		<itemref idref="the-laughter-of-courage.xhtml"/>
 		<itemref idref="malahide-and-forden.xhtml"/>
 		<itemref idref="picking-fir-cones.xhtml"/>
+		<itemref idref="playing-catch.xhtml"/>
 		<itemref idref="the-open-window.xhtml"/>
 		<itemref idref="the-spell-of-egypt.xhtml"/>
 		<itemref idref="explorers-ghost-stories.xhtml"/>
