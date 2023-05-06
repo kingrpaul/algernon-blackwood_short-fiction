@@ -28,7 +28,6 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
 "patchs→patches"
 
 
-
 **** s’s
 **** recheck the dashes, include stock-still
 **** worth while ; for ever  ; none the less  ; in so far  ; any one; on to; who ever ; country side
@@ -43,8 +42,6 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
 **** Many of the quotes have gotten jumbled up by UK->US? search for “ ‘
 **** "Railway Travelling in the Caucasus" seems to be included in "In a Strange Land"
 **** Innocent Spinrobin a queer sense -> innocent Spinrobin a queer sense
-
-ADD FRONT-MATTER AND BACK-MATTER?
 
 
  == a-haunted-island
@@ -256,14 +253,33 @@ ADD FRONT-MATTER AND BACK-MATTER?
  == a-man-of-earth
  == the-face-of-the-earth
  == the-vanishing-redskins
+ == the-laughter-of-courage
+ == the-open-window
+ == playing-catch
+
+*** not too complicated ***
+petershin-and-mr-snide
+nephele
+
+*** complicated ***
+mr-cupboard
+chemical
+karma (1918)
+a-spiritualists-camp-in-new-england (1900)
+spread-of-the-national-anthem (1899)
+the-permanent-reality (1915)
 
 
-the-laughter-of-courage
+*** front-matter ***
+EPIGRAPH:  
+  "…Algernon Blackwood was also one of the fortunate beings who, 'on the other side of custom's thick-set hedge, are able to see the gleaming eyes of wild spirits.'" -- MAUDE M. C. FFOULKES, 1915
+FOREWORD
+"Sherlock Holmes of Ghost town!"
+*** bach-matter ***
+AFTERWORD
+"On Fiction Writing": Fiction Writers on Fiction Writing
 
-the-open-window
-karma
-
- src/epub/text/the-laughter-of-courage.xhtml
+ src/epub/text/playing-catch.xhtml
 
 ────────────────────────────────────── 
 
@@ -276,7 +292,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-laughter-of-courage"
+git commit -m "Initial commit playing-catch"
 
 === COMMIT 2 ===
 se clean .
@@ -368,7 +384,7 @@ Sequential quote marks: [‘’“”'"][‘’“”'"]
 Quoted Statement: “[^”]+”
 
 ---
-Quotes: ‘ … ’  “ — ”
+Quotes: ‘ … ’  ” — ”
 -     hyphen  (partially-obscured years where only the last number is obscured) 
 ‑     non-breaking hyphen (UNTYPOGRIFY, single letter obscured in a word)
 
@@ -424,26 +440,4 @@ The Water Performance, Sails of Gold (ed. Cynthia Asquith) xx/xx/1927
   text-align: justify;
 }
 
-
-++++++++++++++++++++++++++++++++++++
-
-
-EPIGRAPH
-"…Algernon Blackwood was also one of the fortunate beings who,
-'on the other side of custom's thick-set hedge, are
-able to see the gleaming eyes of wild spirits.'"
-MAUDE M. C. FFOULKES, 1915
-
-
-FOREWORD
-Sherlock Holmes of Ghost town!
-
-*******
-CONTENT
-*******
-
-
-AFTERWORD
-"On Fiction Writing"
-
-
+CONSOLIDATE THE DUPLICATE ITEMS ON THE PROJECT PAGE!
