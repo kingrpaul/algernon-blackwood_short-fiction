@@ -71,7 +71,7 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == a-victim-of-higher-space
  == by-water
  == the-house-of-the-past
-[[== initiation]]
+[[== initiation]]  ** duplicates 'The Exiled Gods'?
  == the-occupant-of-the-room
  == summering-in-canadian-backwoods
  == the-olive
@@ -257,8 +257,9 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == the-open-window
  == playing-catch
 
-*** not too complicated ***
 petershin-and-mr-snide
+
+*** not too complicated ***
 nephele
 
 *** complicated ***
@@ -269,17 +270,15 @@ a-spiritualists-camp-in-new-england (1900)
 spread-of-the-national-anthem (1899)
 the-permanent-reality (1915)
 
+*** other ***
+epigraph
+foreword
 
-*** front-matter ***
-EPIGRAPH:  
-  "…Algernon Blackwood was also one of the fortunate beings who, 'on the other side of custom's thick-set hedge, are able to see the gleaming eyes of wild spirits.'" -- MAUDE M. C. FFOULKES, 1915
-FOREWORD
-"Sherlock Holmes of Ghost town!"
-*** bach-matter ***
+*** back-matter ***
 AFTERWORD
 "On Fiction Writing": Fiction Writers on Fiction Writing
 
- src/epub/text/playing-catch.xhtml
+ src/epub/text/petershin-and-mr-snide.xhtml
 
 ────────────────────────────────────── 
 
@@ -292,7 +291,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit playing-catch"
+git commit -m "Initial commit petershin-and-mr-snide"
 
 === COMMIT 2 ===
 se clean .
@@ -384,7 +383,7 @@ Sequential quote marks: [‘’“”'"][‘’“”'"]
 Quoted Statement: “[^”]+”
 
 ---
-Quotes: ‘ … ’  ” — ”
+Quotes: ‘ … ’  “ — ”
 -     hyphen  (partially-obscured years where only the last number is obscured) 
 ‑     non-breaking hyphen (UNTYPOGRIFY, single letter obscured in a word)
 
@@ -441,3 +440,18 @@ The Water Performance, Sails of Gold (ed. Cynthia Asquith) xx/xx/1927
 }
 
 CONSOLIDATE THE DUPLICATE ITEMS ON THE PROJECT PAGE!
+
+
+**************
+"A Spiritualist's Camp in New England" MacMillan's Magazine, Vol 82 Iss 487 xx/05/1900
+No Source, Redirect: https://www-newspapers-com.wikipedialibrary.idm.oclc.org/image/409544331/?terms=%22Algernon%20Blackwood%22&match=1
+Archive.org: https://archive.org/details/sim_mcmillans-magazine_1900-05_82_487/page/28/mode/2up?
+====================
+"Spread of the National Anthem", The Morning Post, 02/08/1899
+https://www-newspapers-com.wikipedialibrary.idm.oclc.org/image/409623814/?terms=%22Algernon%20Blackwood%22&match=1
+====================
+"The Permanent Reality", The Birmingham Daily Post, 23/11/1915
+https://www-newspapers-com.wikipedialibrary.idm.oclc.org/image/784254947/?terms=by%20Algernon%20Blackwood&match=1
+The Liverpool Daily Post and Liverpool Mercury
+https://www-newspapers-com.wikipedialibrary.idm.oclc.org/image/797561029/?terms=by%20Algernon%20Blackwood&match=1
+

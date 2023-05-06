@@ -78,4 +78,12 @@
 			<reason>omit closing ” until the last paragraph of dialog</reason>
 		</ignore>
 	</file>
+	<file path="petershin-and-mr-snide.xhtml">
+		<ignore>
+			<code>t-005</code>
+			<reason>dialog ended without a comma by the author</reason>
+		</ignore>
+	</file>
+
+
 </se-lint-ignore>
