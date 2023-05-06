@@ -256,19 +256,18 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == the-laughter-of-courage
  == the-open-window
  == playing-catch
+ == petershin-and-mr-snide
 
-petershin-and-mr-snide
-
-*** not too complicated ***
 nephele
 
 *** complicated ***
-mr-cupboard
-chemical
-karma (1918)
 a-spiritualists-camp-in-new-england (1900)
 spread-of-the-national-anthem (1899)
 the-permanent-reality (1915)
+karma (1918)
+
+mr-cupboard
+chemical
 
 *** other ***
 epigraph
@@ -278,7 +277,7 @@ foreword
 AFTERWORD
 "On Fiction Writing": Fiction Writers on Fiction Writing
 
- src/epub/text/petershin-and-mr-snide.xhtml
+ src/epub/text/nephele.xhtml
 
 ────────────────────────────────────── 
 
@@ -291,7 +290,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit petershin-and-mr-snide"
+git commit -m "Initial commit nephele"
 
 === COMMIT 2 ===
 se clean .
