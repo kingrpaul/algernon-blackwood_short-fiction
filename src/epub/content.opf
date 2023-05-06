@@ -164,6 +164,7 @@
 		<item href="text/on-wings.xhtml" id="on-wings.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/onanonanon.xhtml" id="onanonanon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/our-adventure-with-the-danube-river-police.xhtml" id="our-adventure-with-the-danube-river-police.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/petershin-and-mr-snide.xhtml" id="petershin-and-mr-snide.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/picking-fir-cones.xhtml" id="picking-fir-cones.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/pines.xhtml" id="pines.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/playing-catch.xhtml" id="playing-catch.xhtml" media-type="application/xhtml+xml"/>
@@ -498,6 +499,7 @@
 		<itemref idref="a-man-of-earth.xhtml"/>
 		<itemref idref="the-laughter-of-courage.xhtml"/>
 		<itemref idref="malahide-and-forden.xhtml"/>
+		<itemref idref="petershin-and-mr-snide.xhtml"/>
 		<itemref idref="picking-fir-cones.xhtml"/>
 		<itemref idref="playing-catch.xhtml"/>
 		<itemref idref="the-open-window.xhtml"/>
