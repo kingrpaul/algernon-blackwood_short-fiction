@@ -260,12 +260,13 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == petershin-and-mr-snide
  == nephele
 
+ a-spiritualist-camp-in-new-england
+
 *** complicated ***
-a-spiritualists-camp-in-new-england (1900)
-spread-of-the-national-anthem (1899)
-the-permanent-reality (1915)
 karma (1918)
 
+spread-of-the-national-anthem (1899)
+the-permanent-reality (1915)
 mr-cupboard
 chemical
 
@@ -274,11 +275,9 @@ epigraph
 foreword
 
 *** back-matter ***
-AFTERWORD
-"On Fiction Writing": Fiction Writers on Fiction Writing
+afterword: "Fiction Writers on Fiction Writing"
 
- src/epub/text/nephele.xhtml
-
+src/epub/text/a-spiritualist-camp-in-new-england.xhtml
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
@@ -290,7 +289,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit nephele"
+git commit -m "Initial commit a-spiritualist-camp-in-new-england"
 
 === COMMIT 2 ===
 se clean .
