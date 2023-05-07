@@ -36,7 +36,7 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
 **** editorial apostrophe in jimbo <p>“And is getting ready,” I added, “for its coming.”</p>
 **** djin -> djinn
 **** "MY OLD TUNES" IS LIKELY TO LOSE ITS FORMATTING
-**** "INITIATION" APPEARS TO MISSINS FROM THE MANIFEST
+**** "INITIATION" APPEARS TO BE MISSING FROM THE MANIFEST
 **** SORT OUT ARTICLES VS SECTIONS
 **** traveling-light? US Enlish?
 **** Many of the quotes have gotten jumbled up by UK->US? search for “ ‘
@@ -258,7 +258,7 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == playing-catch
  == petershin-and-mr-snide
 
-nephele
+nephele  [[otgether]] flaw in original
 
 *** complicated ***
 a-spiritualists-camp-in-new-england (1900)
@@ -442,7 +442,7 @@ CONSOLIDATE THE DUPLICATE ITEMS ON THE PROJECT PAGE!
 
 
 **************
-"A Spiritualist's Camp in New England" MacMillan's Magazine, Vol 82 Iss 487 xx/05/1900
+"A Spiritualist Camp in New England" MacMillan's Magazine, Vol 82 Iss 487 xx/05/1900
 No Source, Redirect: https://www-newspapers-com.wikipedialibrary.idm.oclc.org/image/409544331/?terms=%22Algernon%20Blackwood%22&match=1
 Archive.org: https://archive.org/details/sim_mcmillans-magazine_1900-05_82_487/page/28/mode/2up?
 ====================
@@ -454,3 +454,6 @@ https://www-newspapers-com.wikipedialibrary.idm.oclc.org/image/784254947/?terms=
 The Liverpool Daily Post and Liverpool Mercury
 https://www-newspapers-com.wikipedialibrary.idm.oclc.org/image/797561029/?terms=by%20Algernon%20Blackwood&match=1
 
+
+
+3 New Items: www.britishnewspaperarchive.co.uk
