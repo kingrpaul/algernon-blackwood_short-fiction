@@ -259,12 +259,11 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == playing-catch
  == petershin-and-mr-snide
  == nephele
+ == a-spiritualist-camp-in-new-england
 
- a-spiritualist-camp-in-new-england
+karma
 
 *** complicated ***
-karma (1918)
-
 spread-of-the-national-anthem (1899)
 the-permanent-reality (1915)
 mr-cupboard
@@ -277,11 +276,11 @@ foreword
 *** back-matter ***
 afterword: "Fiction Writers on Fiction Writing"
 
-src/epub/text/a-spiritualist-camp-in-new-england.xhtml
+src/epub/text/karma.xhtml
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
-wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/files/43816/43816-h/43816-h.htm"
+wget -O src/epub/text/body.xhtml "https://www.gutenberg.org/cache/epub/55611/pg55611-images.html"
 file -bi src/epub/text/body.xhtml
 perl -pi -e 's|<h2|<!--se:split--><h2|g' src/epub/text/body.xhtml
 se split-file src/epub/text/body.xhtml
@@ -289,7 +288,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit a-spiritualist-camp-in-new-england"
+git commit -m "Initial commit karma"
 
 === COMMIT 2 ===
 se clean .
