@@ -333,10 +333,14 @@ git commit -am "Semanticate"
 
 === COMMIT 10 ==
 * Check bad semantics: (([A-Z’]{2,}))|(([A-Z]\.(\s?[A-Z]\.)*))|((a\.m\.)|(p\.m\.))
-
-[[[[[[[* Check foreign language, poetry, times, letters]]]]]]]
-
+Check foreign language, poetry, times, letters
 git commit -am "Manually add additional semantics"
+
+
+
+
+HERE!
+
 
 === COMMIT 11 ===
 se modernize-spelling .
@@ -451,3 +455,4 @@ The Liverpool Daily Post and Liverpool Mercury
 https://www-newspapers-com.wikipedialibrary.idm.oclc.org/image/797561029/?terms=by%20Algernon%20Blackwood&match=1
 
 3 New Items: www.britishnewspaperarchive.co.uk
+
