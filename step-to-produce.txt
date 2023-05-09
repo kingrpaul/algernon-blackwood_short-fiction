@@ -333,7 +333,9 @@ git commit -am "Semanticate"
 
 === COMMIT 10 ==
 * Check bad semantics: (([A-Z’]{2,}))|(([A-Z]\.(\s?[A-Z]\.)*))|((a\.m\.)|(p\.m\.))
-* Check foreign language, poetry, times, letters
+
+[[[[[[[* Check foreign language, poetry, times, letters]]]]]]]
+
 git commit -am "Manually add additional semantics"
 
 === COMMIT 11 ===
