@@ -261,7 +261,7 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == nephele
  == a-spiritualist-camp-in-new-england
 
-karma
+karma [[STRUCTURE OF DRAMATIS PERSONAE]] nephele john silence romance egypt greece italy england
 
 *** complicated ***
 spread-of-the-national-anthem (1899)
@@ -335,12 +335,6 @@ git commit -am "Semanticate"
 * Check bad semantics: (([A-Z’]{2,}))|(([A-Z]\.(\s?[A-Z]\.)*))|((a\.m\.)|(p\.m\.))
 Check foreign language, poetry, times, letters
 git commit -am "Manually add additional semantics"
-
-
-
-
-HERE!
-
 
 === COMMIT 11 ===
 se modernize-spelling .
@@ -456,3 +450,11 @@ https://www-newspapers-com.wikipedialibrary.idm.oclc.org/image/797561029/?terms=
 
 3 New Items: www.britishnewspaperarchive.co.uk
 
+
+
+
+<header>
+  <h3><span epub:type="label">Act</span> <span epub:type="ordinal z3998:roman">I</span></h3>
+  <h4 epub:type="title">Their First Life Together</h4>
+  <p epub:type="bridgehead">Time⁠—2000 <abbr epub:type="se:era">BC</abbr>, Egypt</p>
+</header>
