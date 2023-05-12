@@ -13,6 +13,10 @@ q i{
 	text-indent: 0;
 }
 
+[epub|type~="bridgehead"] i{
+	font-style: normal;
+}
+
 q{
 	font-style: italic;
 }
@@ -307,6 +311,8 @@ tr.together td + td{
 	font-style: italic;
 	margin: 1em;
 }
+
+
 
 /* CUSTOM */
 [epub|type~="z3998:dramatis-personae"] ul header p {
