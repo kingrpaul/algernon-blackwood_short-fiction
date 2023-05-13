@@ -13,6 +13,10 @@ q i{
 	text-indent: 0;
 }
 
+[epub|type~="bridgehead"] i{
+	font-style: normal;
+}
+
 q{
 	font-style: italic;
 }
@@ -373,4 +377,8 @@ section[epub|type~="epigraph"] > *{
 [epub|type~="z3998:dramatis-personae"] ul header p{
 	font-size: 1.1em;
 	font-variant: small-caps;
+}
+
+#afterword > ol {
+	list-style-type: upper-roman;
 }
