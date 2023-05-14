@@ -264,14 +264,13 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == (epigraph)
  == (foreword) 
  == (halftitlepage)
+ == (afterword)
+ == spread-of-the-national-anthem
 
-afterword
-spread-of-the-national-anthem
+the-permanent-reality
+
 
 *** ready to add ***
-the-permanent-reality (1915)
-
-
 *** not ready to add ***
 think-victory
 after-the-war
@@ -282,7 +281,7 @@ mr-cupboard
 chemical
 
 
-src/epub/text/afterword.xhtml
+src/epub/text/the-permanent-reality.xhtml
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
@@ -294,7 +293,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit afterword"
+git commit -m "Initial commit the-permanent-reality"
 
 === COMMIT 2 ===
 se clean .
