@@ -186,6 +186,7 @@
 		<item href="text/sleep-and-how-to-do-without-it.xhtml" id="sleep-and-how-to-do-without-it.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/smith-an-episode-in-a-lodging-house.xhtml" id="smith-an-episode-in-a-lodging-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/special-delivery.xhtml" id="special-delivery.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spread-of-the-national-anthem.xhtml" id="spread-of-the-national-anthem.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/spring-and-the-mountaineer.xhtml" id="spring-and-the-mountaineer.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/spring-in-switzerland.xhtml" id="spring-in-switzerland.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/strange-disappearance-of-a-baronet.xhtml" id="strange-disappearance-of-a-baronet.xhtml" media-type="application/xhtml+xml"/>
@@ -323,6 +324,7 @@
 		<itemref idref="in-the-jura-neuchatel.xhtml"/>
 		<itemref idref="the-story-of-karl-ott.xhtml"/>
 		<itemref idref="a-haunted-island.xhtml"/>
+		<itemref idref="spread-of-the-national-anthem.xhtml"/>
 		<itemref idref="a-case-of-eavesdropping.xhtml"/>
 		<itemref idref="a-spiritualist-camp-in-new-england.xhtml"/>
 		<itemref idref="in-hungary-with-tent-and-canoe.xhtml"/>
