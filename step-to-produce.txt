@@ -28,7 +28,6 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
 "patchs→patches"
 "otgether→together"
 
-
 **** s’s
 **** recheck the dashes, include stock-still
 **** worth while ; for ever  ; none the less  ; in so far  ; any one; on to; who ever ; country side
@@ -43,7 +42,6 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
 **** Many of the quotes have gotten jumbled up by UK->US? search for “ ‘
 **** "Railway Travelling in the Caucasus" seems to be included in "In a Strange Land"
 **** Innocent Spinrobin a queer sense -> innocent Spinrobin a queer sense
-
 
  == a-haunted-island
  == a-suspicious-gift
@@ -72,7 +70,6 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == a-victim-of-higher-space
  == by-water
  == the-house-of-the-past
-[[== initiation]]  ** duplicates 'The Exiled Gods'?
  == the-occupant-of-the-room
  == summering-in-canadian-backwoods
  == the-olive
@@ -145,7 +142,7 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == picking-fir-cones
  == egyptian-sorcery
  == special-delivery
- == the-strange-experience-of-the-rev-phillip-ambleside ** REPUBLISHED AS 'PERSPECTIVE'
+ == the-strange-experience-of-the-rev-phillip-ambleside
  == the-tarn-of-sacrifice
  == a-mysterious-house
  == the-lost-valley
@@ -164,7 +161,6 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == spring-in-switzerland
  == the-memory-of-beauty
  == the-listener
- == railway-traveling-in-the-caucasus
  == lost-in-the-alps
  == the-regeneration-of-lord-ernie
  == how-garnier-broke-the-log-jam
@@ -195,7 +191,7 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == imagination
  == the-secret
  == the-soldiers-visitor
- == the-exiled-gods [republished (edited) as 'Initiation']
+ == the-exiled-gods
  == the-winter-alps
  == jimbos-longest-day
  == wind
@@ -243,8 +239,7 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == egypt
  == algonquin-songs-and-legends
  == malahide-and-forden
- == in-a-strange-land  {NOTE DUPLICATION}
- == the-spell-of-egypt [NOTE POSSIBLE DUPLICATION, EGYPT: AN IMPRESSION]
+  == the-spell-of-egypt
  == the-boy-messenger
  == the-daisy-world
  == arolla-and-its-climbs
@@ -267,9 +262,7 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == (afterword)
  == spread-of-the-national-anthem
  == the-permanent-reality
- == 
-     after-the-war
-
+ == after-the-war
 
 *** ready to add ***
 think-victory
@@ -280,7 +273,6 @@ the-lock-of-grey-hair
 *** seeking book ***
 mr-cupboard
 chemical
-
 
 src/epub/text/after-the-war.xhtml
 ────────────────────────────────────── 
@@ -411,8 +403,6 @@ to reinitialize
 rm ****** -rf .git 
 git init
 
-https://catalog.hathitrust.org/Record/100584338
-
 INTERLIBRARY - PENDING
 Mr. Cupboard, or The Furniture’s Holiday, Number Five Joy Street xx/09/1927
 Tongues of Fire: Extended Edition 
@@ -424,5 +414,3 @@ The Water Performance, Sails of Gold (ed. Cynthia Asquith) xx/xx/1927
 
 INTERLIBRARY - FAILED
 Chemical, The Ghost Book (ed. Cynthia Asquith) xx/xx/1926
-
-CONSOLIDATE THE DUPLICATE ITEMS ON THE PROJECT PAGE!
