@@ -266,14 +266,15 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == (halftitlepage)
  == (afterword)
  == spread-of-the-national-anthem
-
-the-permanent-reality
+ == the-permanent-reality
+ == 
+     after-the-war
 
 
 *** ready to add ***
-*** not ready to add ***
 think-victory
-after-the-war
+
+*** not ready to add ***
 the-lock-of-grey-hair
 
 *** seeking book ***
@@ -281,7 +282,7 @@ mr-cupboard
 chemical
 
 
-src/epub/text/the-permanent-reality.xhtml
+src/epub/text/after-the-war.xhtml
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
@@ -293,7 +294,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit the-permanent-reality"
+git commit -m "Initial commit after-the-war"
 
 === COMMIT 2 ===
 se clean .
@@ -412,19 +413,16 @@ git init
 
 https://catalog.hathitrust.org/Record/100584338
 
-INTERLIBRARY?
-***  Chemical, The Ghost Book (ed. Cynthia Asquith) xx/xx/1926
+INTERLIBRARY - PENDING
 Mr. Cupboard, or The Furniture’s Holiday, Number Five Joy Street xx/09/1927
+Tongues of Fire: Extended Edition 
 
-DONE
+INTERLIBRARY - DONE
 Tongues of Fire & Other Sketches
 Tobys Birthday Presents, The Treasure Ship (ed. Cynthia Asquith) xx/xx/1926
 The Water Performance, Sails of Gold (ed. Cynthia Asquith) xx/xx/1927
 
+INTERLIBRARY - FAILED
+Chemical, The Ghost Book (ed. Cynthia Asquith) xx/xx/1926
 
 CONSOLIDATE THE DUPLICATE ITEMS ON THE PROJECT PAGE!
-
-====================
-"The Permanent Reality", The Birmingham Daily Post, 23/11/1915
-https://www-newspapers-com.wikipedialibrary.idm.oclc.org/image/784254947/?terms=by%20Algernon%20Blackwood&match=1
-
