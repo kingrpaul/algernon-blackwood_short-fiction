@@ -31,8 +31,18 @@
 		<dc:subject id="subject-1">Horror tales</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85062084</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Adventure</meta>
+		<meta property="se:subject">Children’s</meta>
+		<meta property="se:subject">Comedy</meta>
+		<meta property="se:subject">Drama</meta>
+		<meta property="se:subject">Fantasy</meta>
+		<meta property="se:subject">Horror</meta>
+		<meta property="se:subject">Nonfiction</meta>
+		<meta property="se:subject">Poetry</meta>
+		<meta property="se:subject">Shorts</meta>
+		<meta property="se:subject">Spirituality</meta>		
+		<meta property="se:subject">Travel</meta>		
+		<dc:description id="description">Algernon Blackwood was a prolific, popular, and influential writer, often associated with “weird fiction,” but whose works span an array of genres, subjects, and forms.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
@@ -68,9 +78,9 @@
 		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-4">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Paul King</dc:contributor>
+		<meta property="file-as" refines="#producer-1">King, Paul</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://kingrpaul.github.io/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
