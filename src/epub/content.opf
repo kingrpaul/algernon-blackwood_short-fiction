@@ -40,8 +40,8 @@
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Poetry</meta>
 		<meta property="se:subject">Shorts</meta>
-		<meta property="se:subject">Spirituality</meta>		
-		<meta property="se:subject">Travel</meta>		
+		<meta property="se:subject">Spirituality</meta>
+		<meta property="se:subject">Travel</meta>
 		<dc:description id="description">Algernon Blackwood was a prolific, popular, and influential writer, often associated with “weird fiction,” but whose works span an array of genres, subjects, and forms.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
@@ -113,6 +113,7 @@
 		<item href="text/about-moose-and-moose-hunting.xhtml" id="about-moose-and-moose-hunting.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/about-the-moravians.xhtml" id="about-the-moravians.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/accessory-before-the-fact.xhtml" id="accessory-before-the-fact.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/after-the-war.xhtml" id="after-the-war.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/afterword.xhtml" id="afterword.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/alexander-alexander.xhtml" id="alexander-alexander.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/algonquin-songs-and-legends.xhtml" id="algonquin-songs-and-legends.xhtml" media-type="application/xhtml+xml"/>
@@ -482,6 +483,7 @@
 		<itemref idref="the-winter-alps.xhtml"/>
 		<itemref idref="up-and-down.xhtml"/>
 		<itemref idref="violence.xhtml"/>
+		<itemref idref="after-the-war.xhtml"/>
 		<itemref idref="cains-atonement.xhtml"/>
 		<itemref idref="the-country-life-anthology-of-verse.xhtml"/>
 		<itemref idref="the-other-wing.xhtml"/>
