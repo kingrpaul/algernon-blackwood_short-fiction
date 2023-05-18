@@ -187,7 +187,6 @@
 		<item href="text/pines.xhtml" id="pines.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/playing-catch.xhtml" id="playing-catch.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/questions-and-answers.xhtml" id="questions-and-answers.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/railway-travelling-in-the-caucasus.xhtml" id="railway-travelling-in-the-caucasus.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/running-wolf.xhtml" id="running-wolf.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/s-o-s.xhtml" id="s-o-s.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sambo-and-snitch.xhtml" id="sambo-and-snitch.xhtml" media-type="application/xhtml+xml"/>
@@ -303,6 +302,7 @@
 		<item href="text/the-womans-ghost-story.xhtml" id="the-womans-ghost-story.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-wood-of-the-dead.xhtml" id="the-wood-of-the-dead.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-world-dream-of-mccallister.xhtml" id="the-world-dream-of-mccallister.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/think-victory.xhtml" id="think-victory.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/to-the-children.xhtml" id="to-the-children.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/tobys-birthday-presents.xhtml" id="tobys-birthday-presents.xhtml" media-type="application/xhtml+xml"/>
@@ -489,6 +489,7 @@
 		<itemref idref="the-other-wing.xhtml"/>
 		<itemref idref="the-permanent-reality.xhtml"/>
 		<itemref idref="the-soul-of-galahad.xhtml"/>
+		<itemref idref="think-victory.xhtml"/>
 		<itemref idref="my-old-tunes.xhtml"/>
 		<itemref idref="sleep-and-how-to-do-without-it.xhtml"/>
 		<itemref idref="the-blue-eyes-fairy.xhtml"/>
