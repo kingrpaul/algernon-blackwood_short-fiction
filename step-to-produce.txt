@@ -27,6 +27,7 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
 "[Editorial] capitalize negro, hindu, arab; the-doll"
 "patchs→patches"
 "otgether→together"
+"<section>→<article>"
 
 **** s’s
 **** recheck the dashes, include stock-still
@@ -35,12 +36,8 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
 **** verify the spine sequence
 **** editorial apostrophe in jimbo <p>“And is getting ready,” I added, “for its coming.”</p>
 **** djin -> djinn
-**** "MY OLD TUNES" IS LIKELY TO LOSE ITS FORMATTING
-**** "INITIATION" APPEARS TO BE MISSING FROM THE MANIFEST
-**** SORT OUT ARTICLES VS SECTIONS
 **** traveling-light? US Enlish?
 **** Many of the quotes have gotten jumbled up by UK->US? search for “ ‘
-**** "Railway Travelling in the Caucasus" seems to be included in "In a Strange Land"
 **** Innocent Spinrobin a queer sense -> innocent Spinrobin a queer sense
 
  == a-haunted-island
@@ -263,9 +260,7 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
  == spread-of-the-national-anthem
  == the-permanent-reality
  == after-the-war
-
-*** ready to add ***
-think-victory
+ == think-victory
 
 *** not ready to add ***
 the-lock-of-grey-hair
@@ -274,7 +269,10 @@ the-lock-of-grey-hair
 mr-cupboard
 chemical
 
-src/epub/text/after-the-war.xhtml
+src/epub/text/think-victory.xhtml
+
+
+"From the Swiss Lakes" is missing
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
@@ -286,7 +284,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit after-the-war"
+git commit -m "Initial commit think-victory"
 
 === COMMIT 2 ===
 se clean .
@@ -414,3 +412,34 @@ The Water Performance, Sails of Gold (ed. Cynthia Asquith) xx/xx/1927
 
 INTERLIBRARY - FAILED
 Chemical, The Ghost Book (ed. Cynthia Asquith) xx/xx/1926
+
+
+
+<span class="body-type">#fiction</span>
+<span class="body-type">#fiction-assumed</span>
+<span class="body-type">#non-fiction</span>
+<span class="body-type">#verse</span>
+
+NEED TO FIX THESE ON THE ACTUAL STORIES!
+AFTER FINISHING THE VALUES ON THE PROJECT PAGE!
+
+z3998:
+
+z3998:fiction
+  se:short-story
+  z3998:drama
+  se:play
+
+z3998:non-fiction
+  z3998:article
+  z3998:essay
+
+z3998:verse
+  z3998:poem
+  z3998:song
+  z3998:hymn
+  z3998:lyrics
+
+review
+
+
