@@ -379,6 +379,6 @@ section[epub|type~="epigraph"] > *{
 	font-variant: small-caps;
 }
 
-#afterword > ol {
+#afterword > ol{
 	list-style-type: upper-roman;
 }

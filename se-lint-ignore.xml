@@ -90,7 +90,4 @@
 			<reason>stage instruction lower case as it forms part of the preceding sentence</reason>
 		</ignore>
 	</file>
-
-
-
 </se-lint-ignore>
