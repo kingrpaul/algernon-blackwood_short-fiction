@@ -56,11 +56,19 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/algernon-blackwood_short-fiction</meta>
 		<dc:creator id="author">Algernon Blackwood</dc:creator>
 		<meta property="file-as" refines="#author">Blackwood, Algernon</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Algernon Henry Blackwood</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Algernon_Blackwood</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50008491</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="se:role" refines="#author" scheme="marc:relators">aft</meta>
+		<dc:contributor id="writer-of-afterword">Arthur Hoffman</dc:contributor>
+		<meta property="file-as" refines="#writer-of-afterword">Hoffman, Arthur</meta>
+		<meta property="display-seq">0</meta>
+		<meta property="se:name.person.full-name" refines="#writer-of-afterword">Arthur Sullivant Hoffman</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#writer-of-afterword">https://en.wikipedia.org/wiki/Arthur_Sullivant_Hoffman</meta>
+		<meta property="se:url.authority.nacoaf" refines="#writer-of-afterword">http://id.loc.gov/authorities/names/nr91043812</meta>
+		<meta property="se:role" refines="#writer-of-afterword" scheme="marc:relators">aft</meta>
 		<dc:contributor id="artist">Théodore Rousseau</dc:contributor>
 		<meta property="file-as" refines="#artist">Rousseau, Théodore</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Th%C3%A9odore_Rousseau</meta>
