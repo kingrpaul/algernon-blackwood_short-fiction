@@ -1,11 +1,3 @@
-COVER ART?
-https://archive.org/details/sim_illustrated-london-news_1925-07-25_167_4501/page/n31/mode/2up?q=%22Algernon+Blackwood%22
-https://archive.org/details/sim_pall-mall-magazine_1914-05_51_253/page/576/mode/2up?q=%22Algernon+Blackwood%22
-https://archive.org/details/sim_bookman-a-review-of-books-and-life_1914-04_39_2/page/122/mode/2up?q=%22Algernon+Blackwood%22
-
-se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10897
-* Exclude Files: toc.*, colo*, impr*, uncopy*,*.opf,title*,*.md,*.svg,*.css,*.xml
-
 "[Editorial] Correct mismatched dashes re-crossed→recrossed, smith-an-episode-in-a-lodging-house"
 "[Editorial] Correct mismatched dashes spring-tide→springtide, the-man-whom-the-trees-loved"
 "[Editorial] mass→Mass, Government→government canoeers→canoers Obermarchsthal→Obermarchtal Wiener_Wald→Wienerwald gipsy→gypsy to_morrow→tomorrow half_way→halfway well_nigh→well-nigh; down-the-danube-in-a-canadian-canoe"
@@ -28,9 +20,11 @@ se create-draft --author="Algernon Blackwood" --title="Short Fiction" --pg-id=10
 "patchs→patches"
 "otgether→together"
 "<section>→<article>"
+"<body> epub type as fiction, non-fiction or verse"
+"set article epub type, all"
+
 
 **** s’s
-**** recheck the dashes, include stock-still
 **** worth while ; for ever  ; none the less  ; in so far  ; any one; on to; who ever ; country side
 **** everywhere: <span epub:type="z3998:roman">X</span> where it is not Latin
 **** verify the spine sequence
@@ -380,7 +374,7 @@ Quotes: ‘ … ’  “ — ”
 -     hyphen  (partially-obscured years where only the last number is obscured) 
 ‑     non-breaking hyphen (UNTYPOGRIFY, single letter obscured in a word)
 
-⁠— em dash (parenthetical phrases, partially-obscured words, totally-obscured days of the month)
+⁠—⁠ em dash (parenthetical phrases, partially-obscured words, totally-obscured days of the month)
 ⸺  2em dash (partially obscured words)
 ⸻ 3em dash (completely obscured words)
 ---
@@ -389,17 +383,9 @@ se build --output-dir=$HOME/dist/ --kindle .
 git commit -am "Proofread"
 
 git diff -U0 --word-diff-regex=.
-
 ============
 
 se build --check-only . > build-check.txt
-
-============
-
-to reinitialize 
----------------
-rm ****** -rf .git 
-git init
 
 INTERLIBRARY - PENDING
 Mr. Cupboard, or The Furniture’s Holiday, Number Five Joy Street xx/09/1927
@@ -415,31 +401,75 @@ Chemical, The Ghost Book (ed. Cynthia Asquith) xx/xx/1926
 
 
 
-<span class="body-type">#fiction</span>
-<span class="body-type">#fiction-assumed</span>
-<span class="body-type">#non-fiction</span>
-<span class="body-type">#verse</span>
 
-NEED TO FIX THESE ON THE ACTUAL STORIES!
-AFTER FINISHING THE VALUES ON THE PROJECT PAGE!
-
-z3998:
-
-z3998:fiction
-  se:short-story
-  z3998:drama
-  se:play
-
-z3998:non-fiction
-  z3998:article
-  z3998:essay
-
-z3998:verse
-  z3998:poem
-  z3998:song
-  z3998:hymn
-  z3998:lyrics
-
-review
+<dc:contributor id="writer-of-afterword">Arthur Hoffman</dc:contributor>
+<meta property="file-as" refines="#writer-of-afterword">Hoffman, Arthur</meta>
+<meta property="display-seq">0</meta>
+<meta property="se:name.person.full-name" refines="#writer-of-afterword">Arthur Sullivant Hoffman</meta>
+<meta property="se:url.encyclopedia.wikipedia" refines="#writer-of-afterword">https://en.wikipedia.org/wiki/Arthur_Sullivant_Hoffman</meta>
+<meta property="se:url.authority.nacoaf" refines="#writer-of-afterword">http://id.loc.gov/authorities/names/nr91043812</meta>
+<meta property="se:role" refines="#writer-of-afterword" scheme="marc:relators">aft</meta>
+writer-of-epigraph
+Maude M. C. Ffoulkes
+Maude Mary Chester Ffoulkes
+https://en.wikipedia.org/wiki/Maude_M_C_Ffoulkes
+https://id.loc.gov/authorities/names/n2009019001.html
 
 
+<dc:contributor id="writer-of-afterword">Arthur Hoffman</dc:contributor>
+<meta property="file-as" refines="#writer-of-afterword">Hoffman, Arthur</meta>
+<meta property="display-seq">0</meta>
+<meta property="se:name.person.full-name" refines="#writer-of-afterword">Arthur Sullivant Hoffman</meta>
+<meta property="se:url.encyclopedia.wikipedia" refines="#writer-of-afterword">https://en.wikipedia.org/wiki/Arthur_Sullivant_Hoffman</meta>
+<meta property="se:url.authority.nacoaf" refines="#writer-of-afterword">http://id.loc.gov/authorities/names/nr91043812</meta>
+<meta property="se:role" refines="#writer-of-afterword" scheme="marc:relators">aft</meta>
+writer-of-forward
+<b>Anonymous</b>
+https://en.wikipedia.org/wiki/Current_Literature
+https://catalog.loc.gov/vwebv/holdingsInfo?searchId=16381&recCount=25&recPointer=31&bibId=11136473
+
+
+<dc:contributor id="writer-of-afterword">Arthur Hoffman</dc:contributor>
+<meta property="file-as" refines="#writer-of-afterword">Hoffman, Arthur</meta>
+<meta property="display-seq">0</meta>
+<meta property="se:name.person.full-name" refines="#writer-of-afterword">Arthur Sullivant Hoffman</meta>
+<meta property="se:url.encyclopedia.wikipedia" refines="#writer-of-afterword">https://en.wikipedia.org/wiki/Arthur_Sullivant_Hoffman</meta>
+<meta property="se:url.authority.nacoaf" refines="#writer-of-afterword">http://id.loc.gov/authorities/names/nr91043812</meta>
+<meta property="se:role" refines="#writer-of-afterword" scheme="marc:relators">aft</meta>
+contributor-karma
+Violet Pearn
+Violet Alice Pearn
+https://en.wikipedia.org/wiki/Violet_Pearn
+https://id.loc.gov/authorities/names/nr96038292.html
+
+
+<dc:contributor id="writer-of-afterword">Arthur Hoffman</dc:contributor>
+<meta property="file-as" refines="#writer-of-afterword">Hoffman, Arthur</meta>
+<meta property="display-seq">0</meta>
+<meta property="se:name.person.full-name" refines="#writer-of-afterword">Arthur Sullivant Hoffman</meta>
+<meta property="se:url.encyclopedia.wikipedia" refines="#writer-of-afterword">https://en.wikipedia.org/wiki/Arthur_Sullivant_Hoffman</meta>
+<meta property="se:url.authority.nacoaf" refines="#writer-of-afterword">http://id.loc.gov/authorities/names/nr91043812</meta>
+<meta property="se:role" refines="#writer-of-afterword" scheme="marc:relators">aft</meta>
+contributor-wolves-of-god
+Wilfred Wilson 
+Wilfrid Wilson Gibson
+https://en.wikipedia.org/wiki/Wilfrid_Wilson_Gibson
+https://id.loc.gov/authorities/names/n82067335.html
+
+
+
+
+
+
+ALSO:
+F-Fiction
+N-Non-Fiction
+C-Children's
+💗-Romance
+
+Also, US vs UK English, in different places!
+
+Images; gallery.
+https://archive.org/details/sim_illustrated-london-news_1925-07-25_167_4501/page/n31/mode/2up?q=%22Algernon+Blackwood%22
+https://archive.org/details/sim_pall-mall-magazine_1914-05_51_253/page/576/mode/2up?q=%22Algernon+Blackwood%22
+https://archive.org/details/sim_bookman-a-review-of-books-and-life_1914-04_39_2/page/122/mode/2up?q=%22Algernon+Blackwood%22
