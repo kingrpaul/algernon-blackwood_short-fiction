@@ -252,6 +252,9 @@
  == after-the-war
  == think-victory
 
+
+ from-the-swiss-lakes
+
 *** not ready to add ***
 the-lock-of-grey-hair
 
@@ -259,13 +262,17 @@ the-lock-of-grey-hair
 mr-cupboard
 chemical
 
-src/epub/text/think-victory.xhtml
-
 
 "From the Swiss Lakes" is missing
+This was lost from the repo, when it got corrupted, but I have the file.
+
+
 "The South Wind" appears to be duplicated on the project page
-    (1910 and 1914)
+    (1910 and 1914) -- Fix It!
+
+
 Add subtitle to "The Wings of Horus"
+   Yes!
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
