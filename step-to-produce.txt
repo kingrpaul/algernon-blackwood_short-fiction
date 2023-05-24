@@ -22,17 +22,13 @@
 "<section>→<article>"
 "<body> epub type as fiction, non-fiction or verse"
 "set article epub type, all"
-
+"[Editorial] its→it’s in jimbos-longest-day"
+"Innocent_Spinrobin→innocent_Spinrobin in the-face-of-the-earth"
 
 **** s’s
 **** worth while ; for ever  ; none the less  ; in so far  ; any one; on to; who ever ; country side
-**** everywhere: <span epub:type="z3998:roman">X</span> where it is not Latin
 **** verify the spine sequence
-**** editorial apostrophe in jimbo <p>“And is getting ready,” I added, “for its coming.”</p>
 **** djin -> djinn
-**** traveling-light? US Enlish?
-**** Many of the quotes have gotten jumbled up by UK->US? search for “ ‘
-**** Innocent Spinrobin a queer sense -> innocent Spinrobin a queer sense
 
  == a-haunted-island
  == a-suspicious-gift
@@ -267,6 +263,9 @@ src/epub/text/think-victory.xhtml
 
 
 "From the Swiss Lakes" is missing
+"The South Wind" appears to be duplicated on the project page
+    (1910 and 1914)
+Add subtitle to "The Wings of Horus"
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
@@ -402,72 +401,21 @@ Chemical, The Ghost Book (ed. Cynthia Asquith) xx/xx/1926
 
 
 
-<dc:contributor id="writer-of-afterword">Arthur Hoffman</dc:contributor>
-<meta property="file-as" refines="#writer-of-afterword">Hoffman, Arthur</meta>
-<meta property="display-seq">0</meta>
-<meta property="se:name.person.full-name" refines="#writer-of-afterword">Arthur Sullivant Hoffman</meta>
-<meta property="se:url.encyclopedia.wikipedia" refines="#writer-of-afterword">https://en.wikipedia.org/wiki/Arthur_Sullivant_Hoffman</meta>
-<meta property="se:url.authority.nacoaf" refines="#writer-of-afterword">http://id.loc.gov/authorities/names/nr91043812</meta>
-<meta property="se:role" refines="#writer-of-afterword" scheme="marc:relators">aft</meta>
-writer-of-epigraph
-Maude M. C. Ffoulkes
-Maude Mary Chester Ffoulkes
-https://en.wikipedia.org/wiki/Maude_M_C_Ffoulkes
-https://id.loc.gov/authorities/names/n2009019001.html
-
-
-<dc:contributor id="writer-of-afterword">Arthur Hoffman</dc:contributor>
-<meta property="file-as" refines="#writer-of-afterword">Hoffman, Arthur</meta>
-<meta property="display-seq">0</meta>
-<meta property="se:name.person.full-name" refines="#writer-of-afterword">Arthur Sullivant Hoffman</meta>
-<meta property="se:url.encyclopedia.wikipedia" refines="#writer-of-afterword">https://en.wikipedia.org/wiki/Arthur_Sullivant_Hoffman</meta>
-<meta property="se:url.authority.nacoaf" refines="#writer-of-afterword">http://id.loc.gov/authorities/names/nr91043812</meta>
-<meta property="se:role" refines="#writer-of-afterword" scheme="marc:relators">aft</meta>
-writer-of-forward
-<b>Anonymous</b>
-https://en.wikipedia.org/wiki/Current_Literature
-https://catalog.loc.gov/vwebv/holdingsInfo?searchId=16381&recCount=25&recPointer=31&bibId=11136473
-
-
-<dc:contributor id="writer-of-afterword">Arthur Hoffman</dc:contributor>
-<meta property="file-as" refines="#writer-of-afterword">Hoffman, Arthur</meta>
-<meta property="display-seq">0</meta>
-<meta property="se:name.person.full-name" refines="#writer-of-afterword">Arthur Sullivant Hoffman</meta>
-<meta property="se:url.encyclopedia.wikipedia" refines="#writer-of-afterword">https://en.wikipedia.org/wiki/Arthur_Sullivant_Hoffman</meta>
-<meta property="se:url.authority.nacoaf" refines="#writer-of-afterword">http://id.loc.gov/authorities/names/nr91043812</meta>
-<meta property="se:role" refines="#writer-of-afterword" scheme="marc:relators">aft</meta>
-contributor-karma
-Violet Pearn
-Violet Alice Pearn
-https://en.wikipedia.org/wiki/Violet_Pearn
-https://id.loc.gov/authorities/names/nr96038292.html
-
-
-<dc:contributor id="writer-of-afterword">Arthur Hoffman</dc:contributor>
-<meta property="file-as" refines="#writer-of-afterword">Hoffman, Arthur</meta>
-<meta property="display-seq">0</meta>
-<meta property="se:name.person.full-name" refines="#writer-of-afterword">Arthur Sullivant Hoffman</meta>
-<meta property="se:url.encyclopedia.wikipedia" refines="#writer-of-afterword">https://en.wikipedia.org/wiki/Arthur_Sullivant_Hoffman</meta>
-<meta property="se:url.authority.nacoaf" refines="#writer-of-afterword">http://id.loc.gov/authorities/names/nr91043812</meta>
-<meta property="se:role" refines="#writer-of-afterword" scheme="marc:relators">aft</meta>
-contributor-wolves-of-god
-Wilfred Wilson 
-Wilfrid Wilson Gibson
-https://en.wikipedia.org/wiki/Wilfrid_Wilson_Gibson
-https://id.loc.gov/authorities/names/n82067335.html
-
-
-
-
 
 
 ALSO:
 F-Fiction
 N-Non-Fiction
-C-Children's
+C-Children's 🧒
 💗-Romance
 
-Also, US vs UK English, in different places!
+🇺🇸⁠🗣️
+
+🇨🇦🍁
+🇩🇪🥨
+🇪🇬
+🎵🎧📖 📒
+
 
 Images; gallery.
 https://archive.org/details/sim_illustrated-london-news_1925-07-25_167_4501/page/n31/mode/2up?q=%22Algernon+Blackwood%22
