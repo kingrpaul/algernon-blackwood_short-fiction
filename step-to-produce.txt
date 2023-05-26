@@ -30,230 +30,8 @@
 **** verify the spine sequence
 **** djin -> djinn
 
- == a-haunted-island
- == a-suspicious-gift
- == a-case-of-eavesdropping
- == keeping-his-promise
- == skeleton-lake-an-episode-in-camp
- == smith-an-episode-in-a-lodging-house
- == the-empty-house
- == the-strange-adventures-of-a-private-secretary-in-new-york
- == the-wood-of-the-dead
- == with-intent-to-steal
- == the-wendigo
- == the-willows
- == a-bit-of-wood
- == the-man-whom-the-trees-loved
- == wayfarers
- == the-tradition
- == h-s-h
- == transition
- == the-tryst
- == the-touch-of-pan
- == an-egyptian-hornet
- == the-story-of-karl-ott
- == down-the-danube-in-a-canadian-canoe
- == a-desert-episode
- == a-victim-of-higher-space
- == by-water
- == the-house-of-the-past
- == the-occupant-of-the-room
- == summering-in-canadian-backwoods
- == the-olive
- == cains-atonement
- == sleep-and-how-to-do-without-it
- == my-adventure-with-a-lion
- == the-other-wing
- == the-wings-of-horus
- == pines
- == the-messenger
- == the-dance-of-death
- == engine
- == the-damned
- == the-old-man-of-visions
- == sand
- == the-impulse
- == ancient-sorceries
- == you-may-telephone-from-here
- == max-hensig
- == monsieur-joseph-of-the-ski
- == clairvoyance
- == the-egyptian-desert-from-helouan
- == violence
- == may-day-eve
- == miss-slumbubble-and-claustrophobia
- == ancient-lights
- == vengeance-is-mine
- == the-wolves-of-god
- == switzerland-in-wartime
- == the-insanity-of-jones
- == a-psychical-invasion
- == let-not-the-sun
- == s-o-s
- == the-call
- == accessory-before-the-fact
- == carltons-drive
- == the-goblins-collection
- == the-attic
- == the-empty-sleeve
- == confession
- == the-womans-ghost-story
- == chinese-magic
- == full-circle
- == dream-trespass
- == entrance-and-exit
- == first-hate
- == if-the-cap-fits
- == the-sea-fit
- == running-wolf
- == secret-worship
- == the-decoy
- == the-camp-of-the-dog
- == the-deferred-appointment
- == on-wings
- == the-transfer
- == the-prayer
- == two-in-one
- == the-story-mr-popkiss-told
- == the-golden-fly
- == the-invitation
- == the-little-beggar
- == the-whisperers
- == the-man-who-played-upon-the-leaf
- == the-nemesis-of-fire
- == wireless-confusion
- == the-kit-bag
- == the-man-who-was-milligan
- == news-v-nourishment
- == the-temptation-of-the-clay
- == picking-fir-cones
- == egyptian-sorcery
- == special-delivery
- == the-strange-experience-of-the-rev-phillip-ambleside
- == the-tarn-of-sacrifice
- == a-mysterious-house
- == the-lost-valley
- == the-star
- == questions-and-answers
- == if-i-were-you
- == the-lane-that-ran-east-and-west
- == the-soul-of-galahad
- == a-descent-into-egypt
- == faith-cure-on-the-channel
- == in-the-jura-neuchatel
- == memories-of-the-black-forest
- == about-the-moravians
- == the-laying-of-a-red-haired-ghost
- == the-man-who-found-out
- == spring-in-switzerland
- == the-memory-of-beauty
- == the-listener
- == lost-in-the-alps
- == the-regeneration-of-lord-ernie
- == how-garnier-broke-the-log-jam
- == explorers-ghost-stories
- == the-trod
- == the-terror-of-the-twins
- == old-clothes
- == onanonanon
- == the-price-of-wigginss-orgy
- == testing-his-courage
- == christmas-in-england
- == the-glamour-of-the-snow
- == jack-of-the-inkpot
- == the-south-wind
- == strange-disappearance-of-a-baronet
- == the-second-generation
- == the-destruction-of-smith
- == her-birthday
- == a-barmecide-feast
- == the-valley-of-the-beasts
- == about-moose-and-moose-hunting
- == the-heath-fire
- == the-sacrifice
- == the-kiss-of-a-psychologist
- == the-eccentricity-of-simon-parnacute
- == the-return
- == the-garden-of-survival
- == imagination
- == the-secret
- == the-soldiers-visitor
- == the-exiled-gods
- == the-winter-alps
- == jimbos-longest-day
- == wind
- == the-miracle
- == the-lease
- == up-and-down
- == tongues-of-fire
- == the-pikestaffe-case
- == the-doll
- == animal-life-in-the-egyptian-desert
- == an-arab-pilgrimage
- == discovering-russia-on-foot
- == spring-and-the-mountaineer
- == the-man-from-the-gods
- == the-last-egg-in-the-nest
- == mrs-gurneys-poems
- == the-israelites-track-from-red-sea-to-mount-sinai
- == a-voice-in-the-wilderness
- == the-farmhouse-on-the-hill
- == at-school-in-the-black-forest
- == in-hungary-with-tent-and-canoe
- == the-other-woman
- == the-kingdom-of-the-heavens
- == the-falling-glass
- == a-holiday-down-the-danube-with-punt-and-tent
- == from-the-swiss-lakes
- == the-world-dream-of-mccallister
- == the-country-life-anthology-of-verse
- == failure-of-the-swiss-winter-season
- == clouds-and-mountains
- == tobys-birthday-presents
- == my-old-tunes
- == traveling-light
- == switzerland
- == a-continuous-performance
- == to-the-children
- == the-unconquerable-charm-of-sussex
- == our-adventure-with-the-danube-river-police
- == sambo-and-snitch
- == before-the-season
- == learning-to-ski
- == with-the-russian-pilgrims-to-jerusalem
- == the-night-wind
- == value
- == egypt
- == algonquin-songs-and-legends
- == malahide-and-forden
-  == the-spell-of-egypt
- == the-boy-messenger
- == the-daisy-world
- == arolla-and-its-climbs
- == the-blue-eyes-fairy
- == alexander-alexander
- == the-water-performance
- == a-man-of-earth
- == the-face-of-the-earth
- == the-vanishing-redskins
- == the-laughter-of-courage
- == the-open-window
- == playing-catch
- == petershin-and-mr-snide
- == nephele
- == a-spiritualist-camp-in-new-england
- == karma
- == (epigraph)
- == (foreword) 
- == (halftitlepage)
- == (afterword)
- == spread-of-the-national-anthem
- == the-permanent-reality
- == after-the-war
- == think-victory
 
-
- from-the-swiss-lakes
+from-the-swiss-lakes
 
 *** not ready to add ***
 the-lock-of-grey-hair
@@ -262,17 +40,7 @@ the-lock-of-grey-hair
 mr-cupboard
 chemical
 
-
-"From the Swiss Lakes" is missing
-This was lost from the repo, when it got corrupted, but I have the file.
-
-
-"The South Wind" appears to be duplicated on the project page
-    (1910 and 1914) -- Fix It!
-
-
-Add subtitle to "The Wings of Horus"
-   Yes!
+src/epub/text/from-the-swiss-lakes.xhtml
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
@@ -284,7 +52,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit think-victory"
+git commit -m "Initial commit from-the-swiss-lakes"
 
 === COMMIT 2 ===
 se clean .
@@ -404,25 +172,6 @@ The Water Performance, Sails of Gold (ed. Cynthia Asquith) xx/xx/1927
 
 INTERLIBRARY - FAILED
 Chemical, The Ghost Book (ed. Cynthia Asquith) xx/xx/1926
-
-
-
-
-
-
-ALSO:
-F-Fiction
-N-Non-Fiction
-C-Children's 🧒
-💗-Romance
-
-🇺🇸⁠🗣️
-
-🇨🇦🍁
-🇩🇪🥨
-🇪🇬
-🎵🎧📖 📒
-
 
 Images; gallery.
 https://archive.org/details/sim_illustrated-london-news_1925-07-25_167_4501/page/n31/mode/2up?q=%22Algernon+Blackwood%22
