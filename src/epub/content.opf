@@ -234,6 +234,7 @@
 		<item href="text/faith-cure-on-the-channel.xhtml" id="faith-cure-on-the-channel.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/first-hate.xhtml" id="first-hate.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/foreword.xhtml" id="foreword.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/from-the-swiss-lakes.xhtml" id="from-the-swiss-lakes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/full-circle.xhtml" id="full-circle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/h-s-h.xhtml" id="h-s-h.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
@@ -472,6 +473,7 @@
 		<itemref idref="the-face-of-the-earth.xhtml"/>
 		<itemref idref="the-laying-of-a-red-haired-ghost.xhtml"/>
 		<itemref idref="you-may-telephone-from-here.xhtml"/>
+		<itemref idref="from-the-swiss-lakes.xhtml"/>
 		<itemref idref="if-the-cap-fits.xhtml"/>
 		<itemref idref="imagination.xhtml"/>
 		<itemref idref="in-a-strange-land.xhtml"/>
