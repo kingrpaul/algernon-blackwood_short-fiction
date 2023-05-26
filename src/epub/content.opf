@@ -114,23 +114,60 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Th%C3%A9odore_Rousseau</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n88606756</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">Suzanne Shell</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<dc:contributor id="transcriber-1">Annika Feilbach</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Feilbach, Annika</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">Beginners Projects</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<dc:contributor id="transcriber-2">Dave Morgan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Morgan, Dave</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Dave Morgan</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">TRANSCRIBER_SORT</meta>
+		<dc:contributor id="transcriber-3">David Cortesi</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Cortesi, David</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-4">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreading Team, The</meta>
-		<meta property="se:url.homepage" refines="#transcriber-4">https://pgdp.net</meta>
+		<dc:contributor id="transcriber-4">David Edwards</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Edwards, David</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-5">David Moynihan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Moynihan, David</meta>
+		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-6">David Newman</dc:contributor>
+		<meta property="file-as" refines="#transcriber-6">Newman, David</meta>
+		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-7">David Starner</dc:contributor>
+		<meta property="file-as" refines="#transcriber-7">Starner, David</meta>
+		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-8">Geetu Melwani</dc:contributor>
+		<meta property="file-as" refines="#transcriber-8">Melwani, Geetu</meta>
+		<meta property="role" refines="#transcriber-8" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-9">Harry Jones</dc:contributor>
+		<meta property="file-as" refines="#transcriber-9">Jones, Harry</meta>
+		<meta property="role" refines="#transcriber-9" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-10">Karina Aleksandrova</dc:contributor>
+		<meta property="file-as" refines="#transcriber-10">Aleksandrova, Karina</meta>
+		<meta property="role" refines="#transcriber-10" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-11">Michael Ciesielski</dc:contributor>
+		<meta property="file-as" refines="#transcriber-11">Ciesielski, Michael</meta>
+		<meta property="role" refines="#transcriber-11" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-12">Robert Cicconetti</dc:contributor>
+		<meta property="file-as" refines="#transcriber-12">Cicconetti, Robert</meta>
+		<meta property="role" refines="#transcriber-12" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-13">Stan Goodman</dc:contributor>
+		<meta property="file-as" refines="#transcriber-13">Goodman, Stan</meta>
+		<meta property="role" refines="#transcriber-13" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-14">Suzanne Shell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-14">Shell, Suzanne</meta>
+		<meta property="role" refines="#transcriber-14" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-15">Tonya Allen</dc:contributor>
+		<meta property="file-as" refines="#transcriber-15">Allen, Tonya</meta>
+		<meta property="role" refines="#transcriber-15" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-16">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-16">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-16">https://pgdp.net</meta>
+		<meta property="role" refines="#transcriber-16" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Paul King</dc:contributor>
 		<meta property="file-as" refines="#producer-1">King, Paul</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://kingrpaul.github.io/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
