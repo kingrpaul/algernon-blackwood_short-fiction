@@ -30,17 +30,12 @@
 **** verify the spine sequence
 **** djin -> djinn
 
-
-from-the-swiss-lakes
-
 *** not ready to add ***
 the-lock-of-grey-hair
 
 *** seeking book ***
 mr-cupboard
 chemical
-
-src/epub/text/from-the-swiss-lakes.xhtml
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
@@ -177,3 +172,6 @@ Images; gallery.
 https://archive.org/details/sim_illustrated-london-news_1925-07-25_167_4501/page/n31/mode/2up?q=%22Algernon+Blackwood%22
 https://archive.org/details/sim_pall-mall-magazine_1914-05_51_253/page/576/mode/2up?q=%22Algernon+Blackwood%22
 https://archive.org/details/sim_bookman-a-review-of-books-and-life_1914-04_39_2/page/122/mode/2up?q=%22Algernon+Blackwood%22
+https://brombonesbooks.files.wordpress.com/2018/04/jim-shorthouse1.png
+
+BAD LINK ON "GALLERY" BUTTON
