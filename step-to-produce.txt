@@ -27,15 +27,53 @@
 
 **** s’s
 **** worth while ; for ever  ; none the less  ; in so far  ; any one; on to; who ever ; country side
-**** verify the spine sequence
 **** djin -> djinn
+     agarophobia  -> agoraphobia
+     editorial asearch a-search
+               befel -> befell
+               wistaria -> wisteria
+               brüder -> bruder
+               caravanseries -> caravansarais
+               centimétres -> centimetres
+               châlet(s) -> chalet(s)
+               clientéle -> clientele
+               cote -> côte
+               crêpe -> crepe
+               csardas, csárdás  -> czardas
+               début -> debut
+               dejeuner -> déjeuner
+               ridgéd -> ridged
+               Beyrout -> Beirut
+               defense -> defence
+               (Engelhardzell, Engelhartzell) -> Engelhartszell
+               generalization -> generalisation
+               gypsy -> gipsy (all forms)
+               jerbil(s) -> gerbil
+               kobbold -> kobold
+               Lobatchewski -> Lobatchewsky
+               Lybia -> Libia
+               mittagsessen -> mittagessen
+               neuchatel -> neuchâtel
+               pokey -> poky
+               primaeval -> primeval
+               (sakkara, sakkhâra) -> sakkara
+               (strassbourg, strassburg) -> strasbourg
+               strassbourger -> strasbourger
+               sur -> sûr
+               theater -> theatre
 
-*** not ready to add ***
-the-lock-of-grey-hair
+
+CHECK THE SUBTITLES ...
 
 *** seeking book ***
 mr-cupboard
-chemical
+
+
+
+
+
+src/epub/text/malahide-and-forden.xhtml
+
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
@@ -47,7 +85,7 @@ se split-file src/epub/text/body.xhtml
 * Remove anchor tags: <span class="pagenum">.+</span>     <a.[^<]+</a>
 * Fix <hr> tags: <hr
 git add -A
-git commit -m "Initial commit from-the-swiss-lakes"
+git commit -m "Initial commit"
 
 === COMMIT 2 ===
 se clean .
@@ -141,7 +179,7 @@ Quoted Statement: “[^”]+”
 ---
 Quotes: ‘ … ’  “ — ”
 -     hyphen  (partially-obscured years where only the last number is obscured) 
-‑     non-breaking hyphen (UNTYPOGRIFY, single letter obscured in a word)
+‑     non-breaking hyphen (UNTYPOGRIFY, single letter obscured in a word, word stretched out)
 
 ⁠—⁠ em dash (parenthetical phrases, partially-obscured words, totally-obscured days of the month)
 ⸺  2em dash (partially obscured words)
@@ -174,4 +212,71 @@ https://archive.org/details/sim_pall-mall-magazine_1914-05_51_253/page/576/mode/
 https://archive.org/details/sim_bookman-a-review-of-books-and-life_1914-04_39_2/page/122/mode/2up?q=%22Algernon+Blackwood%22
 https://brombonesbooks.files.wordpress.com/2018/04/jim-shorthouse1.png
 
-BAD LINK ON "GALLERY" BUTTON
+
+
+
+
+
+
+
+
+(([Ss])ome one)|(([Aa])ny one)|(([Ee])very one)|(([Aa])ny way)|(([Ww])ith out)
+
+
+mass→Mass
+Government→government 
+canoeers→canoers 
+Obermarchsthal→Obermarchtal 
+Wiener_Wald→Wienerwald 
+gipsy→gypsy 
+to_morrow→tomorrow 
+half_way→halfway 
+well_nigh→well-nigh
+dahabiyeh→dahabeah 
+Love→love
+Pole_star→polestar 
+Crows_Nest → Crow’s_Nest 
+Government→government 
+quintette → quintet
+carbon-dioxide→carbon_dioxide 
+Tamas→tamas 
+Rajas→rajas 
+Sattua→sattva 
+none_the_less→nonetheless 
+Mummery→mummery 
+some_day→someday 
+worth_while→worthwhile"
+80deg→80-deg 
+millimétres→millimetres
+none-the-less→nonetheless 
+Salamander→salamander 
+hell_fire→hellfire 
+any_more→anymore 
+any_time→anytime 
+on_to→onto"
+peace_time→peacetime 
+half_way→halfway
+for_ever→forever"
+laisser_aller→laissez-aller"
+for_ever→forever"
+ski-d→skied"
+lunchen→luncheon
+capitalize negro, hindu, arab
+patchs→patches
+
+
+**** 
+worth while 
+for ever  
+none the less  
+in so far  
+any one
+on to 
+who ever 
+country side
+****
+**** s’s
+**** djin -> djinn
+
+
+
