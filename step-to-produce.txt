@@ -1,79 +1,74 @@
-"[Editorial] Correct mismatched dashes re-crossed→recrossed, smith-an-episode-in-a-lodging-house"
-"[Editorial] Correct mismatched dashes spring-tide→springtide, the-man-whom-the-trees-loved"
-"[Editorial] mass→Mass, Government→government canoeers→canoers Obermarchsthal→Obermarchtal Wiener_Wald→Wienerwald gipsy→gypsy to_morrow→tomorrow half_way→halfway well_nigh→well-nigh; down-the-danube-in-a-canadian-canoe"
-"[Editorial] dahabiyeh→dahabeah Love→love; a-desert-episode"
-"[Editorial] Pole_star→polestar Crows_Nest → Crow’s_Nest Government→government quintette → quintet"
-"[Editorial] modernize sleep-and-how-to-do-without-it carbon-dioxide→carbon_dioxide Tamas→tamas Rajas→rajas Sattua→sattva none_the_less→nonetheless Mummery→mummery some_day→someday worth_while→worthwhile"
-"[Editorial] modernize 80deg→80-deg millimétres→millimetres; the-egyptian-desert-from-helouan"
-"[Editorial] modernize none-the-less→nonetheless Salamander→salamander hell_fire→hellfire any_more→anymore any_time→anytime on_to→onto"
-"[Editorial] modernize peace_time→peacetime half_way→halfway"
-"[Editorial] modernize for_ever→forever"
-"[Editorial] modernize laisser_aller→laissez-aller"
-"[Editorial] modernize for_ever→forever"
-"[Editorial] modernize ski-d→skied"
-"The_Barmecide_Feast→A_Barmecide_Feast"
-"ligature → ae, everywhere"
-"gods → goods, apparent error in original document"
-"[Editorial] lunchen→luncheon, the-pikestaffe-case"
-"[Editorial] freshness in the air a sharpness→freshness in the air⁠—a sharpness, the-pikestaffe-case"
+"[Editorial] Correct mismatched dashes re-crossed → recrossed, smith-an-episode-in-a-lodging-house"
+"[Editorial] Correct mismatched dashes spring-tide → springtide, the-man-whom-the-trees-loved"
+"[Editorial] mass → Mass, Government → government canoeers → canoers Obermarchsthal → Obermarchtal Wiener_Wald → Wienerwald gipsy → gypsy to_morrow → tomorrow half_way → halfway well_nigh → well-nigh; down-the-danube-in-a-canadian-canoe"
+"[Editorial] dahabiyeh → dahabeah Love → love; a-desert-episode"
+"[Editorial] Pole_star → polestar Crows_Nest  →  Crow’s_Nest Government → government quintette  →  quintet"
+"[Editorial] modernize sleep-and-how-to-do-without-it carbon-dioxide → carbon_dioxide Tamas → tamas Rajas → rajas Sattua → sattva none_the_less → nonetheless Mummery → mummery some_day → someday worth_while → worthwhile"
+"[Editorial] modernize 80deg → 80-deg millimétres → millimetres; the-egyptian-desert-from-helouan"
+"[Editorial] modernize none-the-less → nonetheless Salamander → salamander hell_fire → hellfire any_more → anymore any_time → anytime on_to → onto"
+"[Editorial] modernize peace_time → peacetime half_way → halfway"
+"[Editorial] modernize for_ever → forever"
+"[Editorial] modernize laisser_aller → laissez-aller"
+"[Editorial] modernize for_ever → forever"
+"[Editorial] modernize ski-d → skied"
+"The_Barmecide_Feast → A_Barmecide_Feast"
+"ligature  →  ae, everywhere"
+"gods  →  goods, apparent error in original document"
+"[Editorial] lunchen → luncheon, the-pikestaffe-case"
+"[Editorial] freshness in the air a sharpness → freshness in the air⁠—a sharpness, the-pikestaffe-case"
 "[Editorial] capitalize negro, hindu, arab; the-doll"
-"patchs→patches"
-"otgether→together"
-"<section>→<article>"
+"patchs → patches"
+"otgether → together"
+"<section> → <article>"
 "<body> epub type as fiction, non-fiction or verse"
 "set article epub type, all"
-"[Editorial] its→it’s in jimbos-longest-day"
-"Innocent_Spinrobin→innocent_Spinrobin in the-face-of-the-earth"
+"[Editorial] its → it’s in jimbos-longest-day"
+"Innocent_Spinrobin → innocent_Spinrobin in the-face-of-the-earth"
 
 **** s’s
-**** worth while ; for ever  ; none the less  ; in so far  ; any one; on to; who ever ; country side
-**** djin -> djinn
-     agarophobia  -> agoraphobia
-     editorial asearch a-search
-               befel -> befell
-               wistaria -> wisteria
-               brüder -> bruder
-               caravanseries -> caravansarais
-               centimétres -> centimetres
-               châlet(s) -> chalet(s)
-               clientéle -> clientele
-               cote -> côte
-               crêpe -> crepe
-               csardas, csárdás  -> czardas
-               début -> debut
-               dejeuner -> déjeuner
-               ridgéd -> ridged
-               Beyrout -> Beirut
-               defense -> defence
-               (Engelhardzell, Engelhartzell) -> Engelhartszell
-               generalization -> generalisation
-               gypsy -> gipsy (all forms)
-               jerbil(s) -> gerbil
-               kobbold -> kobold
-               Lobatchewski -> Lobatchewsky
-               Lybia -> Libia
-               mittagsessen -> mittagessen
-               neuchatel -> neuchâtel
-               pokey -> poky
-               primaeval -> primeval
-               (sakkara, sakkhâra) -> sakkara
-               (strassbourg, strassburg) -> strasbourg
-               strassbourger -> strasbourger
-               sur -> sûr
-               theater -> theatre
+
+**** editorial ****
+    djin → djinn
+    agarophobia → agoraphobia
+    asearch → a-search
+    befel → befell
+    wistaria → wisteria
+    brüder → bruder
+    caravanseries → caravansarais
+    centimétres → centimetres
+    châlet(s) → chalet(s)
+    clientéle → clientele
+    cote → côte
+    crêpe → crepe
+    csardas, csárdás  → czardas
+    début → debut
+    dejeuner → déjeuner
+    ridgéd → ridged
+    Beyrout → Beirut
+    defense → defence
+    (Engelhardzell, Engelhartzell) → Engelhartszell
+    generalization → generalisation
+    gypsy → gipsy
+    jerbil(s) → gerbil
+    kobbold → kobold
+    Lobatchewski → Lobatchewsky
+    Lybia → Libia
+    mittagsessen → mittagessen
+    Neuchatel → Neuchâtel
+    pokey → poky
+    primaeval → primeval
+    (sakkara, sakkhâra) → sakkara
+    (strassbourg, strassburg) → strasbourg
+    strassbourger → strasbourger
+    sur → sûr
+    theater → theatre
+    (Wurtemberg, Würtemburg, Württemberg) → Würtemberg
 
 
 CHECK THE SUBTITLES ...
 
 *** seeking book ***
 mr-cupboard
-
-
-
-
-
-src/epub/text/malahide-and-forden.xhtml
-
 ────────────────────────────────────── 
 
 === COMMIT 1 ===
@@ -89,7 +84,7 @@ git commit -m "Initial commit"
 
 === COMMIT 2 ===
 se clean .
-* Convert en-US -> en-GB
+* Convert en-US → en-GB
 git add -A
 git commit -m "Split files and clean"
 
@@ -223,46 +218,46 @@ https://brombonesbooks.files.wordpress.com/2018/04/jim-shorthouse1.png
 (([Ss])ome one)|(([Aa])ny one)|(([Ee])very one)|(([Aa])ny way)|(([Ww])ith out)
 
 
-mass→Mass
-Government→government 
-canoeers→canoers 
-Obermarchsthal→Obermarchtal 
-Wiener_Wald→Wienerwald 
-gipsy→gypsy 
-to_morrow→tomorrow 
-half_way→halfway 
-well_nigh→well-nigh
-dahabiyeh→dahabeah 
-Love→love
-Pole_star→polestar 
-Crows_Nest → Crow’s_Nest 
-Government→government 
-quintette → quintet
-carbon-dioxide→carbon_dioxide 
-Tamas→tamas 
-Rajas→rajas 
-Sattua→sattva 
-none_the_less→nonetheless 
-Mummery→mummery 
-some_day→someday 
-worth_while→worthwhile"
-80deg→80-deg 
-millimétres→millimetres
-none-the-less→nonetheless 
-Salamander→salamander 
-hell_fire→hellfire 
-any_more→anymore 
-any_time→anytime 
-on_to→onto"
-peace_time→peacetime 
-half_way→halfway
-for_ever→forever"
-laisser_aller→laissez-aller"
-for_ever→forever"
-ski-d→skied"
-lunchen→luncheon
+mass → Mass
+Government → government 
+canoeers → canoers 
+Obermarchsthal → Obermarchtal 
+Wiener_Wald → Wienerwald 
+gipsy → gypsy 
+to_morrow → tomorrow 
+half_way → halfway 
+well_nigh → well-nigh
+dahabiyeh → dahabeah 
+Love → love
+Pole_star → polestar 
+Crows_Nest  →  Crow’s_Nest 
+Government → government 
+quintette  →  quintet
+carbon-dioxide → carbon_dioxide 
+Tamas → tamas 
+Rajas → rajas 
+Sattua → sattva 
+none_the_less → nonetheless 
+Mummery → mummery 
+some_day → someday 
+worth_while → worthwhile"
+80deg → 80-deg 
+millimétres → millimetres
+none-the-less → nonetheless 
+Salamander → salamander 
+hell_fire → hellfire 
+any_more → anymore 
+any_time → anytime 
+on_to → onto"
+peace_time → peacetime 
+half_way → halfway
+for_ever → forever"
+laisser_aller → laissez-aller"
+for_ever → forever"
+ski-d → skied"
+lunchen → luncheon
 capitalize negro, hindu, arab
-patchs→patches
+patchs → patches
 
 
 **** 
@@ -276,7 +271,7 @@ who ever
 country side
 ****
 **** s’s
-**** djin -> djinn
+**** djin → djinn
 
 
 
