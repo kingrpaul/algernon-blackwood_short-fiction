@@ -63,7 +63,7 @@
 		<dc:source>https://books.google.com/</dc:source>
 		<dc:source>https://trove.nla.gov.au/</dc:source>
 		<dc:source>http://iapsop.com/</dc:source>
-		<meta property="se:production-notes">A number of these works were transcribed as part of production.</meta>
+		<meta property="se:production-notes">A number of the works were transcribed during production. Where the author uses unconventional capitazation with intent, this is retained.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Algernon_Blackwood</meta>
