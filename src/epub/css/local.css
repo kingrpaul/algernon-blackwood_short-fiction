@@ -374,11 +374,6 @@ section[epub|type~="epigraph"] > *{
 /* End full-page epigraphs */
 
 /* CUSTOM */
-[epub|type~="z3998:dramatis-personae"] ul header p{
-	font-size: 1.1em;
-	font-variant: small-caps;
-}
-
 #afterword > ol{
 	list-style-type: upper-roman;
 }
