@@ -90,13 +90,10 @@
 			<reason>stage instruction lower case as it forms part of the preceding sentence</reason>
 		</ignore>
 	</file>
-
 	<file path="the-vanishing-redskins.xhtml">
 		<ignore>
 			<code>s-015</code>
 			<reason>only one chapter has a subtitle, which disrupts the toc</reason>
 		</ignore>
 	</file>
-
-
 </se-lint-ignore>
